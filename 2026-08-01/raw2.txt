@@ -1,0 +1,104 @@
+n>
+          <section class="card quality"><h3>來源品質卡</h3><p>Reuters 引用公司財報與執行長發言。市場規模與收入均屬公司預測。</p></section>
+        </article>
+        
+        <article id="e3" class="article ">
+          <section class="card">
+            <div class="meta">
+              <span class="level">B2</span>
+              <span class="source">Reuters</span>
+              <span>2026-07-31</span>
+              <span>約 11 分鐘</span>
+            </div>
+            <h2>The U.S. Treasury signals possible support for the yen</h2>
+            <div class="muted">By David Lawder</div>
+            <p class="why"><b>選文理由：</b>理解美日協調、外匯干預與政策訊號。</p>
+            <a class="url" href="https://www.reuters.com/world/asia-pacific/us-treasury-informed-banks-that-it-may-intervene-yen-source-says-2026-07-31/" target="_blank" rel="noopener">原文 URL ↗</a>
+            <p class="note">以下為 AI 重寫學習文章，不是原文全文。</p>
+            <div class="langs">
+              <button class="active" data-lang="all">三語</button>
+              <button data-lang="en">English</button>
+              <button data-lang="zh">繁中</button>
+              <button data-lang="ja">日本語</button>
+            </div>
+          </section>
+          <section class="card"><h3>AI Learning Article</h3><div class='tri'><div class='lang en'><h4>EN</h4><p>The U.S. Treasury reportedly informed several banks that it might intervene in the yen market and asked them to remain ready.</p></div><div class='lang zh'><h4>繁中</h4><p>據報導，美國財政部通知多家銀行，可能介入日圓市場並要求做好準備。</p></div><div class='lang ja'><h4>日本語</h4><p>米財務省は複数の銀行に円市場介入の可能性を伝え、準備を求めたと報じられました。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>The exact method was unclear. A rate check can be interpreted as a warning that intervention may follow.</p></div><div class='lang zh'><h4>繁中</h4><p>具體方式不明。匯率詢價常被視為干預可能到來的警告。</p></div><div class='lang ja'><h4>日本語</h4><p>具体的手法は不明ですが、レートチェックは介入前の警告と受け止められます。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Direct U.S. support for the yen would be unusual. Even without a transaction, a credible threat can change traders’ risk calculations.</p></div><div class='lang zh'><h4>繁中</h4><p>美國直接支撐日圓並不常見。即使沒有交易，可信威脅也能改變交易者的風險計算。</p></div><div class='lang ja'><h4>日本語</h4><p>米国による円支援は異例で、実際の取引がなくても投機家のリスク計算を変えます。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Intervention cannot permanently determine the exchange rate if interest-rate differences point in the opposite direction.</p></div><div class='lang zh'><h4>繁中</h4><p>若利差方向相反，干預無法永久決定匯率。</p></div><div class='lang ja'><h4>日本語</h4><p>金利差が逆方向を示す場合、介入だけで為替を恒久的に決めることはできません。</p></div></div></section>
+          <section class="card"><h3>Vocabulary</h3>
+            <div class="scroll"><table>
+              <thead><tr><th>Word</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead>
+              <tbody><tr><td><b>capital expenditure</b><br><small>n.</small></td><td>資本支出</td><td>設備投資</td><td>AI capital expenditure</td></tr><tr><td><b>cash flow</b><br><small>n.</small></td><td>現金流</td><td>キャッシュフロー</td><td>generate cash flow</td></tr><tr><td><b>supply chain</b><br><small>n.</small></td><td>供應鏈</td><td>サプライチェーン</td><td>supply-chain disruption</td></tr><tr><td><b>policy signal</b><br><small>n.</small></td><td>政策訊號</td><td>政策シグナル</td><td>send a signal</td></tr><tr><td><b>market reaction</b><br><small>n.</small></td><td>市場反應</td><td>市場反応</td><td>trigger a reaction</td></tr><tr><td><b>risk premium</b><br><small>n.</small></td><td>風險溢價</td><td>リスクプレミアム</td><td>apply a premium</td></tr><tr><td><b>implementation</b><br><small>n.</small></td><td>導入執行</td><td>実装</td><td>implementation risk</td></tr><tr><td><b>outlook</b><br><small>n.</small></td><td>展望</td><td>見通し</td><td>company outlook</td></tr></tbody>
+            </table></div>
+          </section>
+          <section class="card"><h3>Phrases & Collocations</h3><div class="grid"><div class='mini'><b>prop up a currency</b><p>支撐貨幣／通貨を下支えする</p><small>Authorities may prop up the yen.</small></div><div class='mini'><b>stem a decline</b><p>阻止下跌／下落を食い止める</p><small>Intervention may stem the decline.</small></div><div class='mini'><b>stand ready</b><p>做好準備／準備態勢を取る</p><small>Banks were asked to stand ready.</small></div><div class='mini'><b>point in the opposite direction</b><p>指向相反方向／逆方向を示す</p><small>Rate differentials point in the opposite direction.</small></div></div></section>
+          <section class="card"><h3>Grammar & Structure</h3><details><summary>even without</summary><p>表示即使沒有正式交易，訊號仍可能有效。</p></details><details><summary>if ... point ...</summary><p>條件句說明政策工具的限制。</p></details></section>
+          <section class="card consult"><h3>Business / Consulting English</h3><ol><li>The signal may be effective even before any transaction occurs.</li><li>Intervention risk changes the cost-benefit calculation for speculative positions.</li><li>Currency operations cannot substitute for coherent macro policy.</li></ol></section>
+          <section class="card"><h3>理解與輸出</h3><details><summary>Why can a rate check move the market?</summary><p>Because traders interpret it as a warning of possible intervention.</p></details><details><summary>Why may intervention have only temporary effects?</summary><p>Because interest-rate differences may continue to weaken the yen.</p></details><details><summary>Output</summary><p>Explain the difference between signaling and actual intervention.</p></details></section>
+          <section class="card insight"><h3>內容解讀</h3><p>美日協調可增加投機者風險，但長期匯率仍取決於利率與財政政策。</p></section>
+          <section class="card quality"><h3>來源品質卡</h3><p>Reuters 引述知情人士及公開官員言論。是否實際交易仍未確認。</p></section>
+        </article>
+        
+        <article id="e4" class="article ">
+          <section class="card">
+            <div class="meta">
+              <span class="level">B2</span>
+              <span class="source">Reuters Morning Bid</span>
+              <span>2026-07-31</span>
+              <span>約 12 分鐘</span>
+            </div>
+            <h2>AI spending passes a trillion dollars</h2>
+            <div class="muted">By Reuters market team</div>
+            <p class="why"><b>選文理由：</b>把 AI 投資熱潮、資安風險與投資報酬放在同一框架。</p>
+            <a class="url" href="https://www.reuters.com/podcasts/reuters-morning-bid/ais-trillion-dollar-bet-2026-07-31/" target="_blank" rel="noopener">原文 URL ↗</a>
+            <p class="note">以下為 AI 重寫學習文章，不是原文全文。</p>
+            <div class="langs">
+              <button class="active" data-lang="all">三語</button>
+              <button data-lang="en">English</button>
+              <button data-lang="zh">繁中</button>
+              <button data-lang="ja">日本語</button>
+            </div>
+          </section>
+          <section class="card"><h3>AI Learning Article</h3><div class='tri'><div class='lang en'><h4>EN</h4><p>Major technology companies have collectively committed more than a trillion dollars to AI infrastructure, chips, models and data centers.</p></div><div class='lang zh'><h4>繁中</h4><p>大型科技公司投入 AI 基礎設施、晶片、模型與資料中心的資金合計已超過一兆美元。</p></div><div class='lang ja'><h4>日本語</h4><p>大手テック企業のAIインフラ、半導体、モデル、データセンター投資は合計1兆ドルを超えました。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Investors are now asking what revenue and productivity are required to justify the capital.</p></div><div class='lang zh'><h4>繁中</h4><p>投資人開始追問，需要多少收入與生產力才能合理化資本投入。</p></div><div class='lang ja'><h4>日本語</h4><p>投資家は巨額資本を正当化する収益と生産性を問い始めています。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Cybersecurity adds another layer of uncertainty. Advanced agents require access controls, monitoring, testing and human oversight.</p></div><div class='lang zh'><h4>繁中</h4><p>資安增加另一層不確定性。先進代理需要存取控制、監控、測試與人工監督。</p></div><div class='lang ja'><h4>日本語</h4><p>サイバーセキュリティも不確実性を高め、高度なエージェントにはアクセス制御、監視、検証、人間の監督が必要です。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>The most useful question is not whether AI will matter, but how quickly economic value will appear and who bears the cost if it arrives late.</p></div><div class='lang zh'><h4>繁中</h4><p>關鍵不是 AI 是否重要，而是價值何時出現，以及若延後由誰承擔成本。</p></div><div class='lang ja'><h4>日本語</h4><p>重要なのはAIの重要性ではなく、価値がいつ現れ、遅れた場合に誰がコストを負うかです。</p></div></div></section>
+          <section class="card"><h3>Vocabulary</h3>
+            <div class="scroll"><table>
+              <thead><tr><th>Word</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead>
+              <tbody><tr><td><b>capital expenditure</b><br><small>n.</small></td><td>資本支出</td><td>設備投資</td><td>AI capital expenditure</td></tr><tr><td><b>cash flow</b><br><small>n.</small></td><td>現金流</td><td>キャッシュフロー</td><td>generate cash flow</td></tr><tr><td><b>supply chain</b><br><small>n.</small></td><td>供應鏈</td><td>サプライチェーン</td><td>supply-chain disruption</td></tr><tr><td><b>policy signal</b><br><small>n.</small></td><td>政策訊號</td><td>政策シグナル</td><td>send a signal</td></tr><tr><td><b>market reaction</b><br><small>n.</small></td><td>市場反應</td><td>市場反応</td><td>trigger a reaction</td></tr><tr><td><b>risk premium</b><br><small>n.</small></td><td>風險溢價</td><td>リスクプレミアム</td><td>apply a premium</td></tr><tr><td><b>implementation</b><br><small>n.</small></td><td>導入執行</td><td>実装</td><td>implementation risk</td></tr><tr><td><b>outlook</b><br><small>n.</small></td><td>展望</td><td>見通し</td><td>company outlook</td></tr></tbody>
+            </table></div>
+          </section>
+          <section class="card"><h3>Phrases & Collocations</h3><div class="grid"><div class='mini'><b>justify the capital</b><p>證明資本投入合理／資本投入を正当化する</p><small>Revenue must justify the capital.</small></div><div class='mini'><b>bear the cost</b><p>承擔成本／コストを負担する</p><small>Investors may bear the cost.</small></div><div class='mini'><b>face a risk discount</b><p>面臨風險折價／リスク割引を受ける</p><small>Unclear monetization faces a risk discount.</small></div><div class='mini'><b>add another layer of risk</b><p>增加另一層風險／リスクを一層加える</p><small>Security adds another layer of risk.</small></div></div></section>
+          <section class="card"><h3>Grammar & Structure</h3><details><summary>not whether A, but how quickly B</summary><p>把討論從有無轉向速度與可衡量結果。</p></details><details><summary>if it arrives late</summary><p>條件句說明價值延遲的成本分配。</p></details></section>
+          <section class="card consult"><h3>Business / Consulting English</h3><ol><li>The market is becoming more selective rather than less interested in AI.</li><li>The investment case depends on adoption speed, utilization and governance.</li><li>We need both an upside productivity case and a downside overcapacity case.</li></ol></section>
+          <section class="card"><h3>理解與輸出</h3><details><summary>What is the market now asking?</summary><p>How quickly AI spending can generate revenue and productivity.</p></details><details><summary>Why is cybersecurity part of the investment case?</summary><p>Because security failures can delay deployment and increase costs.</p></details><details><summary>Output</summary><p>Write an upside and downside scenario for AI capex.</p></details></section>
+          <section class="card insight"><h3>內容解讀</h3><p>未來市場會更重視 ROI、利用率與治理，而非單純看資本支出規模。</p></section>
+          <section class="card quality"><h3>來源品質卡</h3><p>Reuters Morning Bid 為新聞分析型內容，適合抓市場敘事，但不是單一原始研究。</p></section>
+        </article>
+        
+        <article id="e5" class="article ">
+          <section class="card">
+            <div class="meta">
+              <span class="level">C1</span>
+              <span class="source">NIH</span>
+              <span>2026-07-31</span>
+              <span>約 15 分鐘</span>
+            </div>
+            <h2>A child’s language may predict depression and anxiety years before onset</h2>
+            <div class="muted">By NIH news release; Stanford-led study</div>
+            <p class="why"><b>選文理由：</b>結合 AI、語言分析、兒童精神醫學與預測模型限制。</p>
+            <a class="url" href="https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset" target="_blank" rel="noopener">原文 URL ↗</a>
+            <p class="note">以下為 AI 重寫學習文章，不是原文全文。</p>
+            <div class="langs">
+              <button class="active" data-lang="all">三語</button>
+              <button data-lang="en">English</button>
+              <button data-lang="zh">繁中</button>
+              <button data-lang="ja">日本語</button>
+            </div>
+          </section>
+          <section class="card"><h3>AI Learning Article</h3><div class='tri'><div class='lang en'><h4>EN</h4><p>An NIH-funded study suggests that the way children describe stressful experiences may help predict depression or anxiety years before symptoms appear.</p></div><div class='lang zh'><h4>繁中</h4><p>一項 NIH 資助研究指出，兒童描述壓力經驗的方式，可能協助預測多年後的憂鬱或焦慮。</p></div><div class='lang ja'><h4>日本語</h4><p>NIH支援研究は、子どもがストレス経験を語る方法が数年後のうつ病や不安障害の予測に役立つ可能性を示しました。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Researchers analyzed structured interviews with 204 children aged 9 to 13 and followed them for four or six years.</p></div><div class='lang zh'><h4>繁中</h4><p>研究分析 204 名 9 至 13 歲兒童的結構式訪談，並追蹤四年或六年。</p></div><div class='lang ja'><h4>日本語</h4><p>9～13歳の204人の構造化面接を分析し、4年または6年追跡しました。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Language may provide a dynamic signal of how a child interprets adversity, but prediction is not diagnosis.</p></div><div class='lang zh'><h4>繁中</h4><p>語言可能提供兒童如何解讀逆境的動態訊號，但預測不等於診斷。</p></div><div class='lang ja'><h4>日本語</h4><p>言語は逆境の解釈という動的シグナルを提供しますが、予測は診断ではありません。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>The model needs replication in more diverse populations, and implementation would require consent, privacy protection, bias testing and clear referral pathways.</p></div><div class='lang zh'><h4>繁中</h4><p>模型需要在更多元族群中重複驗證，導入還需要同意、隱私保護、偏誤測試與清楚轉介流程。</p></div><div class='lang ja'><h4>日本語</h4><p>多様な集団での再現、同意、プライバシー、バイアス検証、紹介経路が必要です。</p></div></div></section>
+          <section class="card"><h3>Vocabulary</h3>
+            <div class="scroll"><table>
+              <thead><tr><th>Word</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead>
+              <tbody><tr><td><b>capital expenditure</b><br><small>n.</small></td><td>資本支出</td><td>設備投資</td><td>AI capital expenditure</td></tr><tr><td><b>cash flow</b><br><small>n.</small></td><td>現金流</td><td>キャッシュフロー</td><td>generate cash flow</td></tr><tr><td><b>supply chain</b><br><small>n.</small></td><td>供應鏈</td><td>サプライチェーン</td><td>supply-chain disruption</td></tr><tr><td><b>policy signal</b><br><small>n.</small></td><td>政策訊號</td><td>政策シグナル</td><td>send a signal</td></tr><tr><td><b>market reaction</b><br><small>n.</small></td><td>市場反應</td><td>市場反応</td><td>trigger a reaction</td></tr><tr><td><b>risk premium</b><br><small>n.</small></td><td>風險溢價</td><td>リスクプレミアム</td><td>apply a premium</td></tr><tr><td><b>implementation</b><br><small>n.</small></td><td>導入執行</td><td>実装</td><td>implementation risk</td></tr><tr><td><b>outlook</b><br><small>n.</small></td><td>展望</td><td>見通し</td><td>company outlook</td></tr></tbody>
+            </table></div>
+          </section>
+          <section class="card"><h3>Phrases & Collocations</h3><div class="grid"><div class='mini'><b>predict years before onset</b><p>在發病前多年預測／発症の数年前に予測する</p><small>The model predicts risk years before onset.</small></div><div class='mini'><b>support rather than replace</b><p>支援而非取代／置き換えず支援する</p><small>The tool should support rather than replace clinicians.</small></div><div class='mini'><b>frame an event</b><p>框架事件／出来事を捉える</p><small>Children frame stressful events differently.</small></div><div class='mini'><b>treat predictions as certain</b><p>把預測當成確定結果／予測を確定結果として扱う</p><small>Do not treat predictions as certain.</small></div></div></section>
+          <section class="card"><h3>Grammar & Structure</h3><details><summary>may help predict</summary><p>may 降低確定性，help 後接原形。</p></details><details><summary>without + -ing</summary><p>說明模型能力的界線。</p></details><details><summary>rather than</summary><p>區分研究工具與臨床診斷。</p></details></section>
+          <section class="card consult"><h3>Business / Consulting English</h3>
