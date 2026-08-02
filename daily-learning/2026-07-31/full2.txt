@@ -1,0 +1,48 @@
+/span>Meta’s AI spending creates a difficult compute allocation problem</button><button class='nav-btn ' data-target='en5' data-group='en'><span>C1</span>A midlife shift in brain immune cells may offer clues about cognitive aging</button>
+      <div class="nav-title">日本語 3</div><button class='nav-btn active' data-target='jp1' data-group='jp'><span>N1+</span>骨太ショックと市場の信認</button><button class='nav-btn ' data-target='jp2' data-group='jp'><span>専門</span>AI投資100兆円時代：ゴールドラッシュかダークファイバーの再来か</button><button class='nav-btn ' data-target='jp3' data-group='jp'><span>N1+</span>発酵を食品から産業プラットフォームとして捉える</button>
+    </nav>
+    <main>
+      <section id="en-panel" class="panel active">
+        
+    <article id="en1" class="article active">
+      <section class="card article-title">
+        <div class="meta-row"><span class="level">A2</span><span class="source">Reuters</span><span>2026-07-30</span><span>約 7 分鐘</span></div>
+        <h2>Japan lowers its growth forecast as energy costs rise</h2>
+        <p class="byline">By Makiko Yamazaki</p>
+        <p class="why"><b>為什麼選這篇：</b>用簡單英文理解日本物價、薪資、消費與政府預測之間的關係。</p>
+        <a class="source-link" href="https://www.reuters.com/world/asia-pacific/japan-cuts-this-years-growth-outlook-higher-energy-costs-weigh-2026-07-30/" target="_blank" rel="noopener">閱讀原文 URL ↗</a>
+        <div class="label-note">以下為根據來源重寫的 AI learning article，不是原文全文。</div>
+        <div class="lang-controls">
+          <button class="lang-btn active" data-lang="all">三語</button>
+          <button class="lang-btn" data-lang="en">English</button>
+          <button class="lang-btn" data-lang="zh">繁中</button>
+          <button class="lang-btn" data-lang="ja">日本語</button>
+        </div>
+      </section>
+      <section class="card reading">
+        <h3>AI Learning Article</h3>
+        <div class='tri-para'><div class='lang en'><h4>EN</h4><p>Japan’s government expects the economy to grow more slowly in fiscal year 2026. It lowered its forecast for real GDP growth from 1.3% to 0.9%. One important reason is the rise in oil and energy prices. Japan imports much of its fuel, so higher global prices quickly affect electricity, transport, food production and many daily services.</p></div><div class='lang zh'><h4>繁中</h4><p>日本政府預期 2026 財年的經濟成長將放緩，將實質 GDP 成長預測由 1.3% 下修至 0.9%。重要原因之一是石油與能源價格上升。日本高度依賴進口燃料，因此全球價格很快會反映到電費、交通、食品生產和各種日常服務。</p></div><div class='lang ja'><h4>日本語</h4><p>日本政府は、2026年度の経済成長が鈍化すると見込み、実質GDP成長率の予測を1.3％から0.9％へ引き下げました。主な理由の一つは原油・エネルギー価格の上昇です。日本は燃料の多くを輸入しているため、世界価格の上昇が電気、交通、食品生産、日常サービスに波及しやすい構造です。</p></div></div><div class='tri-para'><div class='lang en'><h4>EN</h4><p>The government also reduced its forecast for private consumption and business investment. Families may spend less when electricity bills and food prices rise. Companies may delay investment when energy and transport costs reduce their profits. Consumer inflation is now expected to reach 2.2%, higher than the earlier estimate of 1.9%.</p></div><div class='lang zh'><h4>繁中</h4><p>政府也調降了民間消費與企業投資預測。當電費與食品價格上升時，家庭可能減少支出；當能源和物流成本侵蝕獲利時，企業可能延後投資。消費者物價漲幅目前預估為 2.2%，高於先前的 1.9%。</p></div><div class='lang ja'><h4>日本語</h4><p>政府は個人消費と設備投資の見通しも下方修正しました。電気代や食品価格が上がれば家計は支出を減らし、エネルギー・物流コストが利益を圧迫すれば企業は投資を先送りする可能性があります。消費者物価上昇率は従来の1.9％から2.2％へ引き上げられました。</p></div></div><div class='tri-para'><div class='lang en'><h4>EN</h4><p>There is one positive factor. Nominal wages are expected to rise by about 3.1% a year through fiscal 2027. However, a higher salary does not always mean a better life. What matters is real wage growth: wages must rise faster than prices. If prices rise almost as quickly as wages, households may not feel richer.</p></div><div class='lang zh'><h4>繁中</h4><p>正面因素是名目薪資預計到 2027 財年每年成長約 3.1%。但薪水數字增加不一定代表生活變好，真正重要的是實質薪資：薪資必須比物價漲得更快。若兩者接近，家庭未必感到更富裕。</p></div><div class='lang ja'><h4>日本語</h4><p>プラス材料は、名目賃金が2027年度まで年3.1％程度上昇すると予測されている点です。ただし給与額が増えても生活が必ず改善するとは限りません。重要なのは実質賃金であり、賃金が物価より速く上がる必要があります。</p></div></div><div class='tri-para'><div class='lang en'><h4>EN</h4><p>For people living in Japan, GDP is an important national indicator, but daily prices are more immediate. The key questions are whether energy prices stay high, whether wage increases reach smaller companies, and whether households continue to reduce optional spending.</p></div><div class='lang zh'><h4>繁中</h4><p>對居住日本者而言，GDP 是重要的國家指標，但日常物價更直接。後續要觀察能源價格是否持續偏高、加薪是否擴散至中小企業，以及家庭是否繼續削減非必要支出。</p></div><div class='lang ja'><h4>日本語</h4><p>日本で生活する人にとってGDPは重要な指標ですが、より直接的なのは日々の価格です。エネルギー高が続くか、賃上げが中小企業にも広がるか、家計が裁量的支出を減らし続けるかが注目点です。</p></div></div>
+      </section>
+      <section class="card">
+        <h3>Vocabulary｜重要單字</h3>
+        <div class="table-wrap"><table><thead><tr><th>Word</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead><tbody><tr><td><b>forecast</b><br><span class='muted'>n./v. /ˈfɔːrkæst/</span></td><td>預測</td><td>予測・見通し</td><td>lower its growth forecast</td></tr><tr><td><b>real GDP</b><br><span class='muted'>n. —</span></td><td>實質 GDP</td><td>実質GDP</td><td>real GDP growth</td></tr><tr><td><b>private consumption</b><br><span class='muted'>n. —</span></td><td>民間消費</td><td>個人消費</td><td>private consumption may slow</td></tr><tr><td><b>business investment</b><br><span class='muted'>n. —</span></td><td>企業投資</td><td>設備投資</td><td>reduce business investment</td></tr><tr><td><b>inflation</b><br><span class='muted'>n. /ɪnˈfleɪʃən/</span></td><td>通貨膨脹</td><td>インフレ</td><td>consumer inflation</td></tr><tr><td><b>nominal wage</b><br><span class='muted'>n. —</span></td><td>名目薪資</td><td>名目賃金</td><td>nominal wages rise</td></tr><tr><td><b>real wage</b><br><span class='muted'>n. —</span></td><td>實質薪資</td><td>実質賃金</td><td>positive real wage growth</td></tr><tr><td><b>optional spending</b><br><span class='muted'>n. —</span></td><td>非必要支出</td><td>裁量的支出</td><td>reduce optional spending</td></tr></tbody></table></div>
+      </section>
+      <section class="card">
+        <h3>Phrases｜片語與搭配</h3>
+        <div class="learn-grid"><div class='learn-item'><b>lower a forecast</b><div>下修預測／見通しを引き下げる</div><small>The government lowered its growth forecast.</small></div><div class='learn-item'><b>squeeze household spending</b><div>壓縮家庭支出／家計支出を圧迫する</div><small>Higher bills squeeze household spending.</small></div><div class='learn-item'><b>rise faster than prices</b><div>比物價漲得更快／物価より速く上昇する</div><small>Wages must rise faster than prices.</small></div><div class='learn-item'><b>reach smaller companies</b><div>擴散到中小企業／中小企業にも広がる</div><small>Pay increases need to reach smaller companies.</small></div></div>
+      </section>
+      <section class="card">
+        <h3>Grammar & Sentence Structure</h3><details><summary>What matters is ...</summary><p>以 What matters is 引出真正重要的核心。主句是 What matters is real wage growth；冒號後面解釋其意義。</p><div class='example'>What matters is whether customers will pay.</div></details><details><summary>when + clause</summary><p>when 可表示條件與時間：Families may spend less when prices rise。此處不是單一時間點，而是『在價格上升的情況下』。</p><div class='example'>Companies invest less when uncertainty increases.</div></details>
+      </section>
+      <section class="card consult">
+        <h3>Business / Consulting English</h3><ol><li>The headline figure is less important than the transmission to household purchasing power.</li><li>The downside risk is that wage growth remains concentrated in large companies.</li><li>We should distinguish nominal improvement from real improvement.</li></ol>
+      </section>
+      <section class="card">
+        <h3>理解與輸出</h3><div class='quiz'><b>Why did the government lower its growth forecast?</b><button class='answer-btn'>顯示參考</button><div class='answer'>Because higher oil and energy prices are squeezing household spending and corporate profits.</div></div><div class='quiz'><b>Why can nominal wage growth be misleading?</b><button class='answer-btn'>顯示參考</button><div class='answer'>Because wages may rise without improving purchasing power if prices rise at a similar pace.</div></div><div class='quiz'><b>Output</b><button class='answer-btn'>顯示參考</button><div class='answer'>Write two sentences explaining how higher energy prices affect both households and companies.</div></div>
+      </section>
+      <section class="card analysis-box">
+        <h3>內容解讀</h3><p>已知事實是政府下修成長、消費和投資預測並上修通膨預測。合理推論是，若加薪未能擴散到中小企業，整體消費可能比總體薪資數字更弱。對居住日本者而言，電費、食品與交通成本比 GDP 本身更直接。</p>
+      </section>
+      <section class="card quality">
+        <h3>來源品質卡</h3><p>Reuters 為即時通訊社，數據來自日本政府的期中估算。限制是政府預測仍會隨油價、匯率及政策變動而修正。</p>
+      </s
