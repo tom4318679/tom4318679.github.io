@@ -1,0 +1,54 @@
+>resident immune cells</td></tr><tr><td><b>neuroinflammation</b><br><span class='muted'>n. —</span></td><td>神經發炎</td><td>神経炎症</td><td>chronic neuroinflammation</td></tr><tr><td><b>postmortem</b><br><span class='muted'>adj. /ˌpoʊstˈmɔːrtəm/</span></td><td>死後的</td><td>死後の</td><td>postmortem tissue</td></tr><tr><td><b>epigenetic</b><br><span class='muted'>adj. /ˌepɪdʒəˈnetɪk/</span></td><td>表觀遺傳的</td><td>エピジェネティックな</td><td>epigenetic markers</td></tr><tr><td><b>lineage</b><br><span class='muted'>n. /ˈlɪniɪdʒ/</span></td><td>細胞譜系</td><td>細胞系譜</td><td>cell lineage</td></tr><tr><td><b>blood–brain barrier</b><br><span class='muted'>n. —</span></td><td>血腦屏障</td><td>血液脳関門</td><td>maintain the blood–brain barrier</td></tr><tr><td><b>cross-sectional</b><br><span class='muted'>adj. —</span></td><td>橫斷面的</td><td>横断的な</td><td>cross-sectional design</td></tr><tr><td><b>longitudinal</b><br><span class='muted'>adj. /ˌlɒndʒɪˈtjuːdɪnəl/</span></td><td>縱向的</td><td>縦断的な</td><td>longitudinal biomarkers</td></tr></tbody></table></div>
+      </section>
+      <section class="card">
+        <h3>Phrases｜片語與搭配</h3>
+        <div class="learn-grid"><div class='learn-item'><b>undergo substantial remodeling</b><div>經歷顯著重塑／大幅な再編を受ける</div><small>The tissue undergoes substantial remodeling.</small></div><div class='learn-item'><b>call an assumption into question</b><div>對假設提出質疑／前提を疑問視する</div><small>The finding calls the old assumption into question.</small></div><div class='learn-item'><b>retain information about</b><div>保留關於……的資訊／〜に関する情報を保持する</div><small>Markers retain information about cell origin.</small></div><div class='learn-item'><b>provide a possible pathway</b><div>提供可能機制路徑／可能な経路を示す</div><small>The study provides a possible pathway.</small></div><div class='learn-item'><b>change clinical practice</b><div>改變臨床實務／臨床実践を変える</div><small>The result does not yet change clinical practice.</small></div></div>
+      </section>
+      <section class="card">
+        <h3>Grammar & Sentence Structure</h3><details><summary>rather than longitudinal</summary><p>A rather than B 表示研究設計是 A 而非 B，常用於方法限制。</p><div class='example'>The study was observational rather than experimental.</div></details><details><summary>not ..., but ...</summary><p>not a clinical test or treatment, but a hypothesis and map：明確限制外推。</p><div class='example'>This is not proof, but an important clue.</div></details><details><summary>which can retain...</summary><p>非限定關係子句補充 epigenetic markers 的功能，不改變主句核心。</p><div class='example'>The model uses metadata, which can preserve context.</div></details>
+      </section>
+      <section class="card consult">
+        <h3>Business / Consulting English</h3><ol><li>Mechanistic evidence can refine a disease model without immediately changing clinical practice.</li><li>The study generates a testable hypothesis rather than establishing causality.</li><li>We should separate biological plausibility from demonstrated clinical benefit.</li></ol>
+      </section>
+      <section class="card">
+        <h3>理解與輸出</h3><div class='quiz'><b>What did the researchers observe between about ages 50 and 75?</b><button class='answer-btn'>顯示參考</button><div class='answer'>A decline in microglia and an increase in cells with inflammatory and peripheral-immune-like features.</div></div><div class='quiz'><b>Why can the study not prove causality?</b><button class='answer-btn'>顯示參考</button><div class='answer'>It used a small postmortem, cross-sectional sample rather than longitudinal or experimental evidence.</div></div><div class='quiz'><b>Output</b><button class='answer-btn'>顯示參考</button><div class='answer'>Write three sentences explaining why an exciting biological finding may still be clinically preliminary.</div></div>
+      </section>
+      <section class="card analysis-box">
+        <h3>內容解讀</h3><p>事實是研究分析 40 份死後海馬組織並觀察到中年後免疫細胞組成轉變。NIH 將其描述為可能機制，而不是已證實病因。臨床上不能據此做失智預測或治療決策。</p>
+      </section>
+      <section class="card quality">
+        <h3>來源品質卡</h3><p>NIH 新聞稿基於資助研究，方法資訊明確。證據層級屬小樣本、死後組織、橫斷性機制研究；具科學價值，但臨床外推有限。</p>
+      </section>
+    </article>
+    
+      </section>
+      <section id="jp-panel" class="panel">
+        
+    <article id="jp1" class="article active">
+      <section class="card article-title">
+        <div class="meta-row"><span class="level">N1+</span><span class="source">NRI</span><span>2026-07-21</span><span>約 18 分鐘</span></div>
+        <h2>骨太ショックと市場の信認</h2>
+        <p class="byline">木内 登英</p>
+        <p class="why"><b>選文理由：</b>金融政策、政府訊息、市場信任與顧問式論證的高密度日文。</p>
+        <a class="source-link" href="https://www.nri.com/jp/media/column/kiuchi/20260721.html" target="_blank" rel="noopener">原文を開く ↗</a>
+        <div class="label-note">以下為根據原文整理的 AI学習用リライト，不是原文全文。</div>
+      </section>
+      <section class="card reading jp-reading">
+        <h3>AI学習用リライト</h3>
+        <p>政府が示した「骨太の方針」原案は、例年の政策文書を超えて金融市場の強い関心を集めた。原案に盛り込まれた金融政策に関する表現が、日本銀行の追加利上げを政府が牽制する意図を持つのではないかと受け止められ、円安と債券安が進行したためである。市場では、利上げが政治的な理由で遅れれば、物価上昇への対応が後手に回る「ビハインド・ザ・カーブ」のリスクが高まるとの懸念が広がった。</p><p>政府は最終版で文言を修正し、金融政策の具体的な手法は日本銀行に委ねられるとの説明を加えた。しかし、政策手段だけでなく、変更の時期や方向性まで日本銀行が自主的に判断できるのかという疑問は残る。中央銀行の独立性は法的な形式だけでなく、市場が政策決定の予見可能性と一貫性を信頼できるかという実務上の問題でもある。</p><p>さらに、「財政健全化」という従来の表現が削除され、政府債務のGDP比率を重視する方向へ目標が変更されたことも、財政規律の後退と受け止められた。政府債務比率は名目成長や物価にも左右されるため、短期的な歳出規律を直接示す指標ではない。財源を明確にしない減税や給付の議論が並行して進めば、国債需給への懸念が長期金利を押し上げる可能性がある。</p><p>この事例から学べるのは、政策文書は内容だけでなく、受け手がどのようなシグナルとして解釈するかまで設計しなければならないという点である。一度損なわれた市場の信認は、脚注や表現の微修正だけでは回復しにくい。政府には、日銀の自主性、財政の持続可能性、物価高への対応を矛盾のない形で説明することが求められる。</p><p>コンサルティングの観点では、政策の意図、制度上の権限、市場の解釈、実際の価格反応を分けて整理すると理解しやすい。政府が「介入する意図はない」と説明しても、市場が別の意味に解釈すれば、金利や為替はその解釈に基づいて動く。したがって、コミュニケーションの成否は発信者の意図ではなく、受け手の行動変化で評価すべきである。</p>
+      </section>
+      <section class="card analysis-box">
+        <h3>繁體中文解說</h3><p>「骨太方針」中的金融政策表述被市場解讀為政府牽制日銀升息，導致日圓與債券遭到拋售。政府後來修改文字並強調具體手段由日銀決定，但市場仍懷疑日銀是否能自主決定時機和方向。文章也批評刪除「財政健全化」一詞、在未明確財源下討論減稅與給付，可能削弱財政信任。顧問式重點是把政策意圖、制度權限、市場解讀與價格反應拆開。</p>
+      </section>
+      <section class="card">
+        <h3>高階用語・専門用語</h3>
+        <div class="table-wrap"><table><thead><tr><th>用語</th><th>中文</th><th>近義替換</th><th>語感</th></tr></thead><tbody><tr><td><b>信認</b><br><span class='muted'>しんにん</span></td><td>信任</td><td>信用・信頼</td><td>市場が政策運営を信用する強い書面語</td></tr><tr><td><b>牽制</b><br><span class='muted'>けんせい</span></td><td>制衡、警告</td><td>抑制を図る</td><td>對對方行動施加壓力</td></tr><tr><td><b>払拭</b><br><span class='muted'>ふっしょく</span></td><td>消除</td><td>取り除く</td><td>常與 懸念・不安 搭配</td></tr><tr><td><b>後手に回る</b><br><span class='muted'>ごてにまわる</span></td><td>反應落後</td><td>対応が遅れる</td><td>政策與風險管理常用</td></tr><tr><td><b>予見可能性</b><br><span class='muted'>よけんかのうせい</span></td><td>可預測性</td><td>見通しやすさ</td><td>政策與契約的專業用語</td></tr><tr><td><b>自主性</b><br><span class='muted'>じしゅせい</span></td><td>自主性</td><td>独立性</td><td>制度或組織判斷空間</td></tr><tr><td><b>財政規律</b><br><span class='muted'>ざいせいきりつ</span></td><td>財政紀律</td><td>財政の節度</td><td>正式政策用語</td></tr><tr><td><b>持続可能性</b><br><span class='muted'>じぞくかのうせい</span></td><td>可持續性</td><td>長期的に維持できる性質</td><td>常見於財政與經營</td></tr><tr><td><b>受け止められる</b><br><span class='muted'>うけとめられる</span></td><td>被解讀為</td><td>解釈される</td><td>保留作者與市場觀點</td></tr><tr><td><b>整合性</b><br><span class='muted'>せいごうせい</span></td><td>一致性</td><td>一貫性</td><td>論點、系統與政策皆常用</td></tr><tr><td><b>微修正</b><br><span class='muted'>びしゅうせい</span></td><td>小幅修改</td><td>小幅な修正</td><td>帶有修改不足的語感</td></tr><tr><td><b>価格反応</b><br><span class='muted'>かかくはんのう</span></td><td>價格反應</td><td>市場価格の変化</td><td>金融分析用語</td></tr></tbody></table></div>
+      </section>
+      <section class="card">
+        <h3>よく使うコロケーション</h3><div class="learn-grid"><div class='learn-item'><b>市場の信認を損なう</b><p>損害市場信任；主語多為政策、發言或制度，不用於輕微不滿。</p></div><div class='learn-item'><b>懸念を払拭する</b><p>消除疑慮；比 不安をなくす 更正式。</p></div><div class='learn-item'><b>政策の一貫性を示す</b><p>展現政策一致性；簡報與報告常用。</p></div><div class='learn-item'><b>財源を明確にする</b><p>明確財源；減稅、補助與投資計畫常見。</p></div><div class='learn-item'><b>後手に回るリスク</b><p>反應落後的風險；可用於政策、資安、競爭。</p></div></div>
+      </section>
+      <section class="card">
+        <h3>長文の構造分析</h3><details><summary>原案に盛り込まれた金融政策に関する表現が、日本銀行の追加利上げを政府が牽制する意図を持つのではないかと受け止められ、円安と債券安が進行した。</summary><p>主語：表現が。述語：受け止められ、進行した。『政府が牽制する』是修飾 意図 的內容。ではないか 使判斷保持推測。</p></details><details><summary>政府が「介入する意図はない」と説明しても、市場が別の意味に解釈すれば、金利や為替はその解釈に基づいて動く。</summary><p>〜ても 表示讓步，〜ば 表示條件。句子對比發信者意圖與接收者行動。</p></details>
+      </section>
+      <section class="card consult">
+        <h3>コンサル表現</h3><ol><li>結論から申し上げると、問題は文言そのものより、市場が政策の一貫性を疑った点にあります。</li><li>論点を整理すると、中央銀行の自主性と財政規律の二
