@@ -1,0 +1,104 @@
+get="_blank" rel="noopener">原文を開く ↗</a>
+        <div class="label-note">以下為根據原文整理的 AI学習用リライト，不是原文全文。</div>
+      </section>
+      <section class="card reading jp-reading">
+        <h3>AI学習用リライト</h3>
+        <p>発酵は味噌、醤油、日本酒、ヨーグルトといった食品の製造方法として理解されることが多い。しかし、微生物の働きを利用して有機化合物を分解・合成するという広い定義で捉えると、発酵は医薬品、燃料、化学素材、肥料など多様な産業を支える基盤技術である。発酵と腐敗の生物学的な仕組みは近いが、人間にとって有益な生成物をもたらすかどうかで呼び方が分かれる。</p><p>近年注目されている精密発酵は、発酵プロセスとバイオテクノロジーを組み合わせ、特定のたんぱく質や機能性成分を効率的に生産する技術である。微生物を設計し、その代謝を利用して目的物質を作るため、代替たんぱく質、医薬品、特殊化学品などへの応用が期待される。単に伝統食品を高付加価値化するだけでなく、石油由来素材や動物由来原料を代替する可能性もある。</p><p>事業構造を見る際には、上流工程と下流工程を分けると理解しやすい。上流では微生物設計、培地調整、培養、発酵槽運転を行い、下流では抽出、精製、濃縮、乾燥、品質検査、製品化を行う。最終製品の品質とコストは両方の工程に左右されるため、スタートアップが優れた微生物を持っていても、量産・精製能力が不足すれば商業化は難しい。</p><p>市場規模を論じる際には、何を発酵市場に含めるかで数字が大きく変わる。食品、飲料、医薬品、バイオ燃料、発酵化学品をすべて合算すると巨大市場になるが、それぞれ規制、顧客、利益率、競争構造は異なる。大きな市場推計だけを見て参入を判断するのではなく、対象物質、製造コスト、規制承認、知的財産、販路を具体化する必要がある。</p><p>日本は長い発酵文化と多様な微生物資源を持つ一方、中小事業者が多く、菌株管理、特許、標準化、海外展開の仕組みには課題がある。伝統文化を守る視点と、微生物や製造ノウハウを知的財産として管理する視点を両立させる必要がある。発酵を食品カテゴリーではなく、産業横断の技術プラットフォームと捉えることで、医療、脱炭素、食料安全保障、地域産業といった社会課題への事業機会が見えやすくなる。</p>
+      </section>
+      <section class="card analysis-box">
+        <h3>繁體中文解說</h3><p>發酵不只是味噌、醬油與酒的食品技術，廣義上也是醫藥、燃料、材料與肥料的基礎平台。精密發酵透過設計微生物代謝，生產特定蛋白質或功能成分。商業化要同時解決上游微生物與培養、下游純化與量產。市場規模雖大，但不同領域的法規、客戶與利潤結構差異很大。日本的優勢是文化與微生物資源，弱點則是菌株管理、專利、標準化與海外商業化。</p>
+      </section>
+      <section class="card">
+        <h3>高階用語・専門用語</h3>
+        <div class="table-wrap"><table><thead><tr><th>用語</th><th>中文</th><th>近義替換</th><th>語感</th></tr></thead><tbody><tr><td><b>発酵</b><br><span class='muted'>はっこう</span></td><td>發酵</td><td>微生物による有用な変化</td><td>食品與產業核心詞</td></tr><tr><td><b>腐敗</b><br><span class='muted'>ふはい</span></td><td>腐敗</td><td>人に不利益な微生物変化</td><td>與發酵比較</td></tr><tr><td><b>精密発酵</b><br><span class='muted'>せいみつはっこう</span></td><td>精密發酵</td><td>設計微生物による生産</td><td>生技專業詞</td></tr><tr><td><b>有機化合物</b><br><span class='muted'>ゆうきかごうぶつ</span></td><td>有機化合物</td><td>炭素を含む化合物</td><td>科學書面語</td></tr><tr><td><b>培地調整</b><br><span class='muted'>ばいちちょうせい</span></td><td>培養基調整</td><td>培養環境の調整</td><td>上游製程</td></tr><tr><td><b>発酵槽</b><br><span class='muted'>はっこうそう</span></td><td>發酵槽</td><td>バイオリアクター</td><td>工程設備</td></tr><tr><td><b>抽出・精製</b><br><span class='muted'>ちゅうしゅつ・せいせい</span></td><td>萃取與純化</td><td>取り出して純度を高める</td><td>下游製程</td></tr><tr><td><b>量産化</b><br><span class='muted'>りょうさんか</span></td><td>量產化</td><td>大量生産への移行</td><td>商業化關鍵</td></tr><tr><td><b>菌株管理</b><br><span class='muted'>きんかぶかんり</span></td><td>菌株管理</td><td>微生物系統の管理</td><td>智慧財產與品質</td></tr><tr><td><b>高付加価値化</b><br><span class='muted'>こうふかかちか</span></td><td>高附加價值化</td><td>価値を高める</td><td>商務常用</td></tr><tr><td><b>産業横断</b><br><span class='muted'>さんぎょうおうだん</span></td><td>跨產業</td><td>複数産業にまたがる</td><td>顧問用語</td></tr><tr><td><b>食料安全保障</b><br><span class='muted'>しょくりょうあんぜんほしょう</span></td><td>糧食安全</td><td>食料供給の安定</td><td>政策用語</td></tr></tbody></table></div>
+      </section>
+      <section class="card">
+        <h3>よく使うコロケーション</h3><div class="learn-grid"><div class='learn-item'><b>可能性を秘める</b><p>蘊含可能性；比 可能性がある 更具文章感。</p></div><div class='learn-item'><b>商業化につなげる</b><p>連結到商業化；自然搭配，不說 商業化を接続する。</p></div><div class='learn-item'><b>市場を捉える</b><p>掌握市場；顧問與研究常用。</p></div><div class='learn-item'><b>知的財産として管理する</b><p>作為智慧財產管理；專利與技術策略。</p></div><div class='learn-item'><b>社会課題の解決に寄与する</b><p>有助於解決社會課題；正式報告用語。</p></div></div>
+      </section>
+      <section class="card">
+        <h3>長文の構造分析</h3><details><summary>発酵と腐敗の生物学的な仕組みは近いが、人間にとって有益な生成物をもたらすかどうかで呼び方が分かれる。</summary><p>主語：仕組みは。が 表轉折；かどうかで 表示分類依據。</p></details><details><summary>大きな市場推計だけを見て参入を判断するのではなく、対象物質、製造コスト、規制承認、知的財産、販路を具体化する必要がある。</summary><p>AのではなくB＝不是 A，而要 B。列舉五個商業化檢查點。</p></details>
+      </section>
+      <section class="card consult">
+        <h3>コンサル表現</h3><ol><li>結論として、発酵は食品市場ではなく技術プラットフォームとして見るべきです。</li><li>バリューチェーンを上流と下流に分けると、ボトルネックが明確になります。</li><li>市場規模の大きさと、実際に参入可能な市場は分けて考える必要があります。</li><li>技術優位だけでなく、量産、規制、販路まで含めた事業性評価が必要です。</li><li>日本の強みは文化と資源ですが、知財管理と標準化が課題です。</li></ol>
+      </section>
+      <section class="card">
+        <h3>要約トレーニング</h3><p>先自己寫 100 字、50 字與 1 句，再展開參考答案。</p><details><summary>100字の参考答案</summary><p>発酵は食品だけでなく、医薬品、燃料、材料を支える産業基盤である。精密発酵の商業化には微生物設計だけでなく、量産、精製、規制、知財、販路の統合が必要となる。</p></details><details><summary>50字の参考答案</summary><p>発酵を産業横断の技術として捉えると、日本の新たな事業機会が見える。</p></details><details><summary>1文の参考答案</summary><p>発酵は伝統文化であると同時に、次世代産業のプラットフォームである。</p></details>
+      </section>
+      <section class="card">
+        <h3>発言練習</h3><ul><li>発酵というと食品を思い浮かべますが、医薬品や燃料にも広がっているそうですね。</li><li>日本の発酵文化は、バイオ産業の競争力につながる可能性がありますね。</li><li>精密発酵のコストは従来製法と比べてどこまで下がっていますか。</li><li>日本企業が海外展開する際の最大の障壁は規制でしょうか、量産でしょうか。</li><li>市場の可能性には賛成ですが、広い市場規模をそのまま事業機会とみなすのは慎重であるべきです。</li></ul>
+      </section>
+      <section class="card chat">
+        <h3>雑談の種</h3><ul><li>味噌與醬油等傳統發酵，如何轉成可保護的智慧財產？</li><li>精密發酵能否真正降低肉類與石化材料的環境成本？</li><li>日本的地方發酵文化可否結合觀光、醫療與新創？</li></ul>
+      </section>
+      <section class="card">
+        <h3>理解・口頭表達</h3><div class='quiz'><b>精密発酵とは何ですか。</b><button class='answer-btn'>顯示參考</button><div class='answer'>微生物を設計し、その代謝を利用して特定成分を効率的に生産する技術です。</div></div><div class='quiz'><b>スタートアップが優れた菌株を持っていても商業化が難しい理由は何ですか。</b><button class='answer-btn'>顯示參考</button><div class='answer'>量産、精製、品質管理、規制承認、販路など下流能力が必要だからです。</div></div><div class='quiz'><b>口頭</b><button class='answer-btn'>顯示參考</button><div class='answer'>発酵市場の事業機会を、技術・市場・規制の三点で説明してください。</div></div>
+      </section>
+      <section class="card quality">
+        <h3>來源品質卡</h3><p>NRI コンサルタントによる体系的な産業解説。市場規模は複数公開情報を基にした推計であり、定義によって大きく変わる点に注意。</p>
+      </section>
+    </article>
+    
+      </section>
+    </main>
+  </div>
+  <footer>所有學習文章均為依公開來源重寫的學習內容；請透過各篇原文 URL 核對完整報導與作者語境。</footer>
+</div>
+
+<script>
+const tabs=[...document.querySelectorAll('.tab')];
+const panels=[...document.querySelectorAll('.panel')];
+const navs=[...document.querySelectorAll('.nav-btn')];
+const articles=[...document.querySelectorAll('.article')];
+
+function openGroup(panelId){
+  tabs.forEach(t=>t.classList.toggle('active',t.dataset.panel===panelId));
+  document.getElementById('en-panel').classList.toggle('active',panelId==='en-panel');
+  document.getElementById('jp-panel').classList.toggle('active',panelId==='jp-panel');
+  document.getElementById('en-overview').classList.toggle('active',panelId==='en-panel');
+  document.getElementById('jp-overview').classList.toggle('active',panelId==='jp-panel');
+  const group=panelId==='en-panel'?'en':'jp';
+  const target=navs.find(n=>n.dataset.group===group);
+  if(target) openArticle(target.dataset.target,false);
+  localStorage.setItem('daily-panel',panelId);
+}
+function openArticle(id,scroll=true){
+  articles.forEach(a=>a.classList.toggle('active',a.id===id));
+  navs.forEach(n=>n.classList.toggle('active',n.dataset.target===id));
+  const group=document.getElementById(id)?.id.startsWith('en')?'en-panel':'jp-panel';
+  document.getElementById('en-panel').classList.toggle('active',group==='en-panel');
+  document.getElementById('jp-panel').classList.toggle('active',group==='jp-panel');
+  document.getElementById('en-overview').classList.toggle('active',group==='en-panel');
+  document.getElementById('jp-overview').classList.toggle('active',group==='jp-panel');
+  tabs.forEach(t=>t.classList.toggle('active',t.dataset.panel===group));
+  localStorage.setItem('daily-article',id);
+  if(scroll) window.scrollTo({top:0,behavior:'smooth'});
+}
+tabs.forEach(t=>t.addEventListener('click',()=>openGroup(t.dataset.panel)));
+navs.forEach(n=>n.addEventListener('click',()=>openArticle(n.dataset.target)));
+
+document.querySelectorAll('.lang-btn').forEach(btn=>btn.addEventListener('click',()=>{
+  const article=btn.closest('.article');
+  article.querySelectorAll('.lang-btn').forEach(x=>x.classList.remove('active'));
+  btn.classList.add('active');
+  const lang=btn.dataset.lang;
+  article.querySelectorAll('.lang').forEach(box=>{
+    const show=lang==='all'||box.classList.contains(lang);
+    box.classList.toggle('hidden',!show);
+  });
+}));
+
+document.querySelectorAll('.answer-btn').forEach(btn=>btn.addEventListener('click',()=>{
+  const ans=btn.nextElementSibling;
+  ans.classList.toggle('show');
+  btn.textContent=ans.classList.contains('show')?'隱藏參考':'顯示參考';
+}));
+
+const savedArticle=localStorage.getItem('daily-article');
+if(savedArticle&&document.getElementById(savedArticle)) openArticle(savedArticle,false);
+else {
+  const savedPanel=localStorage.getItem('daily-panel');
+  if(savedPanel) openGroup(savedPanel);
+}
+</script>
+</body>
+</html>
