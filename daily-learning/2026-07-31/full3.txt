@@ -1,0 +1,44 @@
+ection>
+    </article>
+    
+    <article id="en2" class="article ">
+      <section class="card article-title">
+        <div class="meta-row"><span class="level">B1</span><span class="source">Reuters</span><span>2026-07-31</span><span>約 10 分鐘</span></div>
+        <h2>Japan steps into the currency market to support the yen</h2>
+        <p class="byline">By Leika Kihara</p>
+        <p class="why"><b>為什麼選這篇：</b>理解匯率干預、日銀政策與日本生活成本如何連動。</p>
+        <a class="source-link" href="https://www.reuters.com/world/asia-pacific/japan-conducts-massive-yen-buying-intervention-nikkei-reports-2026-07-30/" target="_blank" rel="noopener">閱讀原文 URL ↗</a>
+        <div class="label-note">以下為根據來源重寫的 AI learning article，不是原文全文。</div>
+        <div class="lang-controls">
+          <button class="lang-btn active" data-lang="all">三語</button>
+          <button class="lang-btn" data-lang="en">English</button>
+          <button class="lang-btn" data-lang="zh">繁中</button>
+          <button class="lang-btn" data-lang="ja">日本語</button>
+        </div>
+      </section>
+      <section class="card reading">
+        <h3>AI Learning Article</h3>
+        <div class='tri-para'><div class='lang en'><h4>EN</h4><p>Japan appears to have intervened in the foreign-exchange market by buying yen and selling dollars in New York. A market source said it was the first intervention in about three months. The action came after the yen had fallen to levels not seen in four decades, increasing the cost of imported energy and other goods.</p></div><div class='lang zh'><h4>繁中</h4><p>日本似乎在紐約外匯市場買進日圓、賣出美元，進行約三個月來首次干預。日圓先前跌至四十年低點，使進口能源與商品成本上升。</p></div><div class='lang ja'><h4>日本語</h4><p>日本はニューヨーク市場で円買い・ドル売り介入を行ったとみられます。約3カ月ぶりの介入で、円が40年ぶりの安値圏まで下落し、輸入エネルギーや商品の価格を押し上げていたことが背景です。</p></div></div><div class='tri-para'><div class='lang en'><h4>EN</h4><p>Currency intervention can create a sharp short-term move because the government enters the market with very large orders. However, intervention does not automatically change the economic forces that weakened the currency. If Japanese interest rates remain much lower than rates overseas, investors may still prefer dollar-denominated assets. That is why markets quickly shifted their attention to the Bank of Japan.</p></div><div class='lang zh'><h4>繁中</h4><p>匯率干預能因政府的大額交易而造成短期劇烈波動，但不會自動改變導致日圓走弱的經濟力量。若日本利率仍遠低於海外，投資人可能繼續偏好美元資產，因此市場很快把焦點轉向日本銀行。</p></div><div class='lang ja'><h4>日本語</h4><p>為替介入は巨額注文により短期的な変動を生みますが、円安をもたらした経済要因を自動的に変えるわけではありません。日本の金利が海外より低い状態が続けば、投資家はドル建て資産を選び続ける可能性があります。</p></div></div><div class='tri-para'><div class='lang en'><h4>EN</h4><p>The BOJ was widely expected to keep its policy rate at 1%, while signaling that further rate increases remained possible. Governor Kazuo Ueda faced a difficult balance. Raising rates could support the yen and reduce imported inflation, but higher borrowing costs could also weaken consumption, housing and business investment. The government, meanwhile, has been cautious about rapid rate increases.</p></div><div class='lang zh'><h4>繁中</h4><p>市場普遍預期日銀維持政策利率在 1%，同時暗示未來仍可能升息。升息可支撐日圓並降低輸入型通膨，但也可能抑制消費、房市及企業投資，形成艱難取捨。</p></div><div class='lang ja'><h4>日本語</h4><p>日銀は政策金利を1％に据え置きつつ、追加利上げの可能性を示すとみられていました。利上げは円を支え輸入インフレを抑える一方、消費、住宅、設備投資を弱めるおそれがあります。</p></div></div><div class='tri-para'><div class='lang en'><h4>EN</h4><p>Japan had already spent a record amount on intervention between late April and early May, but the effect did not last. This history shows that intervention can slow disorderly market moves, yet it may not reverse a long-term trend without supportive monetary and fiscal policy. For households, a weaker yen is not only a financial-market issue. It affects fuel, food, travel and the price of imported products.</p></div><div class='lang zh'><h4>繁中</h4><p>日本在四月底到五月初已投入創紀錄資金干預，但效果未能持續。這表示干預能抑制失序波動，卻很難在缺乏貨幣與財政政策配合時扭轉長期趨勢。弱勢日圓會影響燃料、食品、旅行及進口商品。</p></div><div class='lang ja'><h4>日本語</h4><p>日本は4月末から5月初めにも過去最大規模の介入を行いましたが、効果は長続きしませんでした。介入は無秩序な動きを抑制できても、金融・財政政策の裏付けがなければ長期トレンドを反転させにくいことを示します。</p></div></div><div class='tri-para'><div class='lang en'><h4>EN</h4><p>The next question is whether policy signals become consistent. If the government tries to support the yen while also discouraging the BOJ from raising rates, markets may see a contradiction. Sustainable currency stability usually requires more than one dramatic day of official buying.</p></div><div class='lang zh'><h4>繁中</h4><p>接下來要看政策訊號是否一致。若政府一方面支撐日圓，另一方面又不希望日銀升息，市場可能認為政策互相矛盾。</p></div><div class='lang ja'><h4>日本語</h4><p>今後は政策メッセージの整合性が焦点です。円を支える一方で日銀の利上げを牽制すれば、市場は矛盾と受け止める可能性があります。</p></div></div>
+      </section>
+      <section class="card">
+        <h3>Vocabulary｜重要單字</h3>
+        <div class="table-wrap"><table><thead><tr><th>Word</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead><tbody><tr><td><b>intervene</b><br><span class='muted'>v. /ˌɪntərˈviːn/</span></td><td>干預</td><td>介入する</td><td>intervene in the currency market</td></tr><tr><td><b>foreign-exchange market</b><br><span class='muted'>n. —</span></td><td>外匯市場</td><td>外国為替市場</td><td>enter the foreign-exchange market</td></tr><tr><td><b>prop up</b><br><span class='muted'>phr.v. —</span></td><td>支撐</td><td>下支えする</td><td>prop up the yen</td></tr><tr><td><b>denominated</b><br><span class='muted'>adj. /dɪˈnɒməneɪtɪd/</span></td><td>以某貨幣計價</td><td>〜建ての</td><td>dollar-denominated assets</td></tr><tr><td><b>borrowing cost</b><br><span class='muted'>n. —</span></td><td>借貸成本</td><td>借入コスト</td><td>higher borrowing costs</td></tr><tr><td><b>imported inflation</b><br><span class='muted'>n. —</span></td><td>輸入型通膨</td><td>輸入インフレ</td><td>reduce imported inflation</td></tr><tr><td><b>disorderly</b><br><span class='muted'>adj. /dɪsˈɔːrdərli/</span></td><td>失序的</td><td>無秩序な</td><td>disorderly market moves</td></tr><tr><td><b>consistent</b><br><span class='muted'>adj. /kənˈsɪstənt/</span></td><td>一致的</td><td>整合的な</td><td>consistent policy signals</td></tr></tbody></table></div>
+      </section>
+      <section class="card">
+        <h3>Phrases｜片語與搭配</h3>
+        <div class="learn-grid"><div class='learn-item'><b>shift attention to</b><div>把注意力轉向／注目を〜へ移す</div><small>Markets shifted attention to the BOJ.</small></div><div class='learn-item'><b>reverse a trend</b><div>扭轉趨勢／トレンドを反転させる</div><small>One intervention may not reverse the trend.</small></div><div class='learn-item'><b>face a difficult balance</b><div>面臨艱難權衡／難しいバランスに直面する</div><small>The BOJ faces a difficult balance.</small></div><div class='learn-item'><b>send a contradictory signal</b><div>傳出矛盾訊號／矛盾したシグナルを送る</div><small>The policies may send a contradictory signal.</small></div></div>
+      </section>
+      <section class="card">
+        <h3>Grammar & Sentence Structure</h3><details><summary>while + -ing</summary><p>while signaling... 表示兩項同時進行的政策動作；省略主語是因為與主句主語相同。</p><div class='example'>The company cut costs while investing in AI.</div></details><details><summary>If ..., may ...</summary><p>條件句用於分析不確定結果，不表示結果必然發生。</p><div class='example'>If rates remain low, the currency may weaken again.</div></details>
+      </section>
+      <section class="card consult">
+        <h3>Business / Consulting English</h3><ol><li>Intervention can buy time, but it cannot substitute for a coherent policy framework.</li><li>The main issue is whether monetary and fiscal signals point in the same direction.</li><li>We should separate the immediate market impact from the medium-term exchange-rate trend.</li></ol>
+      </section>
+      <section class="card">
+        <h3>理解與輸出</h3><div class='quiz'><b>Why may currency intervention have only a temporary effect?</b><button class='answer-btn'>顯示參考</button><div class='answer'>Because it does not necessarily change interest-rate differences and other underlying economic forces.</div></div><div class='quiz'><b>What trade-off does the BOJ face?</b><button class='answer-btn'>顯示參考</button><div class='answer'>Supporting the yen and limiting imported inflation versus avoiding excessive pressure on domestic demand.</div></div><div class='quiz'><b>Output</b><button class='answer-btn'>顯示參考</button><div class='answer'>Explain in English why a weak yen can affect ordinary households.</div></div>
+      </section>
+      <section class="card analysis-box">
+        <h3>內容解讀</h3><p>干預的事實可由市場來源支持，但日本財務省當時尚未正式評論。來源的核心觀點是，匯率干預若缺乏利率與政策一致性，持續效果有限。對日本居民的實際影響是進口能源、食品與海外旅行成本。</p>
+      </section>
+      <section class="card quality">
+        <h3>來源品質卡</h3><p>Reuters 引述市場來源、官員發言與歷史干預資料。限制是干預規模與官方確認可能在後續公布後修正。</p>
