@@ -1,0 +1,72 @@
+点に集約されます。</li><li>現時点では断定できませんが、懸念が払拭されたとは言い切れません。</li><li>発信者の意図ではなく、受け手の行動変化で評価する必要があります。</li><li>この前提が崩れる場合、金利・為替シナリオを見直す必要があります。</li></ol>
+      </section>
+      <section class="card">
+        <h3>要約トレーニング</h3><p>先自己寫 100 字、50 字與 1 句，再展開參考答案。</p><details><summary>100字の参考答案</summary><p>骨太方針原案が日銀への政治介入と財政規律後退への懸念を招き、円安・債券安が進んだ。文言修正だけでは市場の信認回復は難しく、政策の一貫性と財源説明が必要である。</p></details><details><summary>50字の参考答案</summary><p>政策文言が日銀の独立性と財政規律への懸念を招き、市場の信認を損なった。</p></details><details><summary>1文の参考答案</summary><p>政策の意図より、市場が受け取ったシグナルが金利と為替を動かした。</p></details>
+      </section>
+      <section class="card">
+        <h3>発言練習</h3><ul><li>最近の長期金利上昇は、物価だけでなく政策コミュニケーションの影響も大きいですね。</li><li>今回の件は、中央銀行の独立性を市場がどう評価するかという問題だと思います。</li><li>市場は具体的にどの指標を見て財政規律を判断しているのでしょうか。</li><li>文言修正で十分だと考える根拠はどこにありますか。</li><li>ご指摘は理解できますが、実際の市場反応を見る限り、説明だけで解決したとは考えにくいです。</li></ul>
+      </section>
+      <section class="card chat">
+        <h3>雑談の種</h3><ul><li>政府文件的一句話，為何會讓 10 年期利率劇烈變動？</li><li>中央銀行獨立性是法律制度問題，還是溝通與信任問題？</li><li>財政目標由基本財政收支改為債務 GDP 比，有何優缺點？</li></ul>
+      </section>
+      <section class="card">
+        <h3>理解・口頭表達</h3><div class='quiz'><b>市場が「ビハインド・ザ・カーブ」を懸念した理由は何ですか。</b><button class='answer-btn'>顯示參考</button><div class='answer'>政府の牽制によって日銀の利上げが遅れ、将来のインフレ対応が後手に回ると考えたためです。</div></div><div class='quiz'><b>筆者が文言修正だけでは不十分だと考える理由は何ですか。</b><button class='answer-btn'>顯示參考</button><div class='answer'>政策の実態や財政姿勢への疑念が残り、受け手の解釈を変えられていないためです。</div></div><div class='quiz'><b>口頭</b><button class='answer-btn'>顯示參考</button><div class='answer'>この問題をクライアントに60秒で説明してください。</div></div>
+      </section>
+      <section class="card quality">
+        <h3>來源品質卡</h3><p>NRI エグゼクティブ・エコノミストによる署名評論。市場解釈と政策批判を含むため、政府の公式見解ではない点に注意。</p>
+      </section>
+    </article>
+    
+    <article id="jp2" class="article ">
+      <section class="card article-title">
+        <div class="meta-row"><span class="level">専門</span><span class="source">NRI</span><span>2026-07-02・03</span><span>約 20 分鐘</span></div>
+        <h2>AI投資100兆円時代：ゴールドラッシュかダークファイバーの再来か</h2>
+        <p class="byline">土橋 和成</p>
+        <p class="why"><b>選文理由：</b>AI 資本支出、資料中心、電力、供應鏈與受益企業的專業日文。</p>
+        <a class="source-link" href="https://www.nri.com/jp/media/column/extending_society_with_ai/20260703.html" target="_blank" rel="noopener">原文を開く ↗</a>
+        <div class="label-note">以下為根據原文整理的 AI学習用リライト，不是原文全文。</div>
+      </section>
+      <section class="card reading jp-reading">
+        <h3>AI学習用リライト</h3>
+        <p>米国の主要ハイパースケーラーによるAI関連投資は、年間100兆円を超える規模に達する見通しである。投資の中心は、最先端半導体、データセンター、電力、通信設備であり、一国のGDPにも匹敵する資本がAI基盤へ集中している。需要が供給を上回る現状だけを見れば、投資拡大には合理性がある。しかし、1990年代の光ファイバー投資が一時的な供給過剰を生んだ歴史は、現在の熱狂を評価するうえで重要な比較対象となる。</p><p>光ファイバーは一度敷設すれば長期間利用でき、後にクラウドや動画配信を支える低コスト基盤となった。一方、AIデータセンターの価値は建物、土地、電力網、チップに分解して考える必要がある。土地や送電接続は長期的価値を保ちやすいが、GPUは技術革新によって急速に陳腐化する。さらに、主流モデルが巨大なクラウド学習から省電力のエッジAIへ移れば、需要構造そのものが変わる可能性がある。</p><p>建設面でも制約は多い。半導体だけでなく、電力、水、冷却設備、送電網接続、地域住民の理解が必要である。北米ではデータセンター空室率が低く、電力網接続に長期間を要する地域もある。この状況は供給不足を示す一方、計画が予定通り完成しないリスクも意味する。巨額の発表額を、そのまま実際の稼働能力とみなすべきではない。</p><p>現時点で比較的確実に利益を得ているのは、AIモデルを提供する企業だけではなく、「ツルハシやショベル」を売る周辺企業である。半導体、受配電設備、冷却、水処理、バックアップ電源、建設、精密機器搬送など、データセンターの成立に必要なバリューチェーン全体で需要が拡大している。日本企業にも、液冷、高圧受電、空調、ポンプ、貨物用エレベーターなどの領域で機会がある。</p><p>ただし、周辺企業への投資も無条件に安全ではない。顧客が一部ハイパースケーラーに集中している場合、建設計画の延期が受注に大きく影響する。原材料、人件費、電力コストの上昇によって、売上拡大が利益率向上につながらない可能性もある。したがって、AI投資の評価では、需要予測、技術の陳腐化、供給制約、顧客集中、資本効率を統合して分析する必要がある。</p>
+      </section>
+      <section class="card analysis-box">
+        <h3>繁體中文解說</h3><p>NRI 將當前 AI 資料中心投資與 1990 年代光纖過度建設比較。差異在於光纖可長期使用，但 GPU 可能快速過時，模型也可能轉向更節能的 edge AI。建設還受到電力、水、冷卻、電網連接與居民接受度限制。目前較穩定的受益者可能是半導體、配電、冷卻、建設與設備供應商，但仍要檢查客戶集中、計畫延遲與利潤率。</p>
+      </section>
+      <section class="card">
+        <h3>高階用語・専門用語</h3>
+        <div class="table-wrap"><table><thead><tr><th>用語</th><th>中文</th><th>近義替換</th><th>語感</th></tr></thead><tbody><tr><td><b>ハイパースケーラー</b><br><span class='muted'>はいぱーすけーらー</span></td><td>超大型雲端業者</td><td>巨大クラウド事業者</td><td>產業專有名詞</td></tr><tr><td><b>供給過剰</b><br><span class='muted'>きょうきゅうかじょう</span></td><td>供給過剩</td><td>供給が需要を上回る状態</td><td>宏觀與產業分析</td></tr><tr><td><b>陳腐化</b><br><span class='muted'>ちんぷか</span></td><td>過時、價值快速下降</td><td>旧式化</td><td>硬體、知識、制度皆可用</td></tr><tr><td><b>稼働能力</b><br><span class='muted'>かどうのうりょく</span></td><td>實際運轉能力</td><td>実際に動かせる能力</td><td>不可只看宣布投資額</td></tr><tr><td><b>送電網接続</b><br><span class='muted'>そうでんもうせつぞく</span></td><td>電網連接</td><td>系統接続</td><td>能源與資料中心用語</td></tr><tr><td><b>供給制約</b><br><span class='muted'>きょうきゅうせいやく</span></td><td>供給限制</td><td>供給面の制約</td><td>半導體、人才、電力</td></tr><tr><td><b>周辺企業</b><br><span class='muted'>しゅうへんきぎょう</span></td><td>周邊企業</td><td>関連企業</td><td>供應鏈受益者</td></tr><tr><td><b>受配電設備</b><br><span class='muted'>じゅはいでんせつび</span></td><td>受配電設備</td><td>電力受配設備</td><td>資料中心基礎設施</td></tr><tr><td><b>顧客集中</b><br><span class='muted'>こきゃくしゅうちゅう</span></td><td>客戶集中</td><td>顧客依存</td><td>信用與營運風險</td></tr><tr><td><b>資本効率</b><br><span class='muted'>しほんこうりつ</span></td><td>資本效率</td><td>投下資本の効率</td><td>ROIC 等分析</td></tr><tr><td><b>統合して分析する</b><br><span class='muted'>とうごうしてぶんせきする</span></td><td>整合分析</td><td>総合的に見る</td><td>顧問表達</td></tr><tr><td><b>成立に必要な</b><br><span class='muted'>せいりつにひつような</span></td><td>成立所必需</td><td>実現に不可欠な</td><td>產業鏈描述</td></tr></tbody></table></div>
+      </section>
+      <section class="card">
+        <h3>よく使うコロケーション</h3><div class="learn-grid"><div class='learn-item'><b>投資が過熱する</b><p>投資過熱；用於資本市場、房地產、產能。</p></div><div class='learn-item'><b>価値が急速に減価する</b><p>價值快速減損；硬體與資產分析。</p></div><div class='learn-item'><b>供給制約に直面する</b><p>面臨供給限制；不說 制約を遭う。</p></div><div class='learn-item'><b>需要を取り込む</b><p>承接需求；比 需要をもらう 自然。</p></div><div class='learn-item'><b>資本効率を見極める</b><p>判斷資本效率；高階商務搭配。</p></div></div>
+      </section>
+      <section class="card">
+        <h3>長文の構造分析</h3><details><summary>需要が供給を上回る現状だけを見れば、投資拡大には合理性がある。しかし、1990年代の光ファイバー投資が一時的な供給過剰を生んだ歴史は、現在の熱狂を評価するうえで重要な比較対象となる。</summary><p>だけを見れば 表示限定條件；しかし 轉向歷史反例。主語後半是 歴史は，述語是 比較対象となる。</p></details><details><summary>巨額の発表額を、そのまま実際の稼働能力とみなすべきではない。</summary><p>AをBとみなす＝把 A 視為 B。べきではない 是強烈但非命令式的風險提醒。</p></details>
+      </section>
+      <section class="card consult">
+        <h3>コンサル表現</h3><ol><li>結論として、投資額ではなく、稼働率と資本効率で評価すべきです。</li><li>論点を分解すると、需要、技術、電力、建設、顧客集中の五つになります。</li><li>現状は供給不足ですが、技術転換によって前提が変わる可能性があります。</li><li>発表ベースの投資額と、実際に稼働する能力を区別する必要があります。</li><li>周辺企業についても、受注増と利益率改善を分けて確認すべきです。</li><li>別の見方として、過剰投資が将来の低コスト基盤を残す可能性もあります。</li></ol>
+      </section>
+      <section class="card">
+        <h3>要約トレーニング</h3><p>先自己寫 100 字、50 字與 1 句，再展開參考答案。</p><details><summary>100字の参考答案</summary><p>AIデータセンター投資は100兆円超に達するが、GPU陳腐化、電力・水制約、顧客集中がリスクとなる。現時点の受益者は半導体や冷却など周辺企業だが、資本効率の検証が必要である。</p></details><details><summary>50字の参考答案</summary><p>AI投資は供給不足を埋める一方、陳腐化と資本効率のリスクを抱える。</p></details><details><summary>1文の参考答案</summary><p>AIゴールドラッシュの勝者は、モデル企業よりインフラ供給者かもしれない。</p></details>
+      </section>
+      <section class="card">
+        <h3>発言練習</h3><ul><li>最近のAI投資は、一国のGDPに近い規模まで拡大しているそうですね。</li><li>データセンター投資は半導体だけでなく、電力や冷却にも波及しています。</li><li>現在の供給不足は何年程度続くと見ていますか。</li><li>エッジAIへの移行はデータセンター需要をどの程度変えるでしょうか。</li><li>投資拡大には同意しますが、GPUの陳腐化リスクはもう少し慎重に見る必要があると思います。</li></ul>
+      </section>
+      <section class="card chat">
+        <h3>雑談の種</h3><ul><li>AI 時代真正的『賣鏟子者』是哪些日本公司？</li><li>資料中心建設對地方薪資、電力價格與水資源有何影響？</li><li>過度投資即使讓投資人虧損，是否仍可能留下有用基礎設施？</li></ul>
+      </section>
+      <section class="card">
+        <h3>理解・口頭表達</h3><div class='quiz'><b>光ファイバーとAIデータセンターの重要な違いは何ですか。</b><button class='answer-btn'>顯示參考</button><div class='answer'>AIデータセンター内のGPUは技術革新で急速に陳腐化しやすい点です。</div></div><div class='quiz'><b>筆者が周辺企業に注目する理由は何ですか。</b><button class='answer-btn'>顯示參考</button><div class='answer'>半導体、電力、冷却、建設などがデータセンター投資から直接需要を得ているためです。</div></div><div class='quiz'><b>口頭</b><button class='answer-btn'>顯示參考</button><div class='answer'>AIインフラ投資の強気ケースと弱気ケースを各30秒で説明してください。</div></div>
+      </section>
+      <section class="card quality">
+        <h3>來源品質卡</h3><p>NRI 研究者による産業評論。公開資料を幅広く整理しているが、投資額や企業価値の予測は前提に依存する。</p>
+      </section>
+    </article>
+    
+    <article id="jp3" class="article ">
+      <section class="card article-title">
+        <div class="meta-row"><span class="level">N1+</span><span class="source">NRI</span><span>2026-07-16</span><span>約 18 分鐘</span></div>
+        <h2>発酵を食品から産業プラットフォームとして捉える</h2>
+        <p class="byline">谷口 麻由子・大畑 毅志</p>
+        <p class="why"><b>選文理由：</b>提升雜談力與跨產業顧問視角：食品、醫藥、燃料、材料與智慧財產。</p>
+        <a class="source-link" href="https://www.nri.com/jp/media/column/mcs_blog/20260716.html" tar
