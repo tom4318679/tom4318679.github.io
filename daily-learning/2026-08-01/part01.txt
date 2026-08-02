@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html lang="zh-Hant">
+<head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>每日英日趨勢學習 2026-08-01｜完整恢復版</title><style>
+    :root{--bg:#f4f6fb;--card:#fff;--ink:#172033;--muted:#667085;--line:#dce3ee;
+      --blue:#3159c8;--soft:#edf2ff;--green:#14764a;--gsoft:#eaf7ef;
+      --purple:#6941c6;--psoft:#f2edff;--amber:#9a6700;--asoft:#fff6d8}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);
+      font-family:Inter,"Noto Sans TC","Noto Sans JP",Arial,sans-serif;line-height:1.72}
+    a{color:var(--blue);text-decoration:none}button{font:inherit}
+    header{position:sticky;top:0;z-index:10;background:#ffffffee;border-bottom:1px solid var(--line)}
+    .head{max-width:1400px;margin:auto;padding:11px 18px;display:flex;justify-content:space-between;gap:12px}
+    .tabs,.langs{display:flex;gap:8px;flex-wrap:wrap}
+    .tabs button,.langs button{border:1px solid var(--line);background:#fff;padding:8px 11px;border-radius:10px}
+    .tabs .active,.langs .active{background:var(--soft);color:var(--blue);border-color:var(--blue)}
+    .page{max-width:1400px;margin:16px auto;padding:0 18px}
+    .hero,.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:13px}
+    .hero{background:linear-gradient(135deg,#fff,#eef3ff)}
+    .layout{display:grid;grid-template-columns:280px 1fr;gap:14px}
+    nav{position:sticky;top:75px;height:calc(100vh - 90px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:14px;padding:8px}
+    .navbtn{width:100%;border:0;background:transparent;text-align:left;padding:10px;border-radius:9px;margin-bottom:4px}
+    .navbtn span{display:block;color:var(--blue);font-size:11px;font-weight:800}
+    .navbtn.active,.navbtn:hover{background:var(--soft);color:var(--blue)}
+    .panel,.article{display:none}.panel.active,.article.active{display:block}
+    .meta{display:flex;gap:7px;flex-wrap:wrap;color:var(--muted);font-size:12px}
+    .level{background:var(--soft);color:var(--blue);padding:3px 8px;border-radius:999px;font-weight:800}
+    .source{background:var(--gsoft);color:var(--green);padding:3px 8px;border-radius:999px;font-weight:800}
+    .muted,.note{color:var(--muted);font-size:12px}
+    .why{border-left:4px solid var(--blue);background:#f8fafc;padding:10px}
+    .url{display:inline-block;border:1px solid var(--blue);padding:8px 11px;border-radius:9px;font-weight:700}
+    .tri{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-bottom:10px}
+    .tri>div,.mini{border:1px solid var(--line);border-radius:10px;padding:11px;background:#fff}
+    .tri h4{margin:0 0 5px;color:var(--muted);font-size:12px}
+    .hidden{display:none!important}.scroll{overflow:auto}
+    table{width:100%;border-collapse:collapse;font-size:14px}
+    th,td{border-bottom:1px solid var(--line);padding:9px;text-align:left;vertical-align:top}
+    .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+    details{border:1px solid var(--line);border-radius:10px;padding:10px;margin-bottom:8px}
+    summary{font-weight:700;cursor:pointer}
+    .consult{border-left:5px solid var(--purple);background:var(--psoft)}
+    .insight{border-left:5px solid var(--amber);background:var(--asoft)}
+    .quality{border-style:dashed;background:#f8fafc}
+    .chat{border-left:5px solid var(--green);background:var(--gsoft)}
+    .jptext p{font-size:16px}
+    @media(max-width:1000px){.layout{grid-template-columns:1fr}nav{position:static;height:auto;display:flex;overflow:auto}.navbtn{min-width:250px}}
+    @media(max-width:720px){.head{flex-direction:column}.tri,.grid{grid-template-columns:1fr}.card{padding:14px}}
+    </style><style>
+    .audio-toolbar{position:sticky;top:0;z-index:9999;display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:9px 14px;background:#172033;color:#fff;font-family:system-ui,sans-serif;border-bottom:1px solid #344054}
+    .audio-toolbar a{color:#fff;text-decoration:none}.audio-toolbar .spacer{flex:1}.audio-toolbar button,.audio-toolbar select{border:1px solid #98a2b3;background:#fff;color:#172033;border-radius:9px;padding:6px 9px;font:inherit;cursor:pointer}.audio-toolbar .status{font-size:12px;color:#d0d5dd}
+    .speak-btn{margin-left:6px;border:1px solid #98a2b3;background:#fff;color:#3159c8;border-radius:8px;padding:3px 7px;cursor:pointer;font-size:12px;white-space:nowrap}.speak-btn:hover{background:#edf2ff}.ipa-cell{font-family:Georgia,serif;min-width:150px}.restore-note{max-width:1400px;margin:10px auto;padding:10px 18px;color:#344054;font:13px system-ui,sans-serif}.restore-note strong{color:#14764a}
+    @media(max-width:720px){.audio-toolbar{position:relative}.audio-toolbar .spacer{display:none}.ipa-cell{min-width:120px}}
+    </style><link href="/daily-learning/assets/pronunciation.css?v=3" rel="stylesheet"/></head>
+<body><div class="audio-toolbar"><a href="/">總入口</a><a href="/daily-learning/">學習中心</a><a href="/daily-learning/archive/">歷史</a><span class="spacer"></span><label>語速 <select id="speech-rate"><option value="1">正常</option><option value="0.72">慢速</option></select></label><button id="speech-stop" type="button">■ 停止</button><span class="status" id="speech-status">正在偵測語音…</span></div><div class="restore-note"><strong>完整恢復版</strong>｜保留原先完整學習內容，並加入英文 IPA、日文讀音與瀏覽器語音播放。</div>
+<header><div class="head">
+<div><h1>每日英日趨勢學習</h1><div class="muted">2026-08-01｜English 5＋日本語 3</div></div>
+<div class="tabs"><button class="active" data-panel="en">English 5</button><button data-panel="jp">日本語 3</button></div>
+</div></header><div class="restore-banner">2026-08-01 完整重製版｜英文文章依 CEFR 恢復長度；日文每篇擴充為約 900–1,400 字。</div>
+<div class="page">
+<section class="hero"><h2>今日選文</h2><p>每篇均附原文 URL；正文為 AI 重寫學習文章，不冒充原文全文。</p></section>
+<div class="layout">
+<nav><button class="navbtn active" data-group="en" data-target="e1"><span>A2</span>Japan keeps interest rates at 1%</button><button class="navbtn" data-group="en" data-target="e2"><span>B2</span>MediaTek plans $5 billion financing for AI data-center chips</button><button class="navbtn" data-group="en" data-target="e3"><span>B2</span>The U.S. Treasury signals possible support for the yen</button><button class="navbtn" data-group="en" data-target="e4"><span>B2</span>AI spending passes a trillion dollars</button><button class="navbtn" data-group="en" data-target="e5"><span>C1</span>A child’s language may predict depression and anxiety years before onset</button><button class="navbtn active" data-group="jp" data-target="j1"><span>N1+</span>植田総裁会見：インフレ上振れと利上げペース</button><button class="navbtn" data-group="jp" data-target="j2"><span>専門</span>三菱電機の米国冷却工場とAI周辺需要</button><button class="navbtn" data-group="jp" data-target="j3"><span>N1+</span>ふるさと納税：理念と返礼品は寄附先をどう動かすか</button></nav>
+<main>
+<section class="panel active" id="en">
+<article class="article active" id="e1">
+<section class="card">
+<div class="meta">
+<span class="level">A2</span>
+<span class="source">Reuters</span>
+<span>2026-07-31</span>
+<span>約 7 分鐘</span>
+<span class="level">291 words</span></div>
+<h2>Japan keeps interest rates at 1%</h2>
+<div class="muted">By Leika Kihara and Makiko Yamazaki</div>
+<p class="why"><b>選文理由：</b>用簡單英文理解利率、日圓與物價。</p>
+<a class="url" href="https://www.reuters.com/world/asia-pacific/boj-keeps-rates-steady-signals-further-rate-hikes-2026-07-31/" rel="noopener" target="_blank">原文 URL ↗</a>
+<p class="note">以下為 AI 重寫學習文章，不是原文全文。</p>
+<div class="langs">
+<button class="active" data-lang="all">三語</button>
+<button data-lang="en">English</button>
+<button data-lang="zh">繁中</button>
+<button data-lang="ja">日本語</button>
+</div>
+</section>
+<section class="card"><h3>AI Learning Article</h3><div class="tri"><div class="lang en"><h4>EN</h4><p>The Bank of Japan kept its short-term policy rate at 1% after a two-day meeting. Eight of the nine board members supported the decision, while one member argued that the rate should rise to 1.25%. The vote showed that the bank was not ready to tighten immediately, but it also showed that pressure for another increase had not disappeared.</p></div><div class="lang zh"><h4>繁中</h4><p>日本銀行在兩天會議後把短期政策利率維持在 1%。九名委員中有八人支持維持利率，一人主張提高到 1.25%。這項表決顯示日銀尚未準備立即緊縮，但進一步升息的壓力也沒有消失。</p></div><div class="lang ja"><h4>日本語</h4><p>日本銀行は2日間の会合後、短期政策金利を1％に据え置きました。9人の委員のうち8人が据え置きを支持し、1人は1.25％への引き上げを主張しました。日銀は直ちに引き締める段階ではない一方、追加利上げの圧力が消えたわけではありません。</p></div></div><div class="tri"><div class="lang en"><h4>EN</h4><p>Governor Kazuo Ueda emphasized that the bank was watching the risk that underlying inflation could move above the 2% target. A weak yen makes imported oil, food and industrial materials more expensive. If companies pass those costs to consumers and wage expectations also rise, inflation can become more persistent than a temporary energy shock.</p></div><div class="lang zh"><h4>繁中</h4><p>植田和男總裁強調，日銀正在觀察基礎通膨超過 2% 目標的風險。弱勢日圓會提高進口石油、食品與工業原料成本。若企業把成本轉嫁給消費者，而且薪資預期也上升，通膨就可能比短期能源衝擊更持久。</p></div><div class="lang ja"><h4>日本語</h4><p>植田和男総裁は、基調的な物価上昇率が2％目標を上回るリスクを注視していると強調しました。円安は輸入原油、食品、工業原料を高くします。企業がコストを価格へ転嫁し、賃金期待も上昇すれば、インフレは一時的なエネルギーショックより長く続く可能性があります。</p></div></div><div class="tri"><div class="lang en"><h4>EN</h4><p>Higher rates could support the yen and reduce imported inflation, but they also raise mortgage, corporate-loan and government-financing costs. The BOJ therefore has to judge whether price pressure is broad enough to justify tighter policy without unnecessarily weakening consumption and investment. This is why one monthly inflation number is not enough to determine the next move.</p></div><div class="lang zh"><h4>繁中</h4><p>較高利率可能支撐日圓並降低輸入型通膨，但也會提高房貸、企業貸款與政府融資成本。因此，日銀必須判斷價格壓力是否已廣泛到足以支持緊縮，同時避免不必要地削弱消費與投資。單一月份的通膨數字不足以決定下一步。</p></div><div class="lang ja"><h4>日本語</h4><p>金利引き上げは円を支え、輸入インフレを抑える可能性がありますが、住宅ローン、企業融資、政府調達のコストも高めます。そのため日銀は、消費や投資を必要以上に弱めずに引き締めるほど物価圧力が広がっているかを判断しなければなりません。単月の物価指標だけでは次の行動を決められません。</p></div></div><div class="tri"><div class="lang en"><h4>EN</h4><p>Markets focused less on the unchanged rate than on the conditions Ueda described for moving faster. Oil prices, AI-related demand, exchange-rate movements and inflation expectations were all mentioned as factors that could change the pace. Investors interpreted the message as cautious but somewhat hawkish: the bank did not promise a near-term hike, yet it made clear that delay also carries risks.</p></div><div class="lang zh"><h4>繁中</h4><p>市場關注的不是利率維持不變，而是植田所說的加速升息條件。油價、AI 相關需求、匯率與通膨預期，都可能改變升息速度。投資人把訊息解讀為謹慎但略偏鷹派：日銀沒有承諾近期升息，但也明確表示拖延具有風險。</p></div><div class="lang ja"><h4>日本語</h4><p>市場が注目したのは据え置きそのものより、植田総裁が示した利上げ加速の条件でした。原油価格、AI関連需要、為替、期待インフレがペースを変える要因として挙げられました。市場は、近い利上げを約束してはいないが、先送りにもリスクがあるという慎重ながらややタカ派的なメッセージと受け止めました。</p></div></div><div class="tri"><div class="lang en"><h4>EN</h4><p>For people living in Japan, the next decision matters through several channels. A stronger yen could ease the price of imported goods and overseas travel, while higher interest rates could make variable-rate loans more expensive. The most useful indicators to watch are service prices, wage growth at smaller firms, medium-term inflation expectations and whether the yen remains under sustained pressure.</p></div><div class="lang zh"><h4>繁中</h4><p>對居住日本的人而言，下一次決策會透過多個管道影響生活。較強的日圓可能降低進口商品與海外旅行成本，但較高利率可能提高浮動利率貸款負擔。值得觀察的是服務價格、中小企業加薪、中期通膨預期，以及日圓是否持續承壓。</p></div><div class="lang ja"><h4>日本語</h4><p>日本で暮らす人にとって、次の政策判断は複数の経路で生活に影響します。円高は輸入品や海外旅行の価格を和らげる一方、金利上昇は変動金利型ローンの負担を高めます。サービス価格、中小企業の賃上げ、中期的な期待インフレ、円安圧力の持続性が重要な観察項目です。</p></div></div></section>
+<section class="card"><h3>Vocabulary</h3>
+<div class="scroll"><table>
+<thead><tr><th>Word</th><th>IPA／讀音</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead>
+<tbody><tr><td><b>policy rate</b><br/><small>n.</small><button aria-label="播放英文單字 policy rate" class="speak-btn" data-lang="en-US" data-speak="policy rate" type="button">🔊</button></td><td class="ipa-cell">/pˈɑlʌsi rˈeɪt/<button aria-label="播放英文單字 policy rate" class="speak-btn" data-lang="en-US" data-speak="policy rate" type="button">🔊</button></td><td>政策利率</td><td>政策金利</td><td>keep the policy rate<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="keep the policy rate" type="button">🔊</button></td></tr><tr><td><b>inflation risk</b><br/><small>n.</small><button aria-label="播放英文單字 inflation risk" class="speak-btn" data-lang="en-US" data-speak="inflation risk" type="button">🔊</button></td><td class="ipa-cell">/ˌɪnflˈeɪʃʌn rˈɪsk/<button aria-label="播放英文單字 inflation risk" class="speak-btn" data-lang="en-US" data-speak="inflation risk" type="button">🔊</button></td><td>通膨風險</td><td>インフレリスク</td><td>inflation risk grows<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="inflation risk grows" type="button">🔊</button></td></tr><tr><td><b>weak yen</b><br/><small>n.</small><button aria-label="播放英文單字 weak yen" class="speak-btn" data-lang="en-US" data-speak="weak yen" type="button">🔊</button></td><td class="ipa-cell">/wˈik jˈɛn/<button aria-label="播放英文單字 weak yen" class="speak-btn" data-lang="en-US" data-speak="weak yen" type="button">🔊</button></td><td>弱勢日圓</td><td>円安</td><td>a weak yen<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="a weak yen" type="button">🔊</button></td></tr><tr><td><b>borrowing cost</b><br/><small>n.</small><button aria-label="播放英文單字 borrowing cost" class="speak-btn" data-lang="en-US" data-speak="borrowing cost" type="button">🔊</button></td><td class="ipa-cell">/bˈɑroʊɪŋ kˈɑst/<button aria-label="播放英文單字 borrowing cost" class="speak-btn" data-lang="en-US" data-speak="borrowing cost" type="button">🔊</button></td><td>借貸成本</td><td>借入コスト</td><td>higher borrowing costs<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="higher borrowing costs" type="button">🔊</button></td></tr><tr><td><b>board member</b><br/><small>n.</small><button aria-label="播放英文單字 board member" class="speak-btn" data-lang="en-US" data-speak="board member" type="button">🔊</button></td><td class="ipa-cell">/bˈɔrd mˈɛmbɝ/<button aria-label="播放英文單字 board member" class="speak-btn" data-lang="en-US" data-speak="board member" type="button">🔊</button></td><td>委員</td><td>審議委員</td><td>board members voted<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="board members voted" type="button">🔊</button></td></tr><tr><td><b>balance</b><br/><small>v.</small><button aria-label="播放英文單字 balance" class="speak-btn" data-lang="en-US" data-speak="balance" type="button">🔊</button></td><td class="ipa-cell">/bˈælʌns/<button aria-label="播放英文單字 balance" class="speak-btn" data-lang="en-US" data-speak="balance" type="button">🔊</button></td><td>平衡</td><td>バランスを取る</td><td>balance two risks<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="balance two risks" type="button">🔊</button></td></tr><tr><td><b>imported inflation</b><br/><small>n.</small><button aria-label="播放英文單字 imported inflation" class="speak-btn" data-lang="en-US" data-speak="imported inflation" type="button">🔊</button></td><td class="ipa-cell">/ˌɪmpˈɔrtɪd ˌɪnflˈeɪʃʌn/<button aria-label="播放英文單字 imported inflation" class="speak-btn" data-lang="en-US" data-speak="imported inflation" type="button">🔊</button></td><td>輸入型通膨</td><td>輸入インフレ</td><td>reduce imported inflation<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="reduce imported inflation" type="button">🔊</button></td></tr><tr><td><b>rate hike</b><br/><small>n.</small><button aria-label="播放英文單字 rate hike" class="speak-btn" data-lang="en-US" data-speak="rate hike" type="button">🔊</button></td><td class="ipa-cell">/rˈeɪt hˈaɪk/<button aria-label="播放英文單字 rate hike" class="speak-btn" data-lang="en-US" data-speak="rate hike" type="button">🔊</button></td><td>升息</td><td>利上げ</td><td>further rate hikes<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="further rate hikes" type="button">🔊</button></td></tr></tbody>
+</table></div>
+</section>
