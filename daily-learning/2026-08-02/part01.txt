@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html lang="zh-Hant">
+<head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>每日英日趨勢學習 2026-08-02｜完整恢復版</title><style>
+    :root{--bg:#f4f6fb;--card:#fff;--ink:#172033;--muted:#667085;--line:#dce3ee;
+      --blue:#3159c8;--soft:#edf2ff;--green:#14764a;--gsoft:#eaf7ef;
+      --purple:#6941c6;--psoft:#f2edff;--amber:#9a6700;--asoft:#fff6d8}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);
+      font-family:Inter,"Noto Sans TC","Noto Sans JP",Arial,sans-serif;line-height:1.72}
+    a{color:var(--blue);text-decoration:none}button{font:inherit}
+    header{position:sticky;top:0;z-index:10;background:#ffffffee;border-bottom:1px solid var(--line)}
+    .head{max-width:1400px;margin:auto;padding:11px 18px;display:flex;justify-content:space-between;gap:12px}
+    .tabs,.langs{display:flex;gap:8px;flex-wrap:wrap}
+    .tabs button,.langs button{border:1px solid var(--line);background:#fff;padding:8px 11px;border-radius:10px}
+    .tabs .active,.langs .active{background:var(--soft);color:var(--blue);border-color:var(--blue)}
+    .page{max-width:1400px;margin:16px auto;padding:0 18px}
+    .hero,.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:13px}
+    .hero{background:linear-gradient(135deg,#fff,#eef3ff)}
+    .layout{display:grid;grid-template-columns:280px 1fr;gap:14px}
+    nav{position:sticky;top:75px;height:calc(100vh - 90px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:14px;padding:8px}
+    .navbtn{width:100%;border:0;background:transparent;text-align:left;padding:10px;border-radius:9px;margin-bottom:4px}
+    .navbtn span{display:block;color:var(--blue);font-size:11px;font-weight:800}
+    .navbtn.active,.navbtn:hover{background:var(--soft);color:var(--blue)}
+    .panel,.article{display:none}.panel.active,.article.active{display:block}
+    .meta{display:flex;gap:7px;flex-wrap:wrap;color:var(--muted);font-size:12px}
+    .level{background:var(--soft);color:var(--blue);padding:3px 8px;border-radius:999px;font-weight:800}
+    .source{background:var(--gsoft);color:var(--green);padding:3px 8px;border-radius:999px;font-weight:800}
+    .muted,.note{color:var(--muted);font-size:12px}
+    .why{border-left:4px solid var(--blue);background:#f8fafc;padding:10px}
+    .url{display:inline-block;border:1px solid var(--blue);padding:8px 11px;border-radius:9px;font-weight:700}
+    .tri{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-bottom:10px}
+    .tri>div,.mini{border:1px solid var(--line);border-radius:10px;padding:11px;background:#fff}
+    .tri h4{margin:0 0 5px;color:var(--muted);font-size:12px}
+    .hidden{display:none!important}.scroll{overflow:auto}
+    table{width:100%;border-collapse:collapse;font-size:14px}
+    th,td{border-bottom:1px solid var(--line);padding:9px;text-align:left;vertical-align:top}
+    .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+    details{border:1px solid var(--line);border-radius:10px;padding:10px;margin-bottom:8px}
+    summary{font-weight:700;cursor:pointer}
+    .consult{border-left:5px solid var(--purple);background:var(--psoft)}
+    .insight{border-left:5px solid var(--amber);background:var(--asoft)}
+    .quality{border-style:dashed;background:#f8fafc}
+    .chat{border-left:5px solid var(--green);background:var(--gsoft)}
+    .jptext p{font-size:16px}
+    @media(max-width:1000px){.layout{grid-template-columns:1fr}nav{position:static;height:auto;display:flex;overflow:auto}.navbtn{min-width:250px}}
+    @media(max-width:720px){.head{flex-direction:column}.tri,.grid{grid-template-columns:1fr}.card{padding:14px}}
+    </style><style>
+    .audio-toolbar{position:sticky;top:0;z-index:9999;display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:9px 14px;background:#172033;color:#fff;font-family:system-ui,sans-serif;border-bottom:1px solid #344054}
+    .audio-toolbar a{color:#fff;text-decoration:none}.audio-toolbar .spacer{flex:1}.audio-toolbar button,.audio-toolbar select{border:1px solid #98a2b3;background:#fff;color:#172033;border-radius:9px;padding:6px 9px;font:inherit;cursor:pointer}.audio-toolbar .status{font-size:12px;color:#d0d5dd}
+    .speak-btn{margin-left:6px;border:1px solid #98a2b3;background:#fff;color:#3159c8;border-radius:8px;padding:3px 7px;cursor:pointer;font-size:12px;white-space:nowrap}.speak-btn:hover{background:#edf2ff}.ipa-cell{font-family:Georgia,serif;min-width:150px}.restore-note{max-width:1400px;margin:10px auto;padding:10px 18px;color:#344054;font:13px system-ui,sans-serif}.restore-note strong{color:#14764a}
+    @media(max-width:720px){.audio-toolbar{position:relative}.audio-toolbar .spacer{display:none}.ipa-cell{min-width:120px}}
+    </style><link href="/daily-learning/assets/pronunciation.css?v=3" rel="stylesheet"/></head>
+<body><div class="audio-toolbar"><a href="/">總入口</a><a href="/daily-learning/">學習中心</a><a href="/daily-learning/archive/">歷史</a><span class="spacer"></span><label>語速 <select id="speech-rate"><option value="1">正常</option><option value="0.72">慢速</option></select></label><button id="speech-stop" type="button">■ 停止</button><span class="status" id="speech-status">正在偵測語音…</span></div><div class="restore-note"><strong>完整恢復版</strong>｜保留原先完整學習內容，並加入英文 IPA、日文讀音與瀏覽器語音播放。</div>
+<header><div class="head">
+<div><h1>每日英日趨勢學習</h1><div class="muted">2026-08-02｜English 5＋日本語 3</div></div>
+<div class="tabs"><button class="active" data-panel="en">English 5</button><button data-panel="jp">日本語 3</button></div>
+</div></header><div class="restore-banner">2026-08-02 完整重製版｜英文文章依 CEFR 恢復長度；日文每篇擴充為約 900–1,400 字。</div>
+<div class="page">
+<section class="hero"><h2>今日選文</h2><p>每篇均附原文 URL；正文為 AI 重寫學習文章，不冒充原文全文。</p></section>
+<div class="layout">
+<nav><button class="navbtn active" data-group="en" data-target="e1"><span>A2</span>South Korea’s exports jump on AI demand</button><button class="navbtn" data-group="en" data-target="e2"><span>B2</span>Japan earthquake tests auto and chip supply-chain resilience</button><button class="navbtn" data-group="en" data-target="e3"><span>B2</span>Tech earnings revive confidence in AI spending—but bond yields rise</button><button class="navbtn" data-group="en" data-target="e4"><span>C1</span>Meaningful oversight of medical AI requires more than a human in the loop</button><button class="navbtn" data-group="en" data-target="e5"><span>B2</span>FDA licenses the first freeze-dried plasma product</button><button class="navbtn active" data-group="jp" data-target="j1"><span>N1+</span>据え置きの中にあるタカ派シグナル</button><button class="navbtn" data-group="jp" data-target="j2"><span>専門</span>食料品消費税1％案をどう評価するか</button><button class="navbtn" data-group="jp" data-target="j3"><span>N1+</span>2026年7月の日本：制度、インフラ、災害</button></nav>
+<main>
+<section class="panel active" id="en">
+<article class="article active" id="e1">
+<section class="card">
+<div class="meta">
+<span class="level">A2</span>
+<span class="source">Reuters</span>
+<span>2026-08-01</span>
+<span>約 7 分鐘</span>
+<span class="level">287 words</span></div>
+<h2>South Korea’s exports jump on AI demand</h2>
+<div class="muted">By Jihoon Lee</div>
+<p class="why"><b>選文理由：</b>用簡單英文理解 AI 投資如何帶動出口。</p>
+<a class="url" href="https://www.reuters.com/world/asia-pacific/south-korea-july-exports-beat-forecasts-robust-demand-ai-investments-2026-08-01/" rel="noopener" target="_blank">原文 URL ↗</a>
+<p class="note">以下為 AI 重寫學習文章，不是原文全文。</p>
+<div class="langs">
+<button class="active" data-lang="all">三語</button>
+<button data-lang="en">English</button>
+<button data-lang="zh">繁中</button>
+<button data-lang="ja">日本語</button>
+</div>
+</section>
+<section class="card"><h3>AI Learning Article</h3><div class="tri"><div class="lang en"><h4>EN</h4><p>South Korea’s exports rose 62.8% in July from a year earlier to almost $99 billion, beating economists’ forecasts. The increase was slightly slower than June’s exceptional pace, but it still showed how strongly the country is benefiting from the global AI investment cycle. Imports also increased, and the country recorded a trade surplus of more than $30 billion.</p></div><div class="lang zh"><h4>繁中</h4><p>韓國七月出口年增 62.8%，接近 990 億美元，優於經濟學家預期。雖然增幅略低於六月的異常高點，但仍顯示韓國強烈受惠於全球 AI 投資週期。進口也增加，貿易順差超過 300 億美元。</p></div><div class="lang ja"><h4>日本語</h4><p>韓国の7月輸出は前年同月比62.8％増の約990億ドルとなり、市場予想を上回りました。6月の非常に高い伸びよりは鈍化しましたが、世界のAI投資サイクルから大きな恩恵を受けていることを示しました。輸入も増え、貿易黒字は300億ドルを超えました。</p></div></div><div class="tri"><div class="lang en"><h4>EN</h4><p>Semiconductor exports jumped 179%, helped by higher memory-chip prices and strong demand from data centers. Computer exports rose more than 400% as servers and related equipment were shipped to customers building AI systems. Exports to both China and the United States increased sharply, showing that the boom is connected to several parts of the global technology supply chain.</p></div><div class="lang zh"><h4>繁中</h4><p>半導體出口成長 179%，受到記憶體價格上升與資料中心需求支撐。電腦出口增加超過 400%，反映伺服器與相關設備出貨給建置 AI 系統的客戶。對中國與美國出口都大幅成長，顯示熱潮連結全球科技供應鏈多個環節。</p></div><div class="lang ja"><h4>日本語</h4><p>半導体輸出は179％増となり、メモリ価格上昇とデータセンター需要が支えました。コンピューター輸出は400％超増加し、AIシステムを構築する顧客向けのサーバーや関連設備が伸びました。中国向け、米国向けとも大幅に増え、世界の技術供給網の複数部分と結び付いています。</p></div></div><div class="tri"><div class="lang en"><h4>EN</h4><p>The headline numbers are impressive, but part of the increase comes from prices rather than physical volume. When memory prices rise, the value of exports can grow even if the number of units changes less dramatically. Analysts therefore compare export value, shipment volume and company margins before deciding whether the improvement is structural or mainly cyclical.</p></div><div class="lang zh"><h4>繁中</h4><p>表面數字很亮眼，但部分成長來自價格而非實體數量。記憶體價格上升時，即使出貨單位沒有同樣幅度增加，出口金額仍會大幅成長。因此分析師會比較出口金額、出貨量與公司利潤率，判斷改善是結構性還是主要來自週期。</p></div><div class="lang ja"><h4>日本語</h4><p>数字は印象的ですが、増加の一部は数量ではなく価格によるものです。メモリ価格が上がれば、出荷個数の伸びが小さくても輸出額は大きくなります。そのため輸出金額、出荷数量、企業利益率を比べ、構造的改善か循環的要因かを判断します。</p></div></div><div class="tri"><div class="lang en"><h4>EN</h4><p>Concentration is the main risk. Chips and computers are doing much better than many traditional export products, so the economy is more exposed to a small group of companies and customers. If U.S. technology firms slow capital spending, memory prices fall or a new architecture reduces demand, the trade figures could weaken quickly.</p></div><div class="lang zh"><h4>繁中</h4><p>主要風險是集中度。晶片與電腦表現遠優於許多傳統出口品，因此經濟更依賴少數公司與客戶。若美國科技公司放慢資本支出、記憶體價格下跌，或新架構降低需求，貿易數據可能迅速轉弱。</p></div><div class="lang ja"><h4>日本語</h4><p>最大のリスクは集中です。半導体とコンピューターが他の輸出品より大幅に強いため、経済は少数企業と顧客への依存を高めています。米国テック企業が設備投資を減らし、メモリ価格が下落し、新しいアーキテクチャが需要を減らせば、貿易数字は急速に弱まる可能性があります。</p></div></div><div class="tri"><div class="lang en"><h4>EN</h4><p>For investors, the next questions are whether the export boom produces lasting wage and investment gains inside Korea and whether smaller suppliers also benefit. For other Asian economies, the data show that AI demand can support trade, but the benefits are uneven. Countries with memory, packaging, power equipment or server capacity may gain more than economies without those industrial positions.</p></div><div class="lang zh"><h4>繁中</h4><p>對投資人而言，下一個問題是出口熱潮能否在韓國內部產生持久薪資與投資成長，以及中小供應商是否也受惠。對其他亞洲經濟體而言，數據顯示 AI 需求能支撐貿易，但利益分配不均。具備記憶體、封裝、電力設備或伺服器能力的國家可能受益更多。</p></div><div class="lang ja"><h4>日本語</h4><p>投資家にとって次の焦点は、輸出ブームが韓国内の賃金と投資を持続的に押し上げ、中小供給企業にも広がるかです。他のアジア経済にとって、AI需要が貿易を支える一方、恩恵は均等ではありません。メモリ、パッケージ、電力設備、サーバー能力を持つ国がより大きく利益を得る可能性があります。</p></div></div></section>
+<section class="card"><h3>Vocabulary</h3>
+<div class="scroll"><table>
+<thead><tr><th>Word</th><th>IPA／讀音</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead>
+<tbody><tr><td><b>export</b><br/><small>n.</small><button aria-label="播放英文單字 export" class="speak-btn" data-lang="en-US" data-speak="export" type="button">🔊</button></td><td class="ipa-cell">/ˈɛkspɔrt/<button aria-label="播放英文單字 export" class="speak-btn" data-lang="en-US" data-speak="export" type="button">🔊</button></td><td>出口</td><td>輸出</td><td>export growth<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="export growth" type="button">🔊</button></td></tr><tr><td><b>surge</b><br/><small>v.</small><button aria-label="播放英文單字 surge" class="speak-btn" data-lang="en-US" data-speak="surge" type="button">🔊</button></td><td class="ipa-cell">/sˈɝdʒ/<button aria-label="播放英文單字 surge" class="speak-btn" data-lang="en-US" data-speak="surge" type="button">🔊</button></td><td>激增</td><td>急増する</td><td>exports surged<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="exports surged" type="button">🔊</button></td></tr><tr><td><b>forecast</b><br/><small>n.</small><button aria-label="播放英文單字 forecast" class="speak-btn" data-lang="en-US" data-speak="forecast" type="button">🔊</button></td><td class="ipa-cell">/fˈɔrkˌæst/<button aria-label="播放英文單字 forecast" class="speak-btn" data-lang="en-US" data-speak="forecast" type="button">🔊</button></td><td>預測</td><td>予測</td><td>beat the forecast<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="beat the forecast" type="button">🔊</button></td></tr><tr><td><b>semiconductor</b><br/><small>n.</small><button aria-label="播放英文單字 semiconductor" class="speak-btn" data-lang="en-US" data-speak="semiconductor" type="button">🔊</button></td><td class="ipa-cell">/sˌɛmikʌndˈʌktɝ/<button aria-label="播放英文單字 semiconductor" class="speak-btn" data-lang="en-US" data-speak="semiconductor" type="button">🔊</button></td><td>半導體</td><td>半導体</td><td>semiconductor exports<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="semiconductor exports" type="button">🔊</button></td></tr><tr><td><b>shipment</b><br/><small>n.</small><button aria-label="播放英文單字 shipment" class="speak-btn" data-lang="en-US" data-speak="shipment" type="button">🔊</button></td><td class="ipa-cell">/ʃˈɪpmʌnt/<button aria-label="播放英文單字 shipment" class="speak-btn" data-lang="en-US" data-speak="shipment" type="button">🔊</button></td><td>出貨</td><td>出荷</td><td>computer shipments<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="computer shipments" type="button">🔊</button></td></tr><tr><td><b>trade surplus</b><br/><small>n.</small><button aria-label="播放英文單字 trade surplus" class="speak-btn" data-lang="en-US" data-speak="trade surplus" type="button">🔊</button></td><td class="ipa-cell">/trˈeɪd sˈɝplʌs/<button aria-label="播放英文單字 trade surplus" class="speak-btn" data-lang="en-US" data-speak="trade surplus" type="button">🔊</button></td><td>貿易順差</td><td>貿易黒字</td><td>record a surplus<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="record a surplus" type="button">🔊</button></td></tr><tr><td><b>concentrated</b><br/><small>adj.</small><button aria-label="播放英文單字 concentrated" class="speak-btn" data-lang="en-US" data-speak="concentrated" type="button">🔊</button></td><td class="ipa-cell">/kˈɑnsʌntrˌeɪtɪd/<button aria-label="播放英文單字 concentrated" class="speak-btn" data-lang="en-US" data-speak="concentrated" type="button">🔊</button></td><td>集中的</td><td>集中した</td><td>concentrated growth<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="concentrated growth" type="button">🔊</button></td></tr><tr><td><b>slowdown</b><br/><small>n.</small><button aria-label="播放英文單字 slowdown" class="speak-btn" data-lang="en-US" data-speak="slowdown" type="button">🔊</button></td><td class="ipa-cell">/slˈoʊdˌaʊn/<button aria-label="播放英文單字 slowdown" class="speak-btn" data-lang="en-US" data-speak="slowdown" type="button">🔊</button></td><td>放緩</td><td>減速</td><td>possible slowdown<button aria-label="播放英文用法" class="speak-btn" data-lang="en-US" data-speak="possible slowdown" type="button">🔊</button></td></tr></tbody>
+</table></div>
+</section>
