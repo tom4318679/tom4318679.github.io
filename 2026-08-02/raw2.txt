@@ -1,0 +1,110 @@
+oopener">原文 URL ↗</a>
+            <p class="note">以下為 AI 重寫學習文章，不是原文全文。</p>
+            <div class="langs">
+              <button class="active" data-lang="all">三語</button>
+              <button data-lang="en">English</button>
+              <button data-lang="zh">繁中</button>
+              <button data-lang="ja">日本語</button>
+            </div>
+          </section>
+          <section class="card"><h3>AI Learning Article</h3><div class='tri'><div class='lang en'><h4>EN</h4><p>Strong earnings from Amazon and Microsoft renewed confidence in AI investment.</p></div><div class='lang zh'><h4>繁中</h4><p>Amazon 與 Microsoft 強勁財報重振 AI 投資信心。</p></div><div class='lang ja'><h4>日本語</h4><p>AmazonとMicrosoftの好決算でAI投資への信頼が回復しました。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Investors are rewarding companies that can demonstrate demand, revenue growth and a credible path to cash flow.</p></div><div class='lang zh'><h4>繁中</h4><p>投資人獎勵能證明需求、收入成長與現金流路徑的公司。</p></div><div class='lang ja'><h4>日本語</h4><p>市場は需要、売上、キャッシュフローへの道筋を示せる企業を評価しています。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Long-term U.S. bond yields rose after inflation warnings. Higher yields reduce the present value of future profits.</p></div><div class='lang zh'><h4>繁中</h4><p>通膨警告推升長期美債殖利率，降低未來獲利現值。</p></div><div class='lang ja'><h4>日本語</h4><p>インフレ警戒で長期金利が上昇し、将来利益の現在価値を押し下げました。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>AI valuation depends on both company execution and the macro discount rate.</p></div><div class='lang zh'><h4>繁中</h4><p>AI 估值同時取決於企業執行與宏觀折現率。</p></div><div class='lang ja'><h4>日本語</h4><p>AI企業の評価は事業実行とマクロの割引率に左右されます。</p></div></div></section>
+          <section class="card"><h3>Vocabulary</h3>
+            <div class="scroll"><table>
+              <thead><tr><th>Word</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead>
+              <tbody><tr><td><b>capital expenditure</b><br><small>n.</small></td><td>資本支出</td><td>設備投資</td><td>AI capital expenditure</td></tr><tr><td><b>cash flow</b><br><small>n.</small></td><td>現金流</td><td>キャッシュフロー</td><td>generate cash flow</td></tr><tr><td><b>supply chain</b><br><small>n.</small></td><td>供應鏈</td><td>サプライチェーン</td><td>supply-chain disruption</td></tr><tr><td><b>policy signal</b><br><small>n.</small></td><td>政策訊號</td><td>政策シグナル</td><td>send a signal</td></tr><tr><td><b>market reaction</b><br><small>n.</small></td><td>市場反應</td><td>市場反応</td><td>trigger a reaction</td></tr><tr><td><b>risk premium</b><br><small>n.</small></td><td>風險溢價</td><td>リスクプレミアム</td><td>apply a premium</td></tr><tr><td><b>implementation</b><br><small>n.</small></td><td>導入執行</td><td>実装</td><td>implementation risk</td></tr><tr><td><b>outlook</b><br><small>n.</small></td><td>展望</td><td>見通し</td><td>company outlook</td></tr></tbody>
+            </table></div>
+          </section>
+          <section class="card"><h3>Phrases & Collocations</h3><div class="grid"><div class='mini'><b>renew investor confidence</b><p>重振投資信心／投資家の信頼を回復する</p><small>Earnings renewed confidence.</small></div><div class='mini'><b>demonstrate demand</b><p>證明需求／需要を示す</p><small>The company demonstrated demand.</small></div><div class='mini'><b>price in higher rates</b><p>反映更高利率／高金利を織り込む</p><small>Markets priced in higher rates.</small></div><div class='mini'><b>face valuation pressure</b><p>面臨估值壓力／評価圧力に直面する</p><small>Tech stocks face pressure.</small></div></div></section>
+          <section class="card"><h3>Grammar & Structure</h3><details><summary>while</summary><p>對比科技財報與高利率壓力。</p></details><details><summary>may still</summary><p>表示即使營運佳，估值仍可能受壓。</p></details></section>
+          <section class="card consult"><h3>Business / Consulting English</h3><ol><li>AI capex is being judged on conversion into cash flow, not scale alone.</li><li>Company execution and the discount rate must be evaluated together.</li><li>Strong earnings can offset—but not eliminate—macro pressure.</li></ol></section>
+          <section class="card"><h3>理解與輸出</h3><details><summary>Why did confidence improve?</summary><p>Because cloud demand and earnings were strong.</p></details><details><summary>Why can high yields hurt valuation?</summary><p>They reduce the present value of future profits.</p></details><details><summary>Output</summary><p>Write an investment view combining earnings and rates.</p></details></section>
+          <section class="card insight"><h3>內容解讀</h3><p>高利率仍是 AI 股估值的重要約束。</p></section>
+          <section class="card quality"><h3>來源品質卡</h3><p>Reuters 市場綜合報導。短期價格反應可能受多項因素影響。</p></section>
+        </article>
+        
+        <article id="e4" class="article ">
+          <section class="card">
+            <div class="meta">
+              <span class="level">C1</span>
+              <span class="source">npj Digital Medicine</span>
+              <span>2026</span>
+              <span>約 15 分鐘</span>
+            </div>
+            <h2>Meaningful oversight of medical AI requires more than a human in the loop</h2>
+            <div class="muted">By D. van de Sande and colleagues</div>
+            <p class="why"><b>選文理由：</b>醫療 AI 治理與臨床責任。</p>
+            <a class="url" href="https://www.nature.com/articles/s41746-026-02971-1" target="_blank" rel="noopener">原文 URL ↗</a>
+            <p class="note">以下為 AI 重寫學習文章，不是原文全文。</p>
+            <div class="langs">
+              <button class="active" data-lang="all">三語</button>
+              <button data-lang="en">English</button>
+              <button data-lang="zh">繁中</button>
+              <button data-lang="ja">日本語</button>
+            </div>
+          </section>
+          <section class="card"><h3>AI Learning Article</h3><div class='tri'><div class='lang en'><h4>EN</h4><p>Healthcare organizations often claim that AI is safe because a clinician remains in the loop. Human presence alone is not meaningful oversight.</p></div><div class='lang zh'><h4>繁中</h4><p>醫療機構常稱，只要臨床人員仍在流程中，AI 就安全。但單純有人在場不等於有效監督。</p></div><div class='lang ja'><h4>日本語</h4><p>臨床家がループ内にいれば安全だという説明がありますが、人がいるだけでは意味ある監督になりません。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Four conditions are needed: epistemic capacity, cognitive space, decisional authority and intervention effectiveness.</p></div><div class='lang zh'><h4>繁中</h4><p>需要四項條件：知識能力、認知空間、決策權與介入有效性。</p></div><div class='lang ja'><h4>日本語</h4><p>知識能力、認知的余裕、意思決定権、介入の実効性が必要です。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>A rushed clinician facing many alerts may technically supervise the system but may be unable to evaluate it carefully.</p></div><div class='lang zh'><h4>繁中</h4><p>面對大量警示的忙碌醫師，形式上監督系統，實際上可能無法仔細判斷。</p></div><div class='lang ja'><h4>日本語</h4><p>多数のアラートに追われる医師は形式上監督していても十分評価できません。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Training, staffing, interface design and escalation procedures are therefore part of AI safety.</p></div><div class='lang zh'><h4>繁中</h4><p>訓練、人力、介面與升級流程都是 AI 安全的一部分。</p></div><div class='lang ja'><h4>日本語</h4><p>教育、人員配置、画面設計、エスカレーションもAI安全の一部です。</p></div></div></section>
+          <section class="card"><h3>Vocabulary</h3>
+            <div class="scroll"><table>
+              <thead><tr><th>Word</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead>
+              <tbody><tr><td><b>capital expenditure</b><br><small>n.</small></td><td>資本支出</td><td>設備投資</td><td>AI capital expenditure</td></tr><tr><td><b>cash flow</b><br><small>n.</small></td><td>現金流</td><td>キャッシュフロー</td><td>generate cash flow</td></tr><tr><td><b>supply chain</b><br><small>n.</small></td><td>供應鏈</td><td>サプライチェーン</td><td>supply-chain disruption</td></tr><tr><td><b>policy signal</b><br><small>n.</small></td><td>政策訊號</td><td>政策シグナル</td><td>send a signal</td></tr><tr><td><b>market reaction</b><br><small>n.</small></td><td>市場反應</td><td>市場反応</td><td>trigger a reaction</td></tr><tr><td><b>risk premium</b><br><small>n.</small></td><td>風險溢價</td><td>リスクプレミアム</td><td>apply a premium</td></tr><tr><td><b>implementation</b><br><small>n.</small></td><td>導入執行</td><td>実装</td><td>implementation risk</td></tr><tr><td><b>outlook</b><br><small>n.</small></td><td>展望</td><td>見通し</td><td>company outlook</td></tr></tbody>
+            </table></div>
+          </section>
+          <section class="card"><h3>Phrases & Collocations</h3><div class="grid"><div class='mini'><b>remain in the loop</b><p>保留在人類決策流程／ループ内に残る</p><small>A clinician remains in the loop.</small></div><div class='mini'><b>function as a safeguard</b><p>作為安全防護／安全装置として機能する</p><small>Humans must function as a safeguard.</small></div><div class='mini'><b>reject a recommendation</b><p>拒絕建議／推奨を拒否する</p><small>Clinicians need authority to reject.</small></div><div class='mini'><b>prevent downstream harm</b><p>避免後續傷害／下流の害を防ぐ</p><small>Oversight should prevent downstream harm.</small></div></div></section>
+          <section class="card"><h3>Grammar & Structure</h3><details><summary>only if</summary><p>表示四項條件是必要條件。</p></details><details><summary>may technically..., but...</summary><p>對比形式合規與實際能力。</p></details></section>
+          <section class="card consult"><h3>Business / Consulting English</h3><ol><li>Human oversight is a system capability, not a checkbox.</li><li>Governance must account for workload, authority and response time.</li><li>A nominal override is not meaningful if harm cannot be prevented.</li></ol></section>
+          <section class="card"><h3>理解與輸出</h3><details><summary>What are the four conditions?</summary><p>Knowledge, cognitive space, authority and effective intervention.</p></details><details><summary>Why is a human-in-the-loop label insufficient?</summary><p>Because the human may lack time, knowledge or authority.</p></details><details><summary>Output</summary><p>Write a governance checklist.</p></details></section>
+          <section class="card insight"><h3>內容解讀</h3><p>企業不能只寫『最終由人確認』，還要驗證人是否看得懂、有時間、有權限且能及時阻止錯誤。</p></section>
+          <section class="card quality"><h3>來源品質卡</h3><p>同行評審期刊論文，屬概念治理框架；仍需更多實證驗證。</p></section>
+        </article>
+        
+        <article id="e5" class="article ">
+          <section class="card">
+            <div class="meta">
+              <span class="level">B2</span>
+              <span class="source">FDA</span>
+              <span>2026-07-29</span>
+              <span>約 11 分鐘</span>
+            </div>
+            <h2>FDA licenses the first freeze-dried plasma product</h2>
+            <div class="muted">By U.S. Food and Drug Administration</div>
+            <p class="why"><b>選文理由：</b>醫療產品核准、急救情境與監管語言。</p>
+            <a class="url" href="https://www.fda.gov/news-events/fda-newsroom/press-announcements" target="_blank" rel="noopener">原文 URL ↗</a>
+            <p class="note">以下為 AI 重寫學習文章，不是原文全文。</p>
+            <div class="langs">
+              <button class="active" data-lang="all">三語</button>
+              <button data-lang="en">English</button>
+              <button data-lang="zh">繁中</button>
+              <button data-lang="ja">日本語</button>
+            </div>
+          </section>
+          <section class="card"><h3>AI Learning Article</h3><div class='tri'><div class='lang en'><h4>EN</h4><p>The FDA licensed the first freeze-dried plasma product in the United States.</p></div><div class='lang zh'><h4>繁中</h4><p>美國 FDA 核准國內首款凍乾血漿產品。</p></div><div class='lang ja'><h4>日本語</h4><p>FDAは米国初の凍結乾燥血漿製品を承認しました。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Conventional frozen plasma requires cold storage and thawing. Freeze-dried plasma can be stored and transported more easily.</p></div><div class='lang zh'><h4>繁中</h4><p>傳統冷凍血漿需要冷藏與解凍，凍乾血漿更容易儲存與運輸。</p></div><div class='lang ja'><h4>日本語</h4><p>従来の凍結血漿は冷蔵・解凍が必要ですが、凍結乾燥製品は保管・輸送が容易です。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Approval means the product met standards for quality, safety and intended use. It does not mean every trauma patient should receive it.</p></div><div class='lang zh'><h4>繁中</h4><p>核准表示符合品質、安全與預定用途標準，但不表示每位創傷患者都應使用。</p></div><div class='lang ja'><h4>日本語</h4><p>承認は品質、安全性、使用目的の基準を満たしたことを意味しますが、全患者に使うという意味ではありません。</p></div></div><div class='tri'><div class='lang en'><h4>EN</h4><p>Implementation depends on training, logistics, cost and post-market monitoring.</p></div><div class='lang zh'><h4>繁中</h4><p>導入取決於訓練、物流、成本及上市後監測。</p></div><div class='lang ja'><h4>日本語</h4><p>導入には教育、物流、費用、市販後監視が必要です。</p></div></div></section>
+          <section class="card"><h3>Vocabulary</h3>
+            <div class="scroll"><table>
+              <thead><tr><th>Word</th><th>中文</th><th>日本語</th><th>Usage</th></tr></thead>
+              <tbody><tr><td><b>capital expenditure</b><br><small>n.</small></td><td>資本支出</td><td>設備投資</td><td>AI capital expenditure</td></tr><tr><td><b>cash flow</b><br><small>n.</small></td><td>現金流</td><td>キャッシュフロー</td><td>generate cash flow</td></tr><tr><td><b>supply chain</b><br><small>n.</small></td><td>供應鏈</td><td>サプライチェーン</td><td>supply-chain disruption</td></tr><tr><td><b>policy signal</b><br><small>n.</small></td><td>政策訊號</td><td>政策シグナル</td><td>send a signal</td></tr><tr><td><b>market reaction</b><br><small>n.</small></td><td>市場反應</td><td>市場反応</td><td>trigger a reaction</td></tr><tr><td><b>risk premium</b><br><small>n.</small></td><td>風險溢價</td><td>リスクプレミアム</td><td>apply a premium</td></tr><tr><td><b>implementation</b><br><small>n.</small></td><td>導入執行</td><td>実装</td><td>implementation risk</td></tr><tr><td><b>outlook</b><br><small>n.</small></td><td>展望</td><td>見通し</td><td>company outlook</td></tr></tbody>
+            </table></div>
+          </section>
+          <section class="card"><h3>Phrases & Collocations</h3><div class="grid"><div class='mini'><b>meet regulatory standards</b><p>符合監管標準／規制基準を満たす</p><small>The product met regulatory standards.</small></div><div class='mini'><b>be stored more easily</b><p>更容易保存／より容易に保管できる</p><small>It can be stored more easily.</small></div><div class='mini'><b>define clinical indications</b><p>界定臨床適應症／臨床適応を定める</p><small>Protocols must define indications.</small></div><div class='mini'><b>improve preparedness</b><p>提升應變準備／備えを高める</p><small>The product may improve preparedness.</small></div></div></section>
+          <section class="card"><h3>Grammar & Structure</h3><details><summary>does not mean that</summary><p>限制對核准的過度解讀。</p></details><details><summary>where + clause</summary><p>指出產品價值最大的使用場景。</p></details></section>
+          <section class="card consult"><h3>Business / Consulting English</h3><ol><li>Approval is the start of implementation, not the end of evaluation.</li><li>The value proposition is strongest where cold-chain access is limited.</li><li>Training and logistics determine whether innovation becomes benefit.</li></ol></section>
+          <section class="card"><h3>理解與輸出</h3><details><summary>Why is freeze-dried plasma useful?</summary><p>It reduces cold-chain and thawing requirements.</p></details><details><summary>What does approval not mean?</summary><p>It does not mean every trauma patient should receive it.</p></details><details><summary>Output</summary><p>Explain the likely first-use settings.</p></details></section>
+          <section class="card insight"><h3>內容解讀</h3><p>軍事、災害與偏遠急救可能最先受益。</p></section>
+          <section class="card quality"><h3>來源品質卡</h3><p>FDA 官方核准資訊，屬一手監管來源。完整試驗細節仍需查審查資料。</p></section>
+        </article>
+        </section>
+          <section id="jp" class="panel">
+        <article id="j1" class="article active">
+          <section class="card">
+            <div class="meta">
+              <span class="level">N1+</span>
+              <span class="source">NRI</span>
+              <span>2026-07-31</span>
+              <span>約 18 分鐘</span>
+            </div>
+            <h2>据え置きの中にあるタカ派シグナル</h2>
+            <div class="muted">木内 登英</div>
+            <p class="why"><b>選文理由：</b>金融政策與市場解讀。</p>
+            <a class="url" href="https://www.nri.com/jp/media/column/kiuchi/20260731_4.html" target="_blank" rel="noopener">原文 URL ↗</a>
+            <p class="note">以下為 AI学習用リライト，不是原文全文。</p>
+          </section>
+          <section class="card jptext"><h3>AI学習用リライト</h3><p>
