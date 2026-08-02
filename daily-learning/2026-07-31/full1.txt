@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>每日趨勢 × 英日深度學習｜2026-07-31</title>
+<style>
+:root{
+ --bg:#f4f6fb;--card:#fff;--ink:#172033;--muted:#667085;--line:#dce3ee;
+ --blue:#3159c8;--blue-soft:#edf2ff;--green:#14764a;--green-soft:#eaf7ef;
+ --purple:#6941c6;--purple-soft:#f2edff;--amber:#9a6700;--amber-soft:#fff6d8;
+ --shadow:0 7px 24px rgba(29,48,91,.06)
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,"Noto Sans TC","Noto Sans JP","Yu Gothic",Arial,sans-serif;line-height:1.72}
+a{color:var(--blue);text-decoration:none} a:hover{text-decoration:underline}
+button{font:inherit}
+header{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.96);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}
+.head{max-width:1440px;margin:auto;padding:11px 20px;display:flex;justify-content:space-between;gap:15px;align-items:center}
+h1{font-size:20px;margin:0} .sub{font-size:12px;color:var(--muted)}
+.top-tabs,.lang-controls{display:flex;gap:8px;flex-wrap:wrap}
+.tab,.lang-btn{border:1px solid var(--line);background:#fff;padding:8px 12px;border-radius:10px;cursor:pointer}
+.tab.active,.lang-btn.active{background:var(--blue-soft);border-color:var(--blue);color:var(--blue)}
+.page{max-width:1440px;margin:18px auto;padding:0 20px}
+.hero{background:linear-gradient(135deg,#fff,#eef3ff);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:var(--shadow)}
+.hero h2{margin:0 0 6px} .hero p{color:var(--muted);margin:5px 0}
+.overview{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:11px;margin:15px 0}
+.overview-card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px;box-shadow:0 3px 15px rgba(29,48,91,.04)}
+.overview-card h3{font-size:15px;line-height:1.4;margin:7px 0 4px} .overview-card p{font-size:13px;color:var(--muted);margin:0}
+.level,.source{display:inline-flex;border-radius:999px;padding:3px 8px;font-size:11px;font-weight:800}
+.level{background:var(--blue-soft);color:var(--blue)} .source{background:var(--green-soft);color:var(--green)}
+.workspace{display:grid;grid-template-columns:280px minmax(0,1fr);gap:15px;margin-top:15px}
+nav{position:sticky;top:76px;height:calc(100vh - 92px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:16px;padding:9px}
+.nav-title{font-size:12px;font-weight:800;color:var(--muted);padding:8px 9px}
+.nav-btn{display:block;width:100%;border:0;background:transparent;text-align:left;padding:10px;border-radius:10px;cursor:pointer;line-height:1.35;margin-bottom:4px}
+.nav-btn span{display:block;font-size:11px;color:var(--blue);font-weight:800;margin-bottom:3px}
+.nav-btn:hover,.nav-btn.active{background:var(--blue-soft);color:var(--blue)}
+.panel{display:none} .panel.active{display:block}
+.article{display:none} .article.active{display:block}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;margin-bottom:13px;box-shadow:0 4px 18px rgba(29,48,91,.045)}
+.article-title h2{font-size:25px;line-height:1.35;margin:7px 0 3px} .byline{color:var(--muted);font-size:13px;margin:0 0 10px}
+.meta-row{display:flex;gap:7px;align-items:center;flex-wrap:wrap;color:var(--muted);font-size:12px}
+.why{background:#f8fafc;border-left:4px solid var(--blue);padding:10px 12px;border-radius:8px}
+.source-link{display:inline-block;border:1px solid var(--blue);border-radius:10px;padding:8px 12px;margin:4px 0 9px;font-weight:700}
+.label-note{font-size:12px;color:var(--muted);margin:4px 0 10px}
+.tri-para{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;margin-bottom:10px}
+.lang{border:1px solid var(--line);border-radius:12px;padding:13px;background:#fbfcfe} .lang h4{margin:0 0 6px;color:var(--muted);font-size:12px}
+.lang p{margin:0} .hidden{display:none!important}
+.table-wrap{overflow:auto} table{width:100%;border-collapse:collapse;font-size:14px} th,td{border-bottom:1px solid var(--line);padding:9px;text-align:left;vertical-align:top} th{background:#f8fafc}
+.muted{color:var(--muted);font-size:12px}
+.learn-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+.learn-item{border:1px solid var(--line);border-radius:11px;padding:11px;background:#fff} .learn-item p{margin:5px 0}
+.learn-item small{color:var(--muted)}
+details{border:1px solid var(--line);border-radius:11px;padding:10px 12px;margin-bottom:9px;background:#fff} summary{font-weight:800;cursor:pointer}
+.example{background:#f8fafc;border-radius:8px;padding:8px;margin-top:7px}
+.consult{border-left:5px solid var(--purple);background:var(--purple-soft)}
+.analysis-box{border-left:5px solid var(--amber);background:var(--amber-soft)} .quality{background:#f8fafc;border-style:dashed}
+.quiz{border:1px solid var(--line);border-radius:11px;padding:12px;margin-bottom:9px}
+.answer-btn{display:block;margin-top:8px;border:1px solid var(--line);background:#fff;border-radius:8px;padding:6px 9px;cursor:pointer}
+.answer{display:none;margin-top:8px;background:var(--green-soft);padding:9px;border-radius:8px} .answer.show{display:block}
+.jp-reading p{font-size:16px}
+.chat{border-left:5px solid var(--green);background:var(--green-soft)}
+.progressbar{height:6px;background:#e9edf4;border-radius:999px;overflow:hidden;margin-top:8px} .progressbar span{display:block;height:100%;background:var(--blue);width:0}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:18px}
+@media(max-width:1100px){.overview{grid-template-columns:repeat(2,1fr)}.workspace{grid-template-columns:1fr}nav{position:static;height:auto;display:flex;overflow:auto}.nav-title{display:none}.nav-btn{min-width:250px}}
+@media(max-width:760px){.head{flex-direction:column;align-items:flex-start}.overview{grid-template-columns:1fr}.tri-para,.learn-grid{grid-template-columns:1fr}.card{padding:15px}.article-title h2{font-size:21px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="head">
+    <div><h1>每日趨勢 × 英日深度學習</h1><div class="sub">2026-07-31｜English 5＋日本語 3｜日本時間 08:00</div></div>
+    <div class="top-tabs">
+      <button class="tab active" data-panel="en-panel">English 5</button>
+      <button class="tab" data-panel="jp-panel">日本語 3</button>
+    </div>
+  </div>
+</header>
+
+<div class="page">
+  <section class="hero">
+    <h2>今天的學習版</h2>
+    <p>取消要約模式。每篇提供較完整的 AI 重寫學習文章、三語內容、單字、句型、顧問表達、測驗與原文 URL。</p>
+  </section>
+
+  <section id="en-overview" class="panel active"><div class="overview"><div class='overview-card'><span class='level'>A2</span><h3>Japan lowers its growth forecast as energy costs rise</h3><p>用簡單英文理解日本物價、薪資、消費與政府預測之間的關係。</p></div><div class='overview-card'><span class='level'>B1</span><h3>Japan steps into the currency market to support the yen</h3><p>理解匯率干預、日銀政策與日本生活成本如何連動。</p></div><div class='overview-card'><span class='level'>B2</span><h3>Europe plans seven AI gigafactories in a race for computing power</h3><p>學習 AI 算力、科技主權、公私投資與產業政策的英文表達。</p></div><div class='overview-card'><span class='level'>C1</span><h3>Meta’s AI spending creates a difficult compute allocation problem</h3><p>接近 FT 企業策略文章的難度：財報、資本配置、商業模式與投資人信任。</p></div><div class='overview-card'><span class='level'>C1</span><h3>A midlife shift in brain immune cells may offer clues about cognitive aging</h3><p>最新醫學趨勢：學習 single-cell、microglia、neuroinflammation 與研究限制。</p></div></div></section>
+  <section id="jp-overview" class="panel"><div class="overview"><div class='overview-card'><span class='level'>N1+</span><h3>骨太ショックと市場の信認</h3><p>金融政策、政府訊息、市場信任與顧問式論證的高密度日文。</p></div><div class='overview-card'><span class='level'>専門</span><h3>AI投資100兆円時代：ゴールドラッシュかダークファイバーの再来か</h3><p>AI 資本支出、資料中心、電力、供應鏈與受益企業的專業日文。</p></div><div class='overview-card'><span class='level'>N1+</span><h3>発酵を食品から産業プラットフォームとして捉える</h3><p>提升雜談力與跨產業顧問視角：食品、醫藥、燃料、材料與智慧財產。</p></div></div></section>
+
+  <div class="workspace">
+    <nav>
+      <div class="nav-title">English 5</div><button class='nav-btn active' data-target='en1' data-group='en'><span>A2</span>Japan lowers its growth forecast as energy costs rise</button><button class='nav-btn ' data-target='en2' data-group='en'><span>B1</span>Japan steps into the currency market to support the yen</button><button class='nav-btn ' data-target='en3' data-group='en'><span>B2</span>Europe plans seven AI gigafactories in a race for computing power</button><button class='nav-btn ' data-target='en4' data-group='en'><span>C1
