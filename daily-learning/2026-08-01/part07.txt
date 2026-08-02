@@ -1,0 +1,82 @@
+<section class="card"><h3>発言練習</h3><ul><li>AIデータセンターでは冷却設備がボトルネックになっていますね。<button aria-label="播放 AIデータセンターでは冷却設備がボトルネックになっていますね。" class="speak-btn" data-lang="ja-JP" data-speak="AIデータセンターでは冷却設備がボトルネックになっていますね。" type="button">🔊</button></li><li>既存工場を転用する点が興味深いですね。<button aria-label="播放 既存工場を転用する点が興味深いですね。" class="speak-btn" data-lang="ja-JP" data-speak="既存工場を転用する点が興味深いですね。" type="button">🔊</button></li><li>液冷と空冷の需要構成はどう変わるでしょうか。<button aria-label="播放 液冷と空冷の需要構成はどう変わるでしょうか。" class="speak-btn" data-lang="ja-JP" data-speak="液冷と空冷の需要構成はどう変わるでしょうか。" type="button">🔊</button></li><li>現地生産のコスト効果はどの程度ありますか。<button aria-label="播放 現地生産のコスト効果はどの程度ありますか。" class="speak-btn" data-lang="ja-JP" data-speak="現地生産のコスト効果はどの程度ありますか。" type="button">🔊</button></li><li>需要拡大には同意しますが、生産能力がそのまま利益になるとは限りません。<button aria-label="播放 需要拡大には同意しますが、生産能力がそのまま利益になるとは限りません。" class="speak-btn" data-lang="ja-JP" data-speak="需要拡大には同意しますが、生産能力がそのまま利益になるとは限りません。" type="button">🔊</button></li></ul></section>
+<section class="card chat"><h3>雑談の種</h3><ul><li>AI 資料中心為何需要液冷？</li><li>汽車工廠轉做資料中心設備反映哪些產業變化？</li><li>日本製造業有哪些 AI 基礎設施機會？</li></ul></section>
+<section class="card"><h3>理解・口頭表達</h3><details><summary>理解題</summary><p>既存工場転用の利点を説明してください。</p></details><details><summary>口頭表達</summary><p>冷却需要の強気・弱気ケースを説明してください。</p></details></section>
+<section class="card quality"><h3>來源品質卡</h3><p>MONOist 製造業新聞，主要依公司公告。投資額與產能明確，但收益仍屬未來計畫。</p></section>
+</article>
+<article class="article" id="j3">
+<section class="card">
+<div class="meta">
+<span class="level">N1+</span>
+<span class="source">RIETI</span>
+<span>2026-07-22</span>
+<span>約 18 分鐘</span>
+<span class="level">911字</span></div>
+<h2>ふるさと納税：理念と返礼品は寄附先をどう動かすか</h2>
+<div class="muted">小西 葉子</div>
+<p class="why"><b>選文理由：</b>行為經濟、制度設計與生活話題。</p>
+<a class="url" href="https://www.rieti.go.jp/jp/columns/a01_0805.html" rel="noopener" target="_blank">原文 URL ↗</a>
+<p class="note">以下為 AI学習用リライト，不是原文全文。</p>
+</section>
+<section class="card jptext"><h3>AI学習用リライト</h3><p>RIETIの調査は、2025年にふるさと納税を利用した全国1万850人を対象に、返礼品の選択、寄附時期、制度改正への不満、2026年の利用意向を分析した。カテゴリ別では魚介・海産物が39.7％で最多、肉が36.8％、米が28.7％と続く。一方、品目単位では米が27.6％で1位、牛肉が25.4％で2位となり、集計の粒度によって「人気商品」の見え方が変わる。</p><p>魚介類は一つの商品へ集中するのではなく、イクラ、鮮魚、ウナギ、貝、干物などへ需要が分散している。日用品ではトイレットペーパーが上位に入り、物価高の下で生活必需品を選ぶ行動も確認できる。自治体が戦略を考える際には、大きなカテゴリだけを見るのではなく、個別品目への集中度、季節性、供給可能量を分析する必要がある。</p><p>2025年の最大の変化は寄附時期である。10月からポイント付与を伴う募集が禁止される前に駆け込みが発生し、9月に寄附した人の割合が41.1％となり、12月の29.1％を上回った。制度改正が利用者の経済的メリットへ直接影響すると、年間の需要総量だけでなく、時期の構造まで動くことを示している。自治体や事業者には在庫、物流、広告、人員を前倒しする対応が必要になった。</p><p>利用者の不満で最も多かったのは、自分の寄附上限額が分かりにくいことで40.1％だった。ポイント廃止によるお得感の低下、制度変更の頻繁さ、ポータルサイトが多すぎることも負担として挙げられた。選択肢の多さは便利さを高める一方、比較コストを増やし、制度への理解を難しくする。</p><p>それでも2026年も同じポータルサイトを使う予定という回答は83.4％に達し、制度利用をやめる人は2.4％にとどまった。ふるさと納税は不満があっても継続される習慣的行動になっている。政策評価では寄附額だけでなく、利用者の理解度、事務コスト、地域事業者への波及、継続率、自治体間の偏りを併せて見る必要がある。</p><p>自治体側には、駆け込み需要の後に寄附が反動減する可能性もある。短期ランキングを追うだけでなく、翌年の継続率、返礼品をきっかけとした再購入、観光や移住への波及まで追跡することで、制度が地域との関係を作っているかを評価できる。</p></section>
+<section class="card insight"><h3>繁體中文解說</h3><p>故鄉納稅的選擇同時受自治體理念與返禮品影響。不能只看捐款額，也要看持續率與地方經濟效果。</p></section>
+<section class="card"><h3>高階用語</h3>
+<div class="scroll"><table>
+<thead><tr><th>用語</th><th>播放</th><th>中文</th><th>近義</th><th>語感</th></tr></thead>
+<tbody><tr><td><b>寄附先選択</b><br/><small>きふさきせんたく</small><button aria-label="播放日文單字 寄附先選択" class="speak-btn" data-lang="ja-JP" data-speak="寄附先選択" type="button">🔊</button></td><td><button aria-label="播放日文單字 寄附先選択" class="speak-btn" data-lang="ja-JP" data-speak="寄附先選択" type="button">🔊 播放</button></td><td>捐款對象選擇</td><td>寄附自治体の選択</td><td>研究</td></tr><tr><td><b>理念</b><br/><small>りねん</small><button aria-label="播放日文單字 理念" class="speak-btn" data-lang="ja-JP" data-speak="理念" type="button">🔊</button></td><td><button aria-label="播放日文單字 理念" class="speak-btn" data-lang="ja-JP" data-speak="理念" type="button">🔊 播放</button></td><td>理念</td><td>基本的な考え方</td><td>政策</td></tr><tr><td><b>返礼品</b><br/><small>へんれいひん</small><button aria-label="播放日文單字 返礼品" class="speak-btn" data-lang="ja-JP" data-speak="返礼品" type="button">🔊</button></td><td><button aria-label="播放日文單字 返礼品" class="speak-btn" data-lang="ja-JP" data-speak="返礼品" type="button">🔊 播放</button></td><td>回饋品</td><td>寄附への返礼</td><td>制度</td></tr><tr><td><b>還元率</b><br/><small>かんげんりつ</small><button aria-label="播放日文單字 還元率" class="speak-btn" data-lang="ja-JP" data-speak="還元率" type="button">🔊</button></td><td><button aria-label="播放日文單字 還元率" class="speak-btn" data-lang="ja-JP" data-speak="還元率" type="button">🔊 播放</button></td><td>回饋率</td><td>返礼割合</td><td>消費比較</td></tr><tr><td><b>愛着</b><br/><small>あいちゃく</small><button aria-label="播放日文單字 愛着" class="speak-btn" data-lang="ja-JP" data-speak="愛着" type="button">🔊</button></td><td><button aria-label="播放日文單字 愛着" class="speak-btn" data-lang="ja-JP" data-speak="愛着" type="button">🔊 播放</button></td><td>情感依附</td><td>親しみ</td><td>地方關係</td></tr><tr><td><b>手続きコスト</b><br/><small>てつづきこすと</small><button aria-label="播放日文單字 手続きコスト" class="speak-btn" data-lang="ja-JP" data-speak="手続きコスト" type="button">🔊</button></td><td><button aria-label="播放日文單字 手続きコスト" class="speak-btn" data-lang="ja-JP" data-speak="手続きコスト" type="button">🔊 播放</button></td><td>程序成本</td><td>事務負担</td><td>行為經濟</td></tr><tr><td><b>継続率</b><br/><small>けいぞくりつ</small><button aria-label="播放日文單字 継続率" class="speak-btn" data-lang="ja-JP" data-speak="継続率" type="button">🔊</button></td><td><button aria-label="播放日文單字 継続率" class="speak-btn" data-lang="ja-JP" data-speak="継続率" type="button">🔊 播放</button></td><td>持續率</td><td>リピート率</td><td>KPI</td></tr><tr><td><b>波及</b><br/><small>はきゅう</small><button aria-label="播放日文單字 波及" class="speak-btn" data-lang="ja-JP" data-speak="波及" type="button">🔊</button></td><td><button aria-label="播放日文單字 波及" class="speak-btn" data-lang="ja-JP" data-speak="波及" type="button">🔊 播放</button></td><td>外溢影響</td><td>広がり</td><td>政策效果</td></tr><tr><td><b>二者択一</b><br/><small>にしゃたくいつ</small><button aria-label="播放日文單字 二者択一" class="speak-btn" data-lang="ja-JP" data-speak="二者択一" type="button">🔊</button></td><td><button aria-label="播放日文單字 二者択一" class="speak-btn" data-lang="ja-JP" data-speak="二者択一" type="button">🔊 播放</button></td><td>二選一</td><td>どちらか一方</td><td>論證</td></tr><tr><td><b>建前</b><br/><small>たてまえ</small><button aria-label="播放日文單字 建前" class="speak-btn" data-lang="ja-JP" data-speak="建前" type="button">🔊</button></td><td><button aria-label="播放日文單字 建前" class="speak-btn" data-lang="ja-JP" data-speak="建前" type="button">🔊 播放</button></td><td>表面原則</td><td>公式目的</td><td>與本音對比</td></tr></tbody>
+</table></div>
+</section>
+<section class="card"><h3>固定搭配</h3><div class="grid"><div class="mini"><b>理念に共感する<button aria-label="播放 理念に共感する" class="speak-btn" data-lang="ja-JP" data-speak="理念に共感する" type="button">🔊</button></b></div><div class="mini"><b>返礼品競争に依存する<button aria-label="播放 返礼品競争に依存する" class="speak-btn" data-lang="ja-JP" data-speak="返礼品競争に依存する" type="button">🔊</button></b></div><div class="mini"><b>地域経済に波及する<button aria-label="播放 地域経済に波及する" class="speak-btn" data-lang="ja-JP" data-speak="地域経済に波及する" type="button">🔊</button></b></div><div class="mini"><b>成果指標を設定する<button aria-label="播放 成果指標を設定する" class="speak-btn" data-lang="ja-JP" data-speak="成果指標を設定する" type="button">🔊</button></b></div><div class="mini"><b>関係人口を増やす<button aria-label="播放 関係人口を増やす" class="speak-btn" data-lang="ja-JP" data-speak="関係人口を増やす" type="button">🔊</button></b></div></div></section>
+<section class="card"><h3>長句拆解</h3><details><summary>理念か返礼品かという単純な二者択一ではなく、両者の組み合わせを見る必要がある。</summary><p>ではなく 表否定替代。</p></details><details><summary>規制を強めれば理念寄附が増えるとは限らない。</summary><p>〜とは限らない 表不一定。</p></details></section>
+<section class="card consult"><h3>コンサル表現</h3><ol><li>結論として、理念と経済的便益は対立ではなく併存しています。<button aria-label="播放 結論として、理念と経済的便益は対立ではなく併存しています。" class="speak-btn" data-lang="ja-JP" data-speak="結論として、理念と経済的便益は対立ではなく併存しています。" type="button">🔊</button></li><li>寄附額だけでは制度効果を十分評価できません。<button aria-label="播放 寄附額だけでは制度効果を十分評価できません。" class="speak-btn" data-lang="ja-JP" data-speak="寄附額だけでは制度効果を十分評価できません。" type="button">🔊</button></li><li>利用者セグメントごとに選択要因を分ける必要があります。<button aria-label="播放 利用者セグメントごとに選択要因を分ける必要があります。" class="speak-btn" data-lang="ja-JP" data-speak="利用者セグメントごとに選択要因を分ける必要があります。" type="button">🔊</button></li><li>規制強化が意図した行動変化を生むとは限りません。<button aria-label="播放 規制強化が意図した行動変化を生むとは限りません。" class="speak-btn" data-lang="ja-JP" data-speak="規制強化が意図した行動変化を生むとは限りません。" type="button">🔊</button></li><li>返礼品競争の問題と地域産品の認知効果を両方見るべきです。<button aria-label="播放 返礼品競争の問題と地域産品の認知効果を両方見るべきです。" class="speak-btn" data-lang="ja-JP" data-speak="返礼品競争の問題と地域産品の認知効果を両方見るべきです。" type="button">🔊</button></li></ol></section>
+<section class="card"><h3>要約トレーニング</h3><details><summary>100字参考</summary><p>ふるさと納税の寄附先は自治体理念と返礼品の双方で選ばれる。寄附額以外に継続率や地域波及も評価すべきである。</p></details><details><summary>50字参考</summary><p>理念と返礼品の両方が寄附先を動かす。</p></details><details><summary>1文参考</summary><p>社会的価値と経済的便益が共存する制度である。</p></details></section>
+<section class="card"><h3>発言練習</h3><ul><li>ふるさと納税は返礼品で選びますか。<button aria-label="播放 ふるさと納税は返礼品で選びますか。" class="speak-btn" data-lang="ja-JP" data-speak="ふるさと納税は返礼品で選びますか。" type="button">🔊</button></li><li>最近は災害支援型も増えていますね。<button aria-label="播放 最近は災害支援型も増えていますね。" class="speak-btn" data-lang="ja-JP" data-speak="最近は災害支援型も増えていますね。" type="button">🔊</button></li><li>理念への共感は継続寄附につながりますか。<button aria-label="播放 理念への共感は継続寄附につながりますか。" class="speak-btn" data-lang="ja-JP" data-speak="理念への共感は継続寄附につながりますか。" type="button">🔊</button></li><li>返礼品規制で行動はどう変わりますか。<button aria-label="播放 返礼品規制で行動はどう変わりますか。" class="speak-btn" data-lang="ja-JP" data-speak="返礼品規制で行動はどう変わりますか。" type="button">🔊</button></li><li>返礼品競争への批判は理解できますが、販路開拓効果もあります。<button aria-label="播放 返礼品競争への批判は理解できますが、販路開拓効果もあります。" class="speak-btn" data-lang="ja-JP" data-speak="返礼品競争への批判は理解できますが、販路開拓効果もあります。" type="button">🔊</button></li></ul></section>
+<section class="card chat"><h3>雑談の種</h3><ul><li>你選故鄉納稅時看回饋品還是理念？</li><li>地方政府應把捐款額還是持續關係當 KPI？</li><li>ESG 商品是否也有相同結構？</li></ul></section>
+<section class="card"><h3>理解・口頭表達</h3><details><summary>理解題</summary><p>返礼品競争の利点と問題点を説明してください。</p></details><details><summary>口頭表達</summary><p>自治体のKPIを提案してください。</p></details></section>
+<section class="card quality"><h3>來源品質卡</h3><p>RIETI 研究員的行為分析文章。選擇行為仍可能受樣本代表性影響。</p></section>
+</article>
+</section>
+</main>
+</div>
+</div>
+<script>
+    const tabs=[...document.querySelectorAll('.tabs button')];
+    const navs=[...document.querySelectorAll('.navbtn')];
+    function openArticle(id){
+      document.querySelectorAll('.article').forEach(a=>a.classList.toggle('active',a.id===id));
+      navs.forEach(n=>n.classList.toggle('active',n.dataset.target===id));
+      const group=id.startsWith('e')?'en':'jp';
+      document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active',p.id===group));
+      tabs.forEach(t=>t.classList.toggle('active',t.dataset.panel===group));
+      localStorage.setItem('daily_english5_japanese3_2026-08-01.html-last',id);
+    }
+    navs.forEach(n=>n.onclick=()=>openArticle(n.dataset.target));
+    tabs.forEach(t=>t.onclick=()=>{
+      const n=navs.find(x=>x.dataset.group===t.dataset.panel);
+      if(n)openArticle(n.dataset.target);
+    });
+    document.querySelectorAll('.langs button').forEach(b=>b.onclick=()=>{
+      const article=b.closest('.article');
+      article.querySelectorAll('.langs button').forEach(x=>x.classList.remove('active'));
+      b.classList.add('active');
+      const lang=b.dataset.lang;
+      article.querySelectorAll('.lang').forEach(x=>x.classList.toggle('hidden',lang!=='all'&&!x.classList.contains(lang)));
+    });
+    const saved=localStorage.getItem('daily_english5_japanese3_2026-08-01.html-last');
+    if(saved&&document.getElementById(saved))openArticle(saved);
+    </script>
+<script>
+    (()=>{
+      const synth=window.speechSynthesis;
+      const rateSel=document.getElementById('speech-rate');
+      const status=document.getElementById('speech-status');
+      const saved=localStorage.getItem('daily-report-speech-rate')||'1';
+      if(rateSel){rateSel.value=saved;rateSel.addEventListener('change',()=>localStorage.setItem('daily-report-speech-rate',rateSel.value));}
+      let voices=[];
+      function refreshVoices(){voices=synth?synth.getVoices():[];const en=voices.some(v=>v.lang&&v.lang.toLowerCase().startsWith('en'));const ja=voices.some(v=>v.lang&&v.lang.toLowerCase().startsWith('ja'));if(status)status.textContent=!synth?'此瀏覽器不支援語音':`英文語音 ${en?'✓':'—'}・日文語音 ${ja?'✓':'—'}`;}
+      if(synth){refreshVoices();synth.onvoiceschanged=refreshVoices;}
+      function speak(text,lang){if(!synth){alert('此瀏覽器／裝置目前沒有可用語音。');return;}synth.cancel();const u=new SpeechSynthesisUtterance(text);u.lang=lang;u.rate=parseFloat(rateSel?.value||'1');const exact=voices.find(v=>v.lang&&v.lang.toLowerCase()===lang.toLowerCase());const near=voices.find(v=>v.lang&&v.lang.toLowerCase().startsWith(lang.slice(0,2).toLowerCase()));u.voice=exact||near||null;u.onerror=()=>{if(status)status.textContent='播放失敗：裝置可能沒有可用語音';};synth.speak(u);}
+      document.addEventListener('click',e=>{const b=e.target.closest('[data-speak]');if(b){e.preventDefault();speak(b.dataset.speak,b.dataset.lang||'en-US');return;}if(e.target.closest('.navbtn,.nav button,.tabs button,[data-target],[data-panel]')){synth?.cancel();}});
+      document.getElementById('speech-stop')?.addEventListener('click',()=>synth?.cancel());
+      window.addEventListener('beforeunload',()=>synth?.cancel());
+    })();
+    </script><script src="/daily-learning/assets/pronunciation.js?v=3"></script></body></html>
