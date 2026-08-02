@@ -1,0 +1,63 @@
+<section class="card jptext"><h3>AI学習用リライト</h3><p>2026年7月の日本では、長期的な制度改革と突発的な危機が同時に進んだ。リニア中央新幹線の静岡工区では地元が着工を容認し、長年停滞していた巨大インフラ計画が一歩前進した。一方、環境、水資源、工期、費用の問題は残り、合意形成後も実行リスクが続くことを示している。</p><p>政治・制度面では、皇位継承と皇族数確保をめぐる皇室典範改正、再審制度の見直し、国旗損壊を処罰する法律など、社会的な議論を伴う法改正が相次いだ。制度の目的だけでなく、人権、運用、司法手続き、社会的受容を検討する必要がある。法律成立は問題の終了ではなく、実施細則と運用評価の開始である。</p><p>経済面では長期金利が30年ぶりの高水準へ上昇し、円安、原油高、財政への懸念が家計と企業へ影響した。月末には食料品の消費税率を引き下げる方針も示されたが、財源と価格転嫁が論点となった。物価対策が財政不安を強めれば、長期金利や為替を通じて政策効果を相殺する可能性がある。</p><p>災害面では熊本地方で震度7の地震が発生し、人命、交通、商業施設、工場へ大きな被害が出た。九州は半導体、自動車、素材産業の集積地であり、地域災害が全国生産や海外顧客へ波及する。企業のBCPは建物の耐震だけでなく、電力、水、道路、通信、下位供給企業、従業員の生活支援まで含める必要がある。</p><p>7月の出来事を雑談や会議で扱う際には、個別ニュースを並べるだけでなく、「長期課題は何か」「誰が利害関係者か」「制度や投資は何を変えるか」「実行時の副作用は何か」という枠組みで整理すると話を広げやすい。インフラ、制度、財政、災害は別の話題に見えても、信頼、持続可能性、実行能力という共通テーマでつながっている。</p><p>雑談力の観点では、ニュースを自分の生活や仕事へ結び付けると会話が続きやすい。リニアなら通勤・観光、金利なら住宅ローン、個人情報法ならAI利用、地震なら供給網という具体的接点を用意するとよい。</p><p>また、7月は個人情報保護法の改正や防災庁設置など、AI利用と危機対応の制度基盤も動いた。技術や災害への対応は一度の法律成立で完結せず、監督組織、人材、予算、データ共有、住民への説明が実効性を左右する。</p><p>こうした共通点を意識すると、単なる出来事の暗記ではなく、日本社会の変化を構造的に説明できる。</p></section>
+<section class="card insight"><h3>繁體中文解說</h3><p>七月日本同時出現長期制度改革與突發災害，可用制度、利害關係人、執行風險與供應鏈四個框架理解。</p></section>
+<section class="card"><h3>高階用語</h3>
+<div class="scroll"><table>
+<thead><tr><th>用語</th><th>播放</th><th>中文</th><th>近義</th><th>語感</th></tr></thead>
+<tbody><tr><td><b>着工容認</b><br/><small>ちゃっこうようにん</small><button aria-label="播放日文單字 着工容認" class="speak-btn" data-lang="ja-JP" data-speak="着工容認" type="button">🔊</button></td><td><button aria-label="播放日文單字 着工容認" class="speak-btn" data-lang="ja-JP" data-speak="着工容認" type="button">🔊 播放</button></td><td>同意開工</td><td>工事開始を認める</td><td>基建</td></tr><tr><td><b>皇位継承</b><br/><small>こういけいしょう</small><button aria-label="播放日文單字 皇位継承" class="speak-btn" data-lang="ja-JP" data-speak="皇位継承" type="button">🔊</button></td><td><button aria-label="播放日文單字 皇位継承" class="speak-btn" data-lang="ja-JP" data-speak="皇位継承" type="button">🔊 播放</button></td><td>皇位繼承</td><td>皇位を引き継ぐ</td><td>制度</td></tr><tr><td><b>根本問題</b><br/><small>こんぽんもんだい</small><button aria-label="播放日文單字 根本問題" class="speak-btn" data-lang="ja-JP" data-speak="根本問題" type="button">🔊</button></td><td><button aria-label="播放日文單字 根本問題" class="speak-btn" data-lang="ja-JP" data-speak="根本問題" type="button">🔊 播放</button></td><td>根本問題</td><td>本質的課題</td><td>分析</td></tr><tr><td><b>再審制度</b><br/><small>さいしんせいど</small><button aria-label="播放日文單字 再審制度" class="speak-btn" data-lang="ja-JP" data-speak="再審制度" type="button">🔊</button></td><td><button aria-label="播放日文單字 再審制度" class="speak-btn" data-lang="ja-JP" data-speak="再審制度" type="button">🔊 播放</button></td><td>再審制度</td><td>裁判やり直し制度</td><td>司法</td></tr><tr><td><b>副作用</b><br/><small>ふくさよう</small><button aria-label="播放日文單字 副作用" class="speak-btn" data-lang="ja-JP" data-speak="副作用" type="button">🔊</button></td><td><button aria-label="播放日文單字 副作用" class="speak-btn" data-lang="ja-JP" data-speak="副作用" type="button">🔊 播放</button></td><td>副作用</td><td>意図しない影響</td><td>政策</td></tr><tr><td><b>集積地</b><br/><small>しゅうせきち</small><button aria-label="播放日文單字 集積地" class="speak-btn" data-lang="ja-JP" data-speak="集積地" type="button">🔊</button></td><td><button aria-label="播放日文單字 集積地" class="speak-btn" data-lang="ja-JP" data-speak="集積地" type="button">🔊 播放</button></td><td>產業聚落</td><td>産業が集まる地域</td><td>產業</td></tr><tr><td><b>波及する</b><br/><small>はきゅうする</small><button aria-label="播放日文單字 波及する" class="speak-btn" data-lang="ja-JP" data-speak="波及する" type="button">🔊</button></td><td><button aria-label="播放日文單字 波及する" class="speak-btn" data-lang="ja-JP" data-speak="波及する" type="button">🔊 播放</button></td><td>擴散</td><td>広がる</td><td>供應鏈</td></tr><tr><td><b>代替調達</b><br/><small>だいたいちょうたつ</small><button aria-label="播放日文單字 代替調達" class="speak-btn" data-lang="ja-JP" data-speak="代替調達" type="button">🔊</button></td><td><button aria-label="播放日文單字 代替調達" class="speak-btn" data-lang="ja-JP" data-speak="代替調達" type="button">🔊 播放</button></td><td>替代採購</td><td>別ルート調達</td><td>BCP</td></tr><tr><td><b>契機</b><br/><small>けいき</small><button aria-label="播放日文單字 契機" class="speak-btn" data-lang="ja-JP" data-speak="契機" type="button">🔊</button></td><td><button aria-label="播放日文單字 契機" class="speak-btn" data-lang="ja-JP" data-speak="契機" type="button">🔊 播放</button></td><td>契機</td><td>きっかけ</td><td>書面</td></tr><tr><td><b>利害関係者</b><br/><small>りがいかんけいしゃ</small><button aria-label="播放日文單字 利害関係者" class="speak-btn" data-lang="ja-JP" data-speak="利害関係者" type="button">🔊</button></td><td><button aria-label="播放日文單字 利害関係者" class="speak-btn" data-lang="ja-JP" data-speak="利害関係者" type="button">🔊 播放</button></td><td>利害關係人</td><td>ステークホルダー</td><td>顧問</td></tr></tbody>
+</table></div>
+</section>
+<section class="card"><h3>固定搭配</h3><div class="grid"><div class="mini"><b>議論が浮上する<button aria-label="播放 議論が浮上する" class="speak-btn" data-lang="ja-JP" data-speak="議論が浮上する" type="button">🔊</button></b></div><div class="mini"><b>制度を見直す<button aria-label="播放 制度を見直す" class="speak-btn" data-lang="ja-JP" data-speak="制度を見直す" type="button">🔊</button></b></div><div class="mini"><b>供給網へ波及する<button aria-label="播放 供給網へ波及する" class="speak-btn" data-lang="ja-JP" data-speak="供給網へ波及する" type="button">🔊</button></b></div><div class="mini"><b>課題を枠組みで整理する<button aria-label="播放 課題を枠組みで整理する" class="speak-btn" data-lang="ja-JP" data-speak="課題を枠組みで整理する" type="button">🔊</button></b></div><div class="mini"><b>実行リスクを検証する<button aria-label="播放 実行リスクを検証する" class="speak-btn" data-lang="ja-JP" data-speak="実行リスクを検証する" type="button">🔊</button></b></div></div></section>
+<section class="card"><h3>長句拆解</h3><details><summary>目的だけでなく、運用上の副作用まで検討する必要がある。</summary><p>だけでなく〜まで：從目的擴大到副作用。</p></details><details><summary>個別事件として追うだけでなく、枠組みで整理すると話を広げやすい。</summary><p>として 表定位；と 表結果。</p></details></section>
+<section class="card consult"><h3>コンサル表現</h3><ol><li>結論として、個別ニュースの背後に共通する構造課題があります。<button aria-label="播放 結論として、個別ニュースの背後に共通する構造課題があります。" class="speak-btn" data-lang="ja-JP" data-speak="結論として、個別ニュースの背後に共通する構造課題があります。" type="button">🔊</button></li><li>論点を制度、インフラ、災害対応に整理できます。<button aria-label="播放 論点を制度、インフラ、災害対応に整理できます。" class="speak-btn" data-lang="ja-JP" data-speak="論点を制度、インフラ、災害対応に整理できます。" type="button">🔊</button></li><li>短期事件と長期制度課題を分ける必要があります。<button aria-label="播放 短期事件と長期制度課題を分ける必要があります。" class="speak-btn" data-lang="ja-JP" data-speak="短期事件と長期制度課題を分ける必要があります。" type="button">🔊</button></li><li>ステークホルダーごとの利害を確認すると対立構造が明確です。<button aria-label="播放 ステークホルダーごとの利害を確認すると対立構造が明確です。" class="speak-btn" data-lang="ja-JP" data-speak="ステークホルダーごとの利害を確認すると対立構造が明確です。" type="button">🔊</button></li><li>目的だけでなく運用上の副作用も検討すべきです。<button aria-label="播放 目的だけでなく運用上の副作用も検討すべきです。" class="speak-btn" data-lang="ja-JP" data-speak="目的だけでなく運用上の副作用も検討すべきです。" type="button">🔊</button></li></ol></section>
+<section class="card"><h3>要約トレーニング</h3><details><summary>100字参考</summary><p>2026年7月は長期制度課題が動く一方、熊本地震が産業と生活に影響した。</p></details><details><summary>50字参考</summary><p>制度改革と熊本地震が重なった。</p></details><details><summary>1文参考</summary><p>7月は制度改革と災害対応の月だった。</p></details></section>
+<section class="card"><h3>発言練習</h3><ul><li>7月は制度改正と熊本地震が重なりましたね。<button aria-label="播放 7月は制度改正と熊本地震が重なりましたね。" class="speak-btn" data-lang="ja-JP" data-speak="7月は制度改正と熊本地震が重なりましたね。" type="button">🔊</button></li><li>リニア静岡工区の前進は大きいですね。<button aria-label="播放 リニア静岡工区の前進は大きいですね。" class="speak-btn" data-lang="ja-JP" data-speak="リニア静岡工区の前進は大きいですね。" type="button">🔊</button></li><li>供給網への影響はどこまで広がりますか。<button aria-label="播放 供給網への影響はどこまで広がりますか。" class="speak-btn" data-lang="ja-JP" data-speak="供給網への影響はどこまで広がりますか。" type="button">🔊</button></li><li>制度改正の副作用はどう検証しますか。<button aria-label="播放 制度改正の副作用はどう検証しますか。" class="speak-btn" data-lang="ja-JP" data-speak="制度改正の副作用はどう検証しますか。" type="button">🔊</button></li><li>改革には賛成ですが、人権影響も慎重に見るべきです。<button aria-label="播放 改革には賛成ですが、人権影響も慎重に見るべきです。" class="speak-btn" data-lang="ja-JP" data-speak="改革には賛成ですが、人権影響も慎重に見るべきです。" type="button">🔊</button></li></ul></section>
+<section class="card chat"><h3>雑談の種</h3><ul><li>七月日本最值得聊的三件事？</li><li>地方災害為何影響全球半導體？</li><li>制度改革如何評估副作用？</li></ul></section>
+<section class="card"><h3>理解・口頭表達</h3><details><summary>理解題</summary><p>七月の共通テーマを説明してください。</p></details><details><summary>口頭表達</summary><p>同僚向けに60秒でまとめてください。</p></details></section>
+<section class="card quality"><h3>來源品質卡</h3><p>Nippon.com 的月度事件整理，適合宏觀回顧與雜談。</p></section>
+</article>
+</section>
+</main>
+</div>
+</div>
+<script>
+    const tabs=[...document.querySelectorAll('.tabs button')];
+    const navs=[...document.querySelectorAll('.navbtn')];
+    function openArticle(id){
+      document.querySelectorAll('.article').forEach(a=>a.classList.toggle('active',a.id===id));
+      navs.forEach(n=>n.classList.toggle('active',n.dataset.target===id));
+      const group=id.startsWith('e')?'en':'jp';
+      document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active',p.id===group));
+      tabs.forEach(t=>t.classList.toggle('active',t.dataset.panel===group));
+      localStorage.setItem('daily_english5_japanese3_2026-08-02.html-last',id);
+    }
+    navs.forEach(n=>n.onclick=()=>openArticle(n.dataset.target));
+    tabs.forEach(t=>t.onclick=()=>{
+      const n=navs.find(x=>x.dataset.group===t.dataset.panel);
+      if(n)openArticle(n.dataset.target);
+    });
+    document.querySelectorAll('.langs button').forEach(b=>b.onclick=()=>{
+      const article=b.closest('.article');
+      article.querySelectorAll('.langs button').forEach(x=>x.classList.remove('active'));
+      b.classList.add('active');
+      const lang=b.dataset.lang;
+      article.querySelectorAll('.lang').forEach(x=>x.classList.toggle('hidden',lang!=='all'&&!x.classList.contains(lang)));
+    });
+    const saved=localStorage.getItem('daily_english5_japanese3_2026-08-02.html-last');
+    if(saved&&document.getElementById(saved))openArticle(saved);
+    </script>
+<script>
+    (()=>{
+      const synth=window.speechSynthesis;
+      const rateSel=document.getElementById('speech-rate');
+      const status=document.getElementById('speech-status');
+      const saved=localStorage.getItem('daily-report-speech-rate')||'1';
+      if(rateSel){rateSel.value=saved;rateSel.addEventListener('change',()=>localStorage.setItem('daily-report-speech-rate',rateSel.value));}
+      let voices=[];
+      function refreshVoices(){voices=synth?synth.getVoices():[];const en=voices.some(v=>v.lang&&v.lang.toLowerCase().startsWith('en'));const ja=voices.some(v=>v.lang&&v.lang.toLowerCase().startsWith('ja'));if(status)status.textContent=!synth?'此瀏覽器不支援語音':`英文語音 ${en?'✓':'—'}・日文語音 ${ja?'✓':'—'}`;}
+      if(synth){refreshVoices();synth.onvoiceschanged=refreshVoices;}
+      function speak(text,lang){if(!synth){alert('此瀏覽器／裝置目前沒有可用語音。');return;}synth.cancel();const u=new SpeechSynthesisUtterance(text);u.lang=lang;u.rate=parseFloat(rateSel?.value||'1');const exact=voices.find(v=>v.lang&&v.lang.toLowerCase()===lang.toLowerCase());const near=voices.find(v=>v.lang&&v.lang.toLowerCase().startsWith(lang.slice(0,2).toLowerCase()));u.voice=exact||near||null;u.onerror=()=>{if(status)status.textContent='播放失敗：裝置可能沒有可用語音';};synth.speak(u);}
+      document.addEventListener('click',e=>{const b=e.target.closest('[data-speak]');if(b){e.preventDefault();speak(b.dataset.speak,b.dataset.lang||'en-US');return;}if(e.target.closest('.navbtn,.nav button,.tabs button,[data-target],[data-panel]')){synth?.cancel();}});
+      document.getElementById('speech-stop')?.addEventListener('click',()=>synth?.cancel());
+      window.addEventListener('beforeunload',()=>synth?.cancel());
+    })();
+    </script><script src="/daily-learning/assets/pronunciation.js?v=3"></script></body></html>
