@@ -1,0 +1,82 @@
+{
+  "section": "english",
+  "article": {
+    "id": "en-a2-one-question",
+    "title": "One Question Can Make a Meeting Better",
+    "level": "A2",
+    "contentType": "AI original learning article",
+    "date": "2026-08-05",
+    "readingTime": "3–4 min",
+    "author": "OpenAI learning editor",
+    "why": "用簡單英文練習會議設計、決策與行動責任，內容完整但句型不複雜。",
+    "sources": [
+      {
+        "label": "OECD AI Principles（背景參考：責任與透明度）",
+        "url": "https://oecd.ai/en/ai-principles"
+      }
+    ],
+    "paragraphs": [
+      {
+        "en": "Many teams want meetings to be shorter, but they often start with the wrong solution. They reduce the meeting from sixty minutes to thirty minutes, yet they keep the same agenda. People then speak faster, skip context, and leave with unclear tasks. A better rule is simple: every meeting should answer one main question. The question might be, “Which customer problem should we solve first?” or “Are we ready to launch next week?” When the question is clear, people know what information matters.",
+        "zh": "許多團隊希望會議更短，卻常從錯誤的方法開始。他們把六十分鐘縮成三十分鐘，卻保留同樣的議程。結果大家講得更快、跳過背景，最後仍帶著不清楚的任務離開。更好的規則很簡單：每場會議只回答一個主要問題。這個問題可以是「我們應先解決哪個客戶問題？」或「我們下週是否已準備好上線？」問題清楚時，大家就知道哪些資訊真正重要。",
+        "ja": "多くのチームは会議を短くしたいと考えますが、最初の解決策を間違えがちです。60分の会議を30分に縮めても、同じ議題を詰め込めば、参加者は早口になり、背景説明を省き、曖昧なタスクを抱えたまま終わります。よりよいルールは単純です。一つの会議では、一つの主要な問いに答えることです。たとえば「どの顧客課題を最初に解くべきか」「来週の公開準備は整っているか」といった問いです。問いが明確なら、何が重要な情報かも明確になります。"
+      },
+      {
+        "en": "Before the meeting, the owner should write the question at the top of the invitation. The owner should also share only the facts needed to discuss it. During the meeting, ideas that do not help answer the question go into a “parking lot” for later. This does not mean those ideas are bad. It only means they belong in another conversation. At the end, the group should record the decision, the next action, the owner, and the due date.",
+        "zh": "會議前，負責人應把主要問題寫在邀請最上方，也只分享討論該問題所需的事實。會議中，無助於回答主要問題的想法，先放進「待後續處理區」。這不代表那些想法不好，只代表它們屬於另一場討論。最後，團隊應記錄決定、下一步行動、負責人與期限。",
+        "ja": "会議前に、主催者は招待文の冒頭へ主要な問いを書き、議論に必要な事実だけを共有します。会議中、問いへの回答に直接つながらない意見は「後で扱う項目」に置きます。それは意見が悪いという意味ではなく、別の対話に向いているという意味です。最後に、決定事項、次の行動、担当者、期限を記録します。"
+      },
+      {
+        "en": "This method can feel strict at first, especially in teams that value open discussion. However, structure does not have to reduce creativity. It can protect creativity by giving each idea the right time and place. The real test is not whether the meeting ends early. The test is whether people can explain what was decided and what they must do next. A short meeting with no decision is still expensive. A focused meeting that creates a clear decision can save hours of follow-up work.",
+        "zh": "這種方法起初可能顯得嚴格，尤其是在重視自由討論的團隊中。然而，結構不一定會降低創意；它反而能讓每個想法在適合的時間與場合被處理，從而保護創意。真正的檢驗不是會議是否提早結束，而是每個人能否說明做了什麼決定，以及自己下一步要做什麼。沒有決定的短會議仍然昂貴；能形成清楚決策的聚焦會議，則可省下數小時的後續溝通。",
+        "ja": "この方法は、自由な議論を重視するチームには最初は厳しく感じられるかもしれません。しかし、構造化は創造性を減らすとは限りません。むしろ、各アイデアに適切な時間と場所を与えることで、創造性を守れます。本当の評価基準は、会議が早く終わったかではなく、何が決まり、次に何をすべきかを参加者が説明できるかです。結論のない短い会議も高コストです。明確な意思決定を生む集中した会議は、その後の調整時間を大きく減らせます。"
+      },
+      {
+        "en": "Teams can test the rule for two weeks. After each meeting, ask three quick questions: Did we answer the main question? Does everyone understand the decision? Is the next action owned by one person? If the answer is often no, do not immediately add more meeting time. First check whether the question was too broad, whether the needed facts arrived too late, or whether the real decision maker was absent. Small changes to preparation can improve the meeting more than a longer calendar slot.",
+        "zh": "團隊可以先試行這條規則兩週。每次會議後快速問三個問題：我們是否回答了主要問題？每個人是否理解決定？下一步行動是否由一位明確負責人承擔？若答案常是否定的，不要立刻增加會議時間。先檢查問題是否太廣、必要事實是否太晚提供，或真正的決策者是否缺席。改善準備方式，往往比延長行事曆時段更有效。",
+        "ja": "チームはこのルールを2週間試せます。会議後に三つだけ確認します。主要な問いに答えたか、全員が決定を理解したか、次の行動を一人の担当者が持っているか。否定の回答が多くても、すぐに会議時間を延ばすべきではありません。問いが広すぎなかったか、必要な事実の共有が遅くなかったか、実際の決裁者が欠席していなかったかを先に確認します。準備の小さな改善は、会議時間を延ばすより大きな効果を生むことがあります。"
+      }
+    ],
+    "vocabulary": [
+      {"term":"agenda","pos":"n.","ipa":"/əˈdʒendə/","zh":"議程","ja":"議題・アジェンダ","usage":"keep the same agenda"},
+      {"term":"context","pos":"n.","ipa":"/ˈkɑːntekst/","zh":"背景脈絡","ja":"背景・文脈","usage":"skip context"},
+      {"term":"unclear","pos":"adj.","ipa":"/ˌʌnˈklɪr/","zh":"不清楚的","ja":"不明確な","usage":"unclear tasks"},
+      {"term":"owner","pos":"n.","ipa":"/ˈoʊnər/","zh":"負責人","ja":"担当者","usage":"the meeting owner"},
+      {"term":"invitation","pos":"n.","ipa":"/ˌɪnvɪˈteɪʃən/","zh":"邀請","ja":"招待・案内","usage":"write it in the invitation"},
+      {"term":"record","pos":"v.","ipa":"/rɪˈkɔːrd/","zh":"記錄","ja":"記録する","usage":"record the decision"},
+      {"term":"structure","pos":"n.","ipa":"/ˈstrʌktʃər/","zh":"結構","ja":"構造","usage":"structure can protect creativity"},
+      {"term":"focused","pos":"adj.","ipa":"/ˈfoʊkəst/","zh":"聚焦的","ja":"焦点を絞った","usage":"a focused meeting"},
+      {"term":"follow-up","pos":"n./adj.","ipa":"/ˈfɑːloʊ ʌp/","zh":"後續處理","ja":"フォローアップ","usage":"follow-up work"},
+      {"term":"decision","pos":"n.","ipa":"/dɪˈsɪʒən/","zh":"決定","ja":"意思決定","usage":"create a clear decision"}
+    ],
+    "phrases": [
+      {"term":"answer one main question","explanation":"回答一個主要問題／一つの主要な問いに答える","example":"This meeting should answer one main question."},
+      {"term":"at the top of","explanation":"在……最上方／〜の冒頭に","example":"Put the decision question at the top of the invitation."},
+      {"term":"go into a parking lot","explanation":"暫存為後續議題／後で扱う項目に回す","example":"Side topics can go into a parking lot."},
+      {"term":"at the end","explanation":"最後／最後に","example":"At the end, confirm the owner and due date."},
+      {"term":"save hours of work","explanation":"省下數小時工作／何時間もの作業を省く","example":"A clear decision can save hours of follow-up work."}
+    ],
+    "grammar": [
+      {"title":"When the question is clear, people know what information matters.","body":"When 引導時間或條件；what information matters 是 know 的受詞子句。"},
+      {"title":"This does not mean those ideas are bad.","body":"mean 後接完整子句，表示『這不代表……』，常用於禮貌澄清。"},
+      {"title":"The real test is whether people can explain…","body":"whether 子句放在 be 動詞後，說明真正的檢驗內容。"}
+    ],
+    "business": [
+      {"term":"The decision question is…","explanation":"快速界定本次會議要回答的核心問題。","example":"The decision question is whether we launch next week."},
+      {"term":"Let’s park that topic for later.","explanation":"禮貌把偏題內容移到後續。","example":"Let’s park that topic for later and return to the launch risk."},
+      {"term":"Who owns the next step?","explanation":"確認行動責任人。","example":"We agree on the action, but who owns the next step?"},
+      {"term":"What would change the decision?","explanation":"確認哪些新資訊可能改變結論。","example":"What would change the decision before Friday?"}
+    ],
+    "quiz": [
+      {"question":"Why is simply shortening a meeting not enough?","answer":"Because the same agenda may still create rushed discussion and unclear actions."},
+      {"question":"What four items should be recorded at the end?","answer":"The decision, next action, owner, and due date."},
+      {"question":"Output: Write one decision question for a meeting you attend.","answer":"Example: Are we ready to release the new dashboard to all users next Monday?"}
+    ],
+    "interpretation": [
+      {"label":"文章主張","text":"會議效率的核心不是時間長短，而是是否圍繞一個決策問題形成清楚行動。"},
+      {"label":"合理推論","text":"對顧問與資料團隊而言，先寫決策問題也能降低背景說明失焦。"},
+      {"label":"實務影響","text":"可直接套用到朝會、模型評估會議與客戶報告前的內部審查。"}
+    ],
+    "quality": "AI 原創學習文章；參考責任與透明度的一般治理原則。內容是管理實務建議，不代表唯一正確的會議制度。"
+  }
+}
