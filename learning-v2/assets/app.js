@@ -96,7 +96,11 @@
 
   async function init(){
     try{
-      const manifest=await loadJSON('./manifest.json'); const issue=issueFromQuery(manifest); const data=await loadJSON(`./data/${issue}.json`);
+      const manifest=await loadJSON('./manifest.json'); const issue=issueFromQuery(manifest); let data=await loadJSON(`./data/${issue}.json`);
+      if(Array.isArray(data.parts)){
+        const loaded=await Promise.all(data.parts.map(name=>loadJSON(`./data/${name}`)));
+        data={...data,english:loaded.filter(x=>x.section==='english').map(x=>x.article),japanese:loaded.filter(x=>x.section==='japanese').map(x=>x.article)};
+      }
       $('#issueLabel').textContent=`｜${data.dateLabel}`; $('#pageTitle').textContent=data.title; $('#pageIntro').textContent=data.intro;
       $('#content').innerHTML=data.english.map(renderEnglish).join('')+data.japanese.map(renderJapanese).join('');
       $('#archiveLinks').innerHTML=manifest.issues.map(x=>`<a href="?date=${encodeURIComponent(x.id)}">${esc(x.label)}</a>`).join('');
