@@ -1,0 +1,73 @@
+{
+  "section": "english",
+  "article": {
+    "id": "en-b2-pilot-production",
+    "title": "Why an AI Demo Is Not Yet an AI Service",
+    "level": "B2",
+    "contentType": "AI original learning article",
+    "date": "2026-08-05",
+    "readingTime": "8–10 min",
+    "author": "OpenAI learning editor",
+    "why": "用完整商業文章練習 AI PoC、本番化、治理、成本與責任分界等職場高頻概念。",
+    "sources": [
+      {"label":"NIST AI Risk Management Framework","url":"https://www.nist.gov/itl/ai-risk-management-framework"},
+      {"label":"NIST AI RMF Playbook","url":"https://www.nist.gov/itl/ai-risk-management-framework/nist-ai-rmf-playbook"},
+      {"label":"OECD AI Principles","url":"https://oecd.ai/en/ai-principles"}
+    ],
+    "paragraphs": [
+      {"en":"Many organizations can build an impressive AI demo in a few weeks. A small team connects a model to selected documents, creates a clean interface, and shows that the system can summarize reports or answer employee questions. Senior leaders see the demo and assume that deployment is mainly a technical finishing task. In reality, the hardest work often begins after the demo. A prototype proves that an idea can work under controlled conditions. A production service must work repeatedly, with changing data, different users, security controls, clear ownership, and a process for handling failure.","zh":"許多組織能在幾週內做出令人印象深刻的 AI 展示。小型團隊把模型連接到精選文件、製作乾淨介面，並展示系統能摘要報告或回答員工問題。高階主管看完後，常以為部署只是技術收尾。實際上，最困難的工作往往在展示之後才開始。原型只能證明概念在受控條件下可行；正式服務則必須在資料持續變動、使用者多元、具備安全控管、責任明確且有失敗處理流程的情況下，反覆穩定運作。","ja":"多くの組織は、数週間で印象的なAIデモを作れます。少人数のチームがモデルを選定文書につなぎ、見栄えのよい画面を用意し、報告書の要約や社員からの質問への回答を実演します。経営層はそれを見て、本番導入は技術的な仕上げにすぎないと考えがちです。しかし実際には、難しい仕事はデモの後に始まります。試作は、管理された条件でアイデアが動くことを示すだけです。本番サービスには、変化するデータ、多様な利用者、セキュリティ統制、明確な責任、障害時の対応が必要です。"},
+      {"en":"The first gap is usually data. During a pilot, the team may use a carefully cleaned set of documents. In production, the same content may exist in several systems, use inconsistent names, contain outdated versions, or include information that different employees are not allowed to see. Retrieval quality falls when metadata is missing or when access rules are added too late. The model may still produce fluent answers, which makes the problem dangerous: users can mistake confidence for correctness. A strong deployment plan therefore treats document ownership, update frequency, access control, and deletion rules as product requirements rather than administrative details.","zh":"第一個落差通常在資料。試點期間，團隊可能使用精心清理的文件集；到了正式環境，相同內容可能分散在多個系統、命名不一致、版本過期，或包含不同員工無權查看的資訊。缺少中繼資料，或太晚才加入存取規則，都會降低檢索品質。模型仍可能產生流暢回答，這使問題更危險：使用者容易把自信語氣誤認為正確性。因此，成熟的部署計畫會把文件責任、更新頻率、權限控管與刪除規則視為產品需求，而非行政細節。","ja":"最初のギャップは多くの場合データです。試行段階では、丁寧に整理した文書だけを使えます。本番では、同じ内容が複数システムに存在し、名称が統一されず、古い版が残り、閲覧権限の異なる情報も混在します。メタデータが不足したり、アクセス制御を後付けしたりすると、検索品質は落ちます。それでもモデルは流暢に答えるため、利用者が自信のある表現を正しさと誤認する危険があります。したがって、文書の責任者、更新頻度、権限制御、削除ルールを、事務作業ではなく製品要件として扱う必要があります。"},
+      {"en":"The second gap is operating responsibility. A pilot team can watch every interaction and fix errors manually. A production service needs defined roles. Who approves a new data source? Who investigates a harmful answer? Who decides whether the system should be stopped? Who communicates with users when quality falls? If every problem is sent back to the original engineers, the service will not scale. Organizations need an operating model that separates routine support, model evaluation, security response, legal review, and business ownership. This does not require a large committee for every issue, but it does require clear escalation paths before an incident occurs.","zh":"第二個落差是營運責任。試點團隊可以監看每次互動並手動修正錯誤；正式服務則需要明確角色。誰批准新資料來源？誰調查有害回答？誰決定是否停止系統？品質下降時，誰與使用者溝通？若所有問題都回到原始工程師，服務便無法擴大。組織需要把日常支援、模型評估、安全回應、法務審查與業務責任分開。這不代表每個問題都要成立大型委員會，但必須在事故發生前建立清楚的升級路徑。","ja":"第二のギャップは運用責任です。試行チームなら、すべてのやり取りを監視し、誤りを手作業で修正できます。本番サービスでは役割の定義が必要です。新しいデータソースを誰が承認するのか、有害な回答を誰が調査するのか、停止判断を誰が下すのか、品質低下を利用者へ誰が説明するのか。すべてを元の開発者へ戻せば、サービスは拡張できません。通常サポート、モデル評価、セキュリティ対応、法務確認、事業責任を分け、事故前にエスカレーション経路を決める必要があります。"},
+      {"en":"The third gap is measurement. Demo teams often report model accuracy or a small set of positive examples. Business leaders, however, need to know whether the service changes work. Does it reduce handling time? Does it improve the quality of decisions? Does it create extra review work? Do users avoid the tool because they do not trust it? A useful scorecard combines technical measures, operational measures, business outcomes, and risk indicators. It also defines a baseline. Without a comparison point, a team may celebrate high usage even when employees are using the system only because another channel was removed.","zh":"第三個落差是衡量。展示團隊常報告模型準確率或少量正面案例，但業務主管真正需要知道的是服務是否改變工作：是否降低處理時間？是否改善決策品質？是否反而增加審查工作？使用者是否因不信任而避開工具？有用的計分卡會結合技術指標、營運指標、商業結果與風險指標，也會先定義基準。若沒有比較點，團隊可能因使用量很高而慶祝，卻沒發現員工只是因其他管道被取消才被迫使用。","ja":"第三のギャップは測定です。デモでは、モデル精度や少数の成功例が示されがちです。しかし事業側が知りたいのは、仕事が本当に変わったかです。処理時間は減ったか、判断の質は上がったか、確認作業は増えていないか、利用者は信頼できず避けていないか。有効なスコアカードは、技術指標、運用指標、事業成果、リスク指標を組み合わせ、比較の基準も定めます。基準がなければ、別の手段を廃止したために利用が増えただけなのに、高い利用率を成功と誤解することがあります。"},
+      {"en":"The final gap is economic discipline. Generative AI costs are not limited to model usage. Companies pay for data preparation, integration, monitoring, human review, incident response, training, and change management. These costs are often hidden across departments. A pilot can look inexpensive because experts donate time and exceptions are handled informally. Before scaling, leaders should estimate the full operating cost per case and compare it with the value of faster work, better decisions, or lower risk. Some use cases will remain valuable even with modest automation. Others should be stopped, redesigned, or limited to a smaller user group.","zh":"最後一個落差是經濟紀律。生成式 AI 的成本不只模型使用費，企業還要支付資料整理、整合、監控、人工覆核、事故處理、訓練與變革管理。這些成本常分散在不同部門而被隱藏。試點看起來便宜，可能只是因為專家額外投入時間、例外被非正式處理。擴大前，主管應估算每個案例的完整營運成本，並與更快處理、更好決策或較低風險所創造的價值比較。有些用途即使自動化程度有限仍有價值；另一些則應停止、重新設計或縮小使用者範圍。","ja":"最後のギャップは経済規律です。生成AIの費用はモデル利用料だけではありません。データ整備、連携、監視、人手確認、事故対応、研修、変革管理にも費用がかかり、それらは部門ごとに分散して見えにくくなります。試行が安く見えるのは、専門家が追加作業を無償で担い、例外を非公式に処理しているからかもしれません。拡大前には、案件当たりの総運用コストを見積もり、時間短縮、判断改善、リスク低減の価値と比べるべきです。限定的な自動化でも価値のある用途もあれば、中止、再設計、対象縮小が必要な用途もあります。"},
+      {"en":"The lesson is not that AI pilots are useless. Pilots are valuable when they are designed to answer specific questions: Can the model handle the language of this domain? Can employees use the interface? Which failure modes appear most often? The mistake is treating a successful demo as proof that the whole service is ready. A better decision gate asks whether data, ownership, measurement, controls, and economics are ready together. Deployment is not the moment when the model becomes visible to more users. It is the moment when the organization accepts responsibility for the system’s repeated behavior.","zh":"這並不表示 AI 試點沒有用。若試點用來回答明確問題，它非常有價值：模型能否處理該領域語言？員工能否使用介面？哪些失敗模式最常出現？錯誤在於把成功展示當成整個服務已準備完成的證明。更好的決策關卡會同時檢查資料、責任、衡量、控制與經濟性是否到位。部署不是模型被更多人看見的時刻，而是組織開始為系統反覆出現的行為承擔責任的時刻。","ja":"この教訓は、AI試行が無意味だということではありません。試行は、モデルが業界固有の言語を扱えるか、社員が画面を使えるか、どの失敗が多いか、といった具体的な問いに答えるために有効です。問題は、成功したデモをサービス全体の準備完了とみなすことです。よりよい判断基準は、データ、責任、測定、統制、経済性が同時に整っているかを確認します。導入とは、モデルを多くの人に見せる瞬間ではなく、組織がその反復的な挙動に責任を持つ瞬間です。"}
+    ],
+    "vocabulary": [
+      {"term":"deployment","pos":"n.","ipa":"/dɪˈplɔɪmənt/","zh":"部署、上線","ja":"導入・展開","usage":"production deployment"},
+      {"term":"prototype","pos":"n.","ipa":"/ˈproʊtətaɪp/","zh":"原型","ja":"試作・プロトタイプ","usage":"a prototype proves an idea"},
+      {"term":"controlled","pos":"adj.","ipa":"/kənˈtroʊld/","zh":"受控的","ja":"管理された","usage":"controlled conditions"},
+      {"term":"metadata","pos":"n.","ipa":"/ˈmetəˌdeɪtə/","zh":"中繼資料","ja":"メタデータ","usage":"metadata is missing"},
+      {"term":"fluent","pos":"adj.","ipa":"/ˈfluːənt/","zh":"流暢的","ja":"流暢な","usage":"fluent answers"},
+      {"term":"escalation","pos":"n.","ipa":"/ˌeskəˈleɪʃən/","zh":"升級處理","ja":"エスカレーション","usage":"clear escalation paths"},
+      {"term":"baseline","pos":"n.","ipa":"/ˈbeɪslaɪn/","zh":"基準線","ja":"ベースライン","usage":"define a baseline"},
+      {"term":"indicator","pos":"n.","ipa":"/ˈɪndɪkeɪtər/","zh":"指標","ja":"指標","usage":"risk indicators"},
+      {"term":"discipline","pos":"n.","ipa":"/ˈdɪsəplɪn/","zh":"紀律、嚴謹管理","ja":"規律・規律性","usage":"economic discipline"},
+      {"term":"informally","pos":"adv.","ipa":"/ɪnˈfɔːrməli/","zh":"非正式地","ja":"非公式に","usage":"handled informally"},
+      {"term":"modest","pos":"adj.","ipa":"/ˈmɑːdɪst/","zh":"有限的、適度的","ja":"限定的な","usage":"modest automation"},
+      {"term":"repeated","pos":"adj.","ipa":"/rɪˈpiːtɪd/","zh":"反覆的","ja":"反復的な","usage":"repeated behavior"}
+    ],
+    "phrases": [
+      {"term":"under controlled conditions","explanation":"在受控條件下／管理された条件下で","example":"The model performed well under controlled conditions."},
+      {"term":"treat A as B","explanation":"把 A 視為 B／AをBとして扱う","example":"Treat access control as a product requirement."},
+      {"term":"scale the service","explanation":"擴大服務規模／サービスを拡張する","example":"The current support model cannot scale the service."},
+      {"term":"define a baseline","explanation":"定義比較基準／基準値を定める","example":"We must define a baseline before measuring impact."},
+      {"term":"compare A with B","explanation":"比較 A 與 B／AとBを比較する","example":"Compare the full operating cost with the value created."},
+      {"term":"accept responsibility for","explanation":"對……承擔責任／〜に責任を持つ","example":"The organization must accept responsibility for repeated system behavior."}
+    ],
+    "grammar": [
+      {"title":"The model may still produce fluent answers, which makes the problem dangerous.","body":"which 指向前面整件事，說明『模型仍能流暢回答』為何使風險更高。"},
+      {"title":"If every problem is sent back to the original engineers, the service will not scale.","body":"第一條件句：If + 現在式，主句 will + 原形，說明可能發生的營運後果。"},
+      {"title":"Without a comparison point, a team may celebrate high usage even when…","body":"Without + 名詞相當於 if there is no…；even when 強調即使在某情況下仍可能誤判。"},
+      {"title":"The mistake is treating a successful demo as proof that…","body":"動名詞 treating 作主詞補語；proof that 後面接完整內容子句。"}
+    ],
+    "business": [
+      {"term":"The pilot proves feasibility, not readiness.","explanation":"區分技術可行與正式上線準備度。","example":"The pilot proves feasibility, not readiness for enterprise-wide use."},
+      {"term":"The operating model is the current bottleneck.","explanation":"指出問題不在模型，而在營運設計。","example":"The operating model, rather than model accuracy, is the current bottleneck."},
+      {"term":"We need a decision gate for production.","explanation":"建立本番化前的判斷關卡。","example":"We need a decision gate covering data, controls, ownership, and economics."},
+      {"term":"What is the full cost per case?","explanation":"要求納入隱性營運成本。","example":"Before scaling, what is the full cost per case including human review?"},
+      {"term":"Which failure would force us to pause?","explanation":"預先定義停止條件。","example":"Which failure would force us to pause the service immediately?"}
+    ],
+    "quiz": [
+      {"question":"Why can fluent answers make poor retrieval especially dangerous?","answer":"Because users may mistake confident language for correct information."},
+      {"question":"What four categories should a useful scorecard combine?","answer":"Technical measures, operational measures, business outcomes, and risk indicators."},
+      {"question":"Output: Explain in 80–120 words why a successful pilot is not sufficient for deployment.","answer":"A strong answer should mention changing data, access control, ownership, measurement, incident handling, and full operating cost."}
+    ],
+    "interpretation": [
+      {"label":"背景依據","text":"NIST 與 OECD 的治理框架都強調風險管理、責任、透明度與全生命週期管理。"},
+      {"label":"作者觀點","text":"文章主張 PoC 成功只證明局部可行，不能代替本番化所需的營運設計。"},
+      {"label":"合理推論","text":"若企業只追求模型精度，容易低估資料權限、人工作業與事故處理成本。"},
+      {"label":"產業影響","text":"AI 投資評估應從『模型是否能做』轉向『組織是否能長期負責地運作』。"}
+    ],
+    "quality": "AI 原創學習文章，依據 NIST AI RMF、Playbook 與 OECD AI Principles 的公開治理概念整合。它不是特定企業的實證研究，成本與組織設計仍須依實際場景驗證。"
+  }
+}
