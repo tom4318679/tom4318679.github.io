@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="English 5 與日本語 3 的深度學習晨報試作版">
+  <title>Learning v2｜試看版</title>
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div>
+      <strong>Learning v2</strong>
+      <span id="issueLabel" class="muted">載入中…</span>
+    </div>
+    <div class="controls" aria-label="閱讀控制">
+      <button type="button" data-lang-mode="all" class="active">三語</button>
+      <button type="button" data-lang-mode="en">English</button>
+      <button type="button" data-lang-mode="zh">繁中</button>
+      <button type="button" data-lang-mode="ja">日本語</button>
+      <button type="button" id="normalSpeed" class="active">正常</button>
+      <button type="button" id="slowSpeed">慢速</button>
+      <button type="button" id="stopSpeech">停止</button>
+    </div>
+  </div>
+</header>
+<main class="page">
+  <section class="hero">
+    <div>
+      <p class="eyebrow">固定模板＋每日資料</p>
+      <h1 id="pageTitle">深度英日學習晨報</h1>
+      <p id="pageIntro" class="lead"></p>
+    </div>
+    <div class="hero-links">
+      <a href="../daily-learning/2026-08-02/">參考：8/2 舊版</a>
+      <a href="../daily-learning/">舊版入口</a>
+    </div>
+  </section>
+
+  <section class="layout">
+    <aside class="sidebar">
+      <div class="section-tabs" role="tablist" aria-label="語言分類">
+        <button type="button" data-section="english" class="active">English</button>
+        <button type="button" data-section="japanese">日本語</button>
+      </div>
+      <nav id="articleNav" aria-label="文章導覽"></nav>
+      <div class="archive-box">
+        <strong>日期</strong>
+        <div id="archiveLinks"></div>
+      </div>
+    </aside>
+    <section id="content" class="content" aria-live="polite"></section>
+  </section>
+</main>
+<div id="speechNotice" class="toast" hidden></div>
+<script src="./assets/app.js" defer></script>
+</body>
+</html>
