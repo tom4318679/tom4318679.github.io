@@ -1,0 +1,38 @@
+{
+  "section":"english",
+  "article":{
+    "id":"en-20260810-1",
+    "title":"Ask One More Question Before You Start",
+    "level":"A2",
+    "contentType":"AI original learning article",
+    "date":"2026-08-10",
+    "readingTime":"328 words",
+    "wordCount":328,
+    "author":"OpenAI learning editor",
+    "why":"用簡單英文練習在開始工作前確認關鍵假設，降低返工與溝通成本。",
+    "sources":[{"label":"NIST Plain Language","url":"https://www.nist.gov/plain-language"}],
+    "paragraphs":[
+      {"en":"Starting quickly can feel productive. A manager gives a task, and an employee begins immediately. However, many small mistakes happen because the employee starts before understanding the real request. One extra question can prevent hours of unnecessary work.","zh":"快速開始工作很容易讓人感覺有生產力。主管交代任務，員工就立刻動手。然而，許多小錯誤其實是因為還沒真正理解需求就開始做。多問一個關鍵問題，可能就能避免數小時的無效工作。","ja":"すぐ作業を始めると、生産的に見えます。しかし、依頼の本当の意味を理解する前に動き始めると、小さな誤解が大きな手戻りにつながります。最初に一つだけ重要な確認をすることで、数時間の無駄を防げることがあります。"},
+      {"en":"Imagine that a manager says, ‘Please prepare the customer numbers for tomorrow.’ This sounds clear, but several details are missing. Which customers? Which time period? Which numbers? Does the manager need a chart, a table, or only a short summary? If the employee guesses, the work may look good but still be wrong.","zh":"假設主管說：「請準備明天要用的客戶數字。」聽起來很清楚，但其實還缺很多資訊：哪些客戶？哪個期間？什麼數字？要圖表、表格，還是短摘要？如果員工只能猜，最後的成果即使看起來不錯，也可能完全不符合期待。","ja":"例えば、上司から『明日のために顧客の数字を準備してください』と言われた場合です。どの顧客か、どの期間か、どの指標か、グラフが必要かなど、実は曖昧な点があります。"},
+      {"en":"A useful habit is to ask one question that checks the most important assumption. For example: ‘Do you want the monthly sales figures for active customers only?’ The manager can answer quickly. The employee now knows the target and can work faster with less risk of rework.","zh":"一個很實用的習慣，是找出最重要的假設並確認一次。例如：「您要的是僅限活躍客戶的月銷售額嗎？」主管很快就能回答，而員工也能更放心地往正確方向做。","ja":"『アクティブ顧客だけの月次売上でよいですか』と一度確認すれば、方向が明確になります。"},
+      {"en":"This does not mean asking many questions about every small detail. Too many questions can slow the team down. The goal is to identify the one uncertainty that could change the whole output. If the format is not important, do not spend time discussing it. If the customer definition changes the result, confirm it first.","zh":"這不代表每件小事都要不斷提問。問題太多反而拖慢團隊。真正要做的是找出那個「一旦理解錯誤，就會讓整份輸出改變」的不確定點。若格式不重要，就不用花時間討論；若客戶定義會直接改變數字，就應先確認。","ja":"重要なのは質問の数ではなく、結果を大きく変える不確実性を見つけることです。細かい形式まで毎回確認する必要はありませんが、顧客定義や対象期間のように分析結果へ直接影響する条件は先に確認した方がよいでしょう。"},
+      {"en":"The same habit is useful when working with AI. Before asking an AI tool to analyze data or draft a message, the user should decide the purpose, audience, and important limits. A better instruction usually comes from a clearer question.","zh":"與 AI 工作時也一樣。在請 AI 分析資料或起草訊息前，使用者最好先想清楚目的、讀者與限制。更好的 prompt 往往來自更清楚的問題。","ja":"AIを使うときも同じです。目的、対象読者、制約を先に整理すると、プロンプトも明確になります。"},
+      {"en":"Good communication is not only about giving answers. It is also about checking whether everyone is solving the same problem. One thoughtful question at the beginning can save time, reduce frustration, and improve trust. A team that asks the right question is not moving slowly. It is making sure that its speed is pointed in the right direction. This habit also helps when several people work together. If everyone begins with a different assumption, the team may produce several correct answers to different questions. A short confirmation creates one shared starting point. That makes review easier because people can judge the work against the same goal.","zh":"好的溝通不只是快速給答案，也包括確認大家是否在解決同一個問題。開始前多問一個真正重要的問題，往往能減少返工、降低挫折並提升信任。多人協作時更是如此；如果每個人都從不同假設出發，可能各自做出正確、卻回答不同問題的成果。短暫確認能建立共同起點，也讓後續 review 更容易。","ja":"良いコミュニケーションは、早く答えることだけではありません。同じ問題を解いているか確認することも重要です。開始前の一つの質問が、手戻りを減らし、信頼を高めます。複数人で働く場合も、共通の前提を確認することでレビューが容易になります。"}
+    ],
+    "vocabulary":[
+      {"term":"assumption","pos":"n.","ipa":"/əˈsʌmpʃən/","zh":"假設","ja":"前提","usage":"check the most important assumption"},
+      {"term":"uncertainty","pos":"n.","ipa":"/ʌnˈsɝːtənti/","zh":"不確定性","ja":"不確実性","usage":"identify the one uncertainty"},
+      {"term":"rework","pos":"n.","ipa":"/ˌriːˈwɝːk/","zh":"返工","ja":"手戻り","usage":"reduce the risk of rework"},
+      {"term":"target","pos":"n.","ipa":"/ˈtɑːrɡɪt/","zh":"目標","ja":"対象・目標","usage":"know the target"},
+      {"term":"productive","pos":"adj.","ipa":"/prəˈdʌktɪv/","zh":"有生產力的","ja":"生産的な","usage":"feel productive"},
+      {"term":"frustration","pos":"n.","ipa":"/frʌˈstreɪʃən/","zh":"挫折感","ja":"いら立ち","usage":"reduce frustration"},
+      {"term":"confirmation","pos":"n.","ipa":"/ˌkɑːnfərˈmeɪʃən/","zh":"確認","ja":"確認","usage":"a short confirmation"}
+    ],
+    "phrases":[{"term":"before you start","explanation":"在開始之前／始める前に","example":"Check the target before you start."},{"term":"change the whole output","explanation":"改變整個輸出／成果全体を変える","example":"One definition can change the whole output."},{"term":"pointed in the right direction","explanation":"朝正確方向前進／正しい方向を向く","example":"Speed matters only when it is pointed in the right direction."}],
+    "grammar":[{"title":"If the customer definition changes the result, confirm it first.","body":"If 引導條件；主句用祈使句，適合工作指示。"},{"title":"Good communication is not only about giving answers.","body":"not only 用來擴大論點，表示不只是一件事。"}],
+    "business":[{"term":"Can I confirm one assumption?","explanation":"禮貌確認關鍵前提。","example":"Can I confirm one assumption before I start?"},{"term":"What would change the output?","explanation":"快速找出真正重要的不確定點。","example":"What would change the output if we interpreted this differently?"}],
+    "quiz":[{"question":"Why can one question save time?","answer":"Because it can reveal a key assumption before the employee produces the wrong output."},{"question":"Output: write one confirmation question for a task you often receive.","answer":"Example: Do you want the result for all customers or only active customers?"}],
+    "interpretation":[{"label":"核心","text":"開始前確認一個會改變整份成果的前提，通常比直接動手更有效率。"},{"label":"實務","text":"特別適合分析需求、會議任務、AI prompt 與客戶交付物。"}],
+    "quality":"AI 原創學習文章；背景參考 NIST plain-language 原則。屬工作溝通實務建議。"
+  }
+}
