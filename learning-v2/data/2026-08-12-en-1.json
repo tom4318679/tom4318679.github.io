@@ -1,0 +1,38 @@
+{
+  "section":"english",
+  "article":{
+    "id":"en-20260812-1",
+    "title":"Why Writing Down a Decision Helps",
+    "level":"A2",
+    "contentType":"AI original learning article",
+    "date":"2026-08-12",
+    "readingTime":"356 words",
+    "wordCount":356,
+    "author":"OpenAI learning editor",
+    "why":"用簡單英文學習決策紀錄、前提與重新檢查時間，適合工作場合。",
+    "sources":[{"label":"NIST Plain Language","url":"https://www.nist.gov/plain-language"}],
+    "paragraphs":[
+      {"en":"Teams make many small decisions every day. A manager chooses one option, a project member agrees to a deadline, or a group decides which customer segment to study. At the moment, everyone may remember why the decision was made. Two weeks later, however, people often remember only the result and forget the reason.","zh":"團隊每天都會做很多小決策。主管選擇一個方案、專案成員同意一個期限，或團隊決定要分析哪個客群。當下大家可能都記得為什麼這樣決定，但兩週後，人們往往只記得結果，卻忘了理由。","ja":"チームは毎日、多くの小さな意思決定をします。上司が選択肢を決めたり、担当者が期限に合意したり、分析対象の顧客層を決めたりします。その場では理由を覚えていても、二週間後には結論だけが残り、理由を忘れることがあります。"},
+      {"en":"A short decision note can prevent this problem. It does not need to be a long report. A useful note can contain three things: what was decided, why it was decided, and when the team should review it again. For example, a team may write, ‘We will test the new process with existing customers first because we already have reliable data. We will review the result after four weeks.’","zh":"一份簡短的決策紀錄可以避免這個問題。它不需要是一份很長的報告，只要包含三件事：決定了什麼、為什麼這樣決定、以及什麼時候應該再檢查一次。例如：「我們先用既有客戶測試新流程，因為目前有較可靠的資料；四週後重新檢視結果。」","ja":"短い意思決定メモはこの問題を防げます。長い報告書は必要ありません。何を決めたか、なぜそう決めたか、いつ見直すかの三点があれば十分です。"},
+      {"en":"Writing down the reason is important because conditions can change. If the team later gets better data from new customers, the original reason may no longer be true. Without a note, people may continue following the old decision simply because ‘that is what we agreed before.’ With a note, they can see the original assumption and decide whether it still makes sense.","zh":"把理由寫下來很重要，因為條件會改變。如果之後取得更完整的新客資料，原本的理由可能已經不成立。沒有紀錄時，人們容易因為「以前就是這樣決定的」而繼續沿用；有紀錄就能看到原本假設，重新判斷是否合理。","ja":"理由を残すことが重要なのは、条件が変わるからです。後で新規顧客の良いデータが入れば、最初の前提はもう正しくないかもしれません。記録があれば元の前提を確認できます。"},
+      {"en":"A written decision also helps new team members. They do not need to ask several people why a choice was made. They can read the note, understand the context, and ask better questions. This saves time and reduces different versions of the same story.","zh":"書面紀錄也能幫助新加入的團隊成員。他們不必再向多人詢問當初為何這樣選，只要看紀錄就能理解背景並提出更好的問題。這能節省時間，也避免同一件事出現多個版本。","ja":"意思決定メモは新しいメンバーにも役立ちます。複数の人へ経緯を聞かなくても背景を理解でき、より良い質問ができます。"},
+      {"en":"Some people worry that writing every decision will create too much paperwork. That is a fair concern. The goal is not to record every small choice. Teams should focus on decisions that affect money, customers, deadlines, risk, or future work.","zh":"有人擔心每個決策都記錄會造成太多文書工作，這是合理的。因此不必記錄所有小選擇，而應聚焦在會影響金錢、客戶、期限、風險或後續工作的決策。","ja":"すべての小さな選択を記録する必要はありません。金額、顧客、期限、リスク、将来の仕事へ影響する重要な判断に絞ればよいでしょう。"},
+      {"en":"The main lesson is simple. Memory is useful, but it changes. A short written record gives the team a stable reference. It helps people understand the past, challenge old assumptions, and make the next decision with better information. It also makes review meetings more productive because people can discuss whether the original logic still holds instead of arguing about what someone remembers.","zh":"核心很簡單：記憶會改變，而簡短的書面紀錄提供穩定參照。它幫助團隊理解過去、挑戰舊假設，也讓下一次決策建立在更好的資訊上。Review 會議也能直接討論原本邏輯是否仍成立，而不是爭論誰記得比較準。","ja":"記憶は便利ですが変化します。短い記録を残すことで、過去を理解し、古い前提を見直し、次の判断をより良い情報に基づいて行えます。レビュー会議でも記憶の違いではなく、元の論理がまだ成立するかを議論できます。"}
+    ],
+    "vocabulary":[
+      {"term":"decision","pos":"n.","ipa":"/dɪˈsɪʒən/","zh":"決策","ja":"意思決定","usage":"write down an important decision"},
+      {"term":"assumption","pos":"n.","ipa":"/əˈsʌmpʃən/","zh":"假設","ja":"前提","usage":"check the original assumption"},
+      {"term":"context","pos":"n.","ipa":"/ˈkɑːntekst/","zh":"背景脈絡","ja":"文脈・背景","usage":"understand the context"},
+      {"term":"review","pos":"v.","ipa":"/rɪˈvjuː/","zh":"重新檢視","ja":"見直す","usage":"review the result after four weeks"},
+      {"term":"stable","pos":"adj.","ipa":"/ˈsteɪbəl/","zh":"穩定的","ja":"安定した","usage":"a stable reference"},
+      {"term":"paperwork","pos":"n.","ipa":"/ˈpeɪpərwɝːk/","zh":"文書工作","ja":"事務書類","usage":"avoid unnecessary paperwork"},
+      {"term":"deadline","pos":"n.","ipa":"/ˈdedlaɪn/","zh":"期限","ja":"締め切り","usage":"decisions that affect deadlines"}
+    ],
+    "phrases":[{"term":"write down","explanation":"寫下來／書き留める","example":"Write down the reason for the decision."},{"term":"no longer be true","explanation":"已不再成立／もはや正しくない","example":"The original assumption may no longer be true."},{"term":"make sense","explanation":"合理、有道理／筋が通る","example":"Check whether the decision still makes sense."}],
+    "grammar":[{"title":"If the team later gets better data, the original reason may no longer be true.","body":"If 條件句＋may 表示可能性。"},{"title":"The goal is not to record every small choice.","body":"not to + verb 用來否定目的或行動。"}],
+    "business":[{"term":"Let’s document the rationale.","explanation":"把決策理由正式留下。","example":"Let’s document the rationale before we close the meeting."},{"term":"When should we revisit this decision?","explanation":"詢問何時需要重新檢視。","example":"When should we revisit this decision if the data changes?"}],
+    "quiz":[{"question":"Why should a team write down the reason for a decision?","answer":"Because conditions may change and the team needs to know the original assumption."},{"question":"Output: write a three-line decision note for a recent work decision.","answer":"Include what was decided, why, and when it should be reviewed."}],
+    "interpretation":[{"label":"核心","text":"決策紀錄不是為了增加文件，而是保存當時的前提。"},{"label":"管理含義","text":"當條件改變時，團隊能判斷應維持還是推翻舊決策。"}],
+    "quality":"AI 原創學習文章；背景參考 NIST plain-language 原則。屬工作溝通與治理實務。"
+  }
+}
