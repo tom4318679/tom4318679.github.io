@@ -1,0 +1,39 @@
+{
+  "section":"english",
+  "article":{
+    "id":"en-20260812-4",
+    "title":"Why Small Experiments Need a Stop Rule",
+    "level":"B2",
+    "contentType":"AI original learning article",
+    "date":"2026-08-12",
+    "readingTime":"603 words",
+    "wordCount":603,
+    "author":"OpenAI learning editor",
+    "why":"學習如何在 PoC／實驗開始前定義停止、延長與擴大條件，避免事後重新解釋成功。",
+    "sources":[{"label":"NIST AI Risk Management Framework","url":"https://www.nist.gov/itl/ai-risk-management-framework"}],
+    "paragraphs":[
+      {"en":"Experiments are supposed to reduce uncertainty. A team tries a new process, model, campaign, or product feature on a limited scale, observes the result, and decides what to do next. In practice, however, many experiments continue longer than planned because the team defines how to start but not how to stop.","zh":"實驗的目的，是降低不確定性。團隊用小規模方式測試新流程、模型、campaign 或產品功能，再根據結果決定下一步。但很多實驗會比預期拖得更久，因為大家只定義如何開始，卻沒有定義何時停止。","ja":"実験は不確実性を減らすためのものですが、開始条件だけを決めて終了条件を決めないと、予定より長く続きがちです。"},
+      {"en":"A stop rule is a condition that triggers a decision. It does not always mean cancel the project. It can mean pause, redesign, extend the test, collect more data, or move to a larger rollout. The important point is that the condition is defined before the result is known.","zh":"Stop rule 是會觸發決策的條件，不一定等於取消專案，也可能代表暫停、重新設計、延長測試、收集更多資料或擴大 rollout。關鍵是必須在看到結果之前先定義。","ja":"停止ルールは必ずしも中止を意味しません。一時停止、再設計、追加データ収集、期間延長、拡大などの判断を起動する条件です。"},
+      {"en":"Why does timing matter? After a team sees results, people naturally reinterpret them. A weak result may be described as promising but early. A strong result may be celebrated even if it came from a small or unusual sample. If success criteria and stop rules are written only after the data arrives, the experiment becomes difficult to falsify.","zh":"為什麼時間點重要？因為看到結果後，人會自然重新解釋。弱結果可以被說成很有潛力、只是還太早；強結果也可能因樣本太小而被過度慶祝。若 success criteria 與 stop rule 都在事後才寫，實驗幾乎無法被 falsify。","ja":"結果を見た後では、人は解釈を変えやすくなります。弱い結果をまだ早いと言い、強い結果を小さなサンプルでも成功と見なすことがあります。"},
+      {"en":"A useful experiment can define three types of conditions. First, success conditions describe evidence strong enough to justify expansion. Second, stop conditions describe performance, cost, risk, or incidents that require a pause. Third, learning conditions describe cases where the result is inconclusive but informative enough to justify another test with a revised design.","zh":"可以設三類條件。第一是 success condition：什麼證據足以支持擴大。第二是 stop condition：什麼績效、成本、風險或 incident 要求暫停。第三是 learning condition：結果雖不明確，但足以支持重新設計下一輪測試。","ja":"実務では、成功条件、停止条件、学習条件の三つを決めると便利です。"},
+      {"en":"For an AI pilot, these conditions may include accuracy, recall for critical cases, review time, user adoption, incident rate, and operating cost. A model can be technically accurate but still fail if employees spend too much time checking it. Similarly, a low-cost tool may need to stop if it creates serious privacy or compliance risk.","zh":"AI pilot 可包含 accuracy、關鍵案例 recall、review time、user adoption、incident rate 與 operating cost。模型技術上再準，如果人工 review 花太多時間，仍可能不具商業價值；低成本工具若造成重大隱私或法遵風險，也應停止。","ja":"AI PoCなら、精度、重要ケースの再現率、レビュー時間、利用率、事故率、運用コストなどを組み合わせられます。"},
+      {"en":"There is a danger in making stop rules too rigid. Experiments are designed for learning, and unexpected information may justify changing the plan. The solution is not to freeze every threshold. It is to require an explicit explanation when the rule changes: what new evidence appeared, who approved the change, and how the interpretation of previous results is affected.","zh":"Stop rule 也不能僵化。真正出現新資訊時，可以調整門檻，但必須留下清楚說明：新證據是什麼、誰批准改變、過去結果要如何重新解讀。","ja":"停止ルールが硬すぎる問題もあります。新しい証拠があれば条件を変更してよいですが、何が変わったか、誰が承認したかを記録すべきです。"},
+      {"en":"Stop rules also protect teams from sunk-cost thinking. Once people invest time and reputation in a project, stopping feels like admitting failure. A pre-agreed rule makes the decision less personal. Managers should design the end of an experiment at the same time as the beginning so that evidence always leads to a clear next action.","zh":"Stop rule 也能降低 sunk-cost bias。當團隊投入時間與名譽後，停止很容易被理解成失敗。若事前已同意條件，討論就比較不會變成人身或立場問題。實驗開始時就應同時設計結束方式，讓證據能轉成清楚下一步。","ja":"事前ルールはサンクコストにも有効です。良い実験は開始と終了を同時に設計し、結果を次の行動へ変えます。"}
+    ],
+    "vocabulary":[
+      {"term":"stop rule","pos":"n.","ipa":"/stɑːp ruːl/","zh":"停止規則","ja":"停止ルール","usage":"define a stop rule before the test starts"},
+      {"term":"inconclusive","pos":"adj.","ipa":"/ˌɪnkənˈkluːsɪv/","zh":"無定論的","ja":"結論が出ない","usage":"an inconclusive result"},
+      {"term":"threshold","pos":"n.","ipa":"/ˈθreʃhoʊld/","zh":"門檻","ja":"閾値","usage":"change the threshold only with evidence"},
+      {"term":"falsify","pos":"v.","ipa":"/ˈfɔːlsəfaɪ/","zh":"證偽","ja":"反証する","usage":"make the hypothesis possible to falsify"},
+      {"term":"rollout","pos":"n.","ipa":"/ˈroʊlaʊt/","zh":"擴大導入","ja":"展開","usage":"move to a larger rollout"},
+      {"term":"sunk cost","pos":"n.","ipa":"/sʌŋk kɔːst/","zh":"沉沒成本","ja":"サンクコスト","usage":"avoid sunk-cost thinking"},
+      {"term":"pre-agreed","pos":"adj.","ipa":"/ˌpriː əˈɡriːd/","zh":"事先同意的","ja":"事前合意した","usage":"a pre-agreed decision rule"}
+    ],
+    "phrases":[{"term":"trigger a decision","explanation":"觸發決策。","example":"The threshold should trigger a decision."},{"term":"change the rule after the fact","explanation":"事後改規則。","example":"Avoid changing the rule after the fact."},{"term":"justify another test","explanation":"支持再做一次測試。","example":"The result may justify another test."}],
+    "grammar":[{"title":"If success criteria are written only after the data arrives, the experiment becomes difficult to falsify.","body":"If 條件句描述方法設計的後果。"},{"title":"It does not always mean cancel the project.","body":"not always 表示並非總是如此。"}],
+    "business":[{"term":"What would make us stop or redesign this test?","explanation":"事前確認停止條件。","example":"What would make us stop or redesign this test?"},{"term":"What evidence would justify expansion?","explanation":"要求明確 success criteria。","example":"What evidence would justify expansion beyond the pilot?"}],
+    "quiz":[{"question":"What are the three types of experiment conditions?","answer":"Success, stop, and learning conditions."},{"question":"Output: define one stop rule and one expansion rule for an AI pilot.","answer":"Make both rules measurable and define them before the result is known."}],
+    "interpretation":[{"label":"核心","text":"PoC 不只需要 success criteria，也需要停止與再設計條件。"},{"label":"偏誤","text":"事前規則能降低事後合理化與 sunk-cost thinking。"}],
+    "quality":"AI 原創學習文章；背景參考 NIST AI RMF。屬實驗治理與 PoC 管理方法。"
+  }
+}
