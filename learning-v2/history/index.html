@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Learning v2 歷史晨報列表">
+  <title>Learning v2｜歷史晨報</title>
+  <link rel="stylesheet" href="../assets/style.css">
+  <style>
+    .history-shell{max-width:980px;margin:0 auto}.history-item{display:flex!important;align-items:center;justify-content:space-between;gap:20px;margin-bottom:14px}.history-item h2{margin:.2rem 0}.history-open{white-space:nowrap;font-weight:700;text-decoration:none}.history-note{margin-top:10px;color:#667085}@media(max-width:700px){.history-item{align-items:flex-start;flex-direction:column}.history-open{width:100%;padding-top:8px;border-top:1px solid #dce3ee}}
+  </style>
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div><strong>Learning v2</strong><span class="muted">｜歷史晨報</span></div>
+    <div class="controls"><a href="../">最新一期</a></div>
+  </div>
+</header>
+<main class="page history-shell">
+  <section class="hero">
+    <div>
+      <p class="eyebrow">ARCHIVE</p>
+      <h1>歷史晨報</h1>
+      <p class="lead">所有日期集中在這裡。未來每日發布只更新資料與 manifest，這個頁面會自動增加新一期。</p>
+      <p class="history-note">新版日期直接讀取每日 JSON；較早的 Legacy 版本則保留原本頁面。</p>
+    </div>
+    <div class="hero-links"><a href="../"><strong>← 最新一期</strong></a></div>
+  </section>
+  <section id="historyList" aria-live="polite"><article class="article-card active"><p>正在載入歷史列表…</p></article></section>
+</main>
+<script src="../assets/history.js" defer></script>
+</body>
+</html>
