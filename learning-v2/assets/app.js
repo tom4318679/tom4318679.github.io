@@ -28,6 +28,10 @@
     return `<div class="expression-grid">${arr(items).map(x=>`<div class="mini-card"><strong>${esc(x.term)}</strong>${speakButton(x.term,lang)}<p>${esc(x.explanation||x.zh||'')}</p>${x.example?`<p><em>${esc(x.example)}</em>${speakButton(x.example,lang)}</p>`:''}${x.note?`<p class="muted">${esc(x.note)}</p>`:''}</div>`).join('')}</div>`;
   }
   const renderDetails=(title,items)=>arr(items).map((x,i)=>`<details><summary>${esc(title)} ${i+1}｜${esc(x.title||x.question||'')}</summary><div>${x.body?esc(x.body):''}${x.answer?`<p><strong>答案：</strong>${esc(x.answer)}</p>`:''}</div></details>`).join('');
+  const renderInterpretation = items => {
+    const valid = arr(items).filter(x => x && (x.text || x.label));
+    return valid.length ? `<section class="article-section interpretation"><h3>繁中內容解讀</h3>${valid.map(x=>`<p>${x.label?`<strong>${esc(x.label)}：</strong>`:''}${esc(x.text)}</p>`).join('')}</section>` : '';
+  };
 
   function renderEnglish(a){
     return `<article class="article-card" id="${esc(a.id)}" data-section="english">
@@ -42,7 +46,7 @@
       <section class="article-section"><h3>文法／長句拆解</h3>${renderDetails('拆解',a.grammar)}</section>
       <section class="article-section"><h3>商務／顧問表達</h3>${renderPairs(a.business,'en-US')}</section>
       <section class="article-section"><h3>理解與輸出</h3>${renderDetails('題目',a.quiz)}</section>
-      <section class="article-section interpretation"><h3>繁中內容解讀</h3>${arr(a.interpretation).map(x=>`<p><strong>${esc(x.label)}：</strong>${esc(x.text)}</p>`).join('')}</section>
+      ${renderInterpretation(a.interpretation)}
       <section class="article-section quality"><h3>來源品質卡與限制</h3><p>${esc(a.quality)}</p></section>
     </article>`;
   }
@@ -70,7 +74,7 @@
     state.articleId=id; speechSynthesis?.cancel();
     $$('.article-card').forEach(x=>x.classList.toggle('active',x.id===id));
     $$('.nav-item').forEach(x=>x.classList.toggle('active',x.dataset.articleId===id));
-    applyLangMode(); window.scrollTo({top:0,behavior:'smooth'});
+    applyLangMode();
   }
   function applyLangMode(){
     $$('[data-lang]').forEach(x=>x.classList.toggle('hidden', state.langMode!=='all' && x.dataset.lang!==state.langMode));
