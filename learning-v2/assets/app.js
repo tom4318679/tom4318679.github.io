@@ -3,7 +3,7 @@
   const state = { section: 'english', articleId: null, langMode: 'all', rate: 1 };
   const $ = (s, r=document) => r.querySelector(s);
   const $$ = (s, r=document) => [...r.querySelectorAll(s)];
-  const esc = (v='') => String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const esc = (v='') => String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[c]));
   const arr = v => Array.isArray(v) ? v : [];
   const speakButton = (text, lang) => `<button class="speak" type="button" data-speak="${esc(text)}" data-speech-lang="${lang}" aria-label="播放：${esc(text)}">🔊</button>`;
 
@@ -87,7 +87,7 @@
   }
   function switchSection(section,data){
     state.section=section; speechSynthesis?.cancel();
-    $$('[data-section]').forEach(b=>{ if(b.tagName==='BUTTON') b.classList.toggle('active',b.dataset.section===section); });
+    $$('.section-tabs button[data-section]').forEach(b=>b.classList.toggle('active',b.dataset.section===section));
     renderNav(data);
   }
   function setupSpeech(){
@@ -109,7 +109,7 @@
       $('#issueLabel').textContent=`｜${data.dateLabel}`; $('#pageTitle').textContent=data.title; $('#pageIntro').textContent=data.intro;
       $('#content').innerHTML=data.english.map(renderEnglish).join('')+data.japanese.map(renderJapanese).join('');
       $('#archiveLinks').innerHTML=manifest.issues.map(x=>`<a href="?date=${encodeURIComponent(x.id)}">${esc(x.label)}</a>`).join('');
-      $$('[data-section]').forEach(b=>b.addEventListener('click',()=>switchSection(b.dataset.section,data)));
+      $$('.section-tabs button[data-section]').forEach(b=>b.addEventListener('click',()=>switchSection(b.dataset.section,data)));
       $$('[data-lang-mode]').forEach(b=>b.addEventListener('click',()=>{state.langMode=b.dataset.langMode;$$('[data-lang-mode]').forEach(x=>x.classList.toggle('active',x===b));applyLangMode()}));
       setupSpeech(); renderNav(data);
     }catch(err){ $('#content').innerHTML=`<article class="article-card active"><h2>載入失敗</h2><p>${esc(err.message)}</p></article>`; }
