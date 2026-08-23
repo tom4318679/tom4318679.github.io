@@ -32,6 +32,7 @@
     const valid = arr(items).filter(x => x && (x.text || x.label));
     return valid.length ? `<section class="article-section interpretation"><h3>繁中內容解讀</h3>${valid.map(x=>`<p>${x.label?`<strong>${esc(x.label)}：</strong>`:''}${esc(x.text)}</p>`).join('')}</section>` : '';
   };
+  const optionalSection = (title, items, html) => arr(items).length ? `<section class="article-section"><h3>${title}</h3>${html}</section>` : '';
 
   function renderEnglish(a){
     return `<article class="article-card" id="${esc(a.id)}" data-section="english">
@@ -39,7 +40,7 @@
       <div class="meta"><span class="badge">${esc(a.level)}</span><span class="badge type">${esc(a.contentType)}</span><span class="badge source">${esc(a.date)}</span><span class="badge">${esc(a.readingTime)}</span></div>
       <div class="why"><strong>選文理由：</strong>${esc(a.why)}</div>
       <p><strong>作者：</strong>${esc(a.author)}</p>
-      <ul class="source-list">${arr(a.sources).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ul>
+      ${arr(a.sources).length?`<ul class="source-list">${arr(a.sources).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ul>`:''}
       <section class="article-section"><h3>AI learning article</h3>${renderParagraphs(a)}</section>
       <section class="article-section"><h3>重要單字</h3>${renderVocabulary(a.vocabulary,'en')}</section>
       <section class="article-section"><h3>片語與固定搭配</h3>${renderPairs(a.phrases,'en-US')}</section>
@@ -47,7 +48,7 @@
       <section class="article-section"><h3>商務／顧問表達</h3>${renderPairs(a.business,'en-US')}</section>
       <section class="article-section"><h3>理解與輸出</h3>${renderDetails('題目',a.quiz)}</section>
       ${renderInterpretation(a.interpretation)}
-      <section class="article-section quality"><h3>來源品質卡與限制</h3><p>${esc(a.quality)}</p></section>
+      ${a.quality?`<section class="article-section quality"><h3>來源品質卡與限制</h3><p>${esc(a.quality)}</p></section>`:''}
     </article>`;
   }
 
@@ -56,17 +57,16 @@
       <p class="eyebrow">日本語・深度学習</p><h2>${esc(a.title)}</h2>
       <div class="meta"><span class="badge">${esc(a.level)}</span><span class="badge type">${esc(a.contentType)}</span><span class="badge source">${esc(a.date)}</span><span class="badge">${esc(a.readingTime)}</span></div>
       <div class="why"><strong>選文理由：</strong>${esc(a.why)}</div><p><strong>作者：</strong>${esc(a.author)}</p>
-      <ul class="source-list">${arr(a.sources).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ul>
+      ${arr(a.sources).length?`<ul class="source-list">${arr(a.sources).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ul>`:''}
       <section class="article-section"><h3>AIオリジナル学習記事</h3>${arr(a.paragraphs).map((p,i)=>`<div class="lang-block" data-lang="ja"><h4>段落 ${i+1}</h4><p>${esc(p.ja)} ${speakButton(p.ja,'ja-JP')}</p></div>`).join('')}</section>
-      <section class="article-section interpretation"><h3>繁中精準解說</h3>${arr(a.zhExplanation).map(x=>`<p>${esc(x)}</p>`).join('')}</section>
-      <section class="article-section"><h3>高階用語</h3>${renderVocabulary(a.vocabulary,'ja')}</section>
-      <section class="article-section"><h3>固定搭配與不自然用法</h3>${renderPairs(a.collocations,'ja-JP')}</section>
-      <section class="article-section"><h3>長句拆解</h3>${renderDetails('拆解',a.grammar)}</section>
-      <section class="article-section"><h3>コンサル表現</h3>${renderPairs(a.consulting,'ja-JP')}</section>
-      <section class="article-section"><h3>要約訓練</h3>${renderDetails('要約',a.summaries)}</section>
-      <section class="article-section"><h3>会話と雑談</h3>${renderPairs(a.conversation,'ja-JP')}</section>
-      <section class="article-section"><h3>理解と口頭表現</h3>${renderDetails('問題',a.quiz)}</section>
-      <section class="article-section quality"><h3>來源品質卡與限制</h3><p>${esc(a.quality)}</p></section>
+      ${arr(a.zhExplanation).length?`<section class="article-section interpretation"><h3>繁中精準解說</h3>${arr(a.zhExplanation).map(x=>`<p>${esc(x)}</p>`).join('')}</section>`:''}
+      ${optionalSection('高階用語',a.vocabulary,renderVocabulary(a.vocabulary,'ja'))}
+      ${optionalSection('固定搭配與不自然用法',a.collocations,renderPairs(a.collocations,'ja-JP'))}
+      ${optionalSection('長句拆解',a.grammar,renderDetails('拆解',a.grammar))}
+      ${optionalSection('ビジネス・実務表現',a.consulting,renderPairs(a.consulting,'ja-JP'))}
+      ${optionalSection('関連知識・背景理解',a.backgroundKnowledge,renderDetails('背景',a.backgroundKnowledge))}
+      ${optionalSection('自然な言い換え・ニュアンス',a.naturalNuance,renderPairs(a.naturalNuance,'ja-JP'))}
+      ${a.quality?`<section class="article-section quality"><h3>來源品質卡與限制</h3><p>${esc(a.quality)}</p></section>`:''}
     </article>`;
   }
 
@@ -83,7 +83,7 @@
     const items=state.section==='english'?data.english:data.japanese;
     $('#articleNav').innerHTML=items.map(a=>`<button type="button" class="nav-item" data-article-id="${esc(a.id)}"><small>${esc(a.level)}</small>${esc(a.title)}</button>`).join('');
     $$('.nav-item').forEach(b=>b.addEventListener('click',()=>showArticle(b.dataset.articleId)));
-    showArticle(items[0].id);
+    if(items[0]) showArticle(items[0].id);
   }
   function switchSection(section,data){
     state.section=section; speechSynthesis?.cancel();
@@ -105,6 +105,7 @@
         const loaded=await Promise.all(data.parts.map(name=>loadJSON(`./data/${name}`)));
         data={...data,english:loaded.filter(x=>x.section==='english').map(x=>x.article),japanese:loaded.filter(x=>x.section==='japanese').map(x=>x.article)};
       }
+      if(!Array.isArray(data.english)||!Array.isArray(data.japanese)) throw new Error(`${issue}: invalid issue data`);
       $('#issueLabel').textContent=`｜${data.dateLabel}`; $('#pageTitle').textContent=data.title; $('#pageIntro').textContent=data.intro;
       $('#content').innerHTML=data.english.map(renderEnglish).join('')+data.japanese.map(renderJapanese).join('');
       $('#archiveLinks').innerHTML=manifest.issues.map(x=>`<a href="?date=${encodeURIComponent(x.id)}">${esc(x.label)}</a>`).join('');
