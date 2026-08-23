@@ -22,12 +22,14 @@ Do not use remembered repository names, remembered latest dates, or old director
 - Project root: `learning-v2/`
 - Daily data: `learning-v2/data/`
 - Manifest: `learning-v2/manifest.json`
+- Current entry: `/learning-v2/`
+- Unified history entry: `/learning-v2/history/`
 
 `learning-v2` is a directory, never a standalone repository.
 
 ## Daily issue contract
 
-A normal issue contains exactly:
+A normal newly published issue contains exactly:
 
 - 5 English article JSON files
 - 3 Japanese article JSON files
@@ -58,7 +60,7 @@ Publishing the same date twice must not create duplicates. If files already exis
 
 - Never search for a repository named `learning-v2`.
 - Never create a new date folder for daily content.
-- Never touch `data/legacy/` during a normal daily publish.
+- Never touch preserved legacy article pages or `data/legacy/` during a normal daily publish.
 - Never move `manifest.latest` to a partially written issue.
 - Never reconstruct a full prepared issue from only a summary table, titles, or remembered word counts.
 - Never claim success until the final GitHub read-back confirms the issue and manifest.
@@ -67,6 +69,11 @@ Publishing the same date twice must not create duplicates. If files already exis
 
 If GitHub access fails, a prepared payload is missing, or validation fails, leave `manifest.latest` unchanged and report the exact blocking step. Do not improvise a different repository, directory, or content source.
 
-## Historical data
+## Unified history behavior
 
-Legacy HTML/TXT archives exist only for historical compatibility. They are not part of the daily publishing procedure and should normally be ignored.
+`manifest.json` serves both current and historical navigation:
+
+- A current JSON issue has no `href`; the history UI opens `/learning-v2/?date=YYYY-MM-DD`.
+- A preserved legacy issue has an explicit `href`; the history UI opens that original article page directly.
+- Legacy article pages keep their historical layout/functions, but their old landing/archive hubs redirect to Learning v2.
+- Historical compatibility is navigation-only and is not part of normal daily publishing.
