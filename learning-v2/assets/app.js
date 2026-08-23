@@ -3,7 +3,7 @@
   const state = { section: 'english', articleId: null, langMode: 'all', rate: 1 };
   const $ = (s, r=document) => r.querySelector(s);
   const $$ = (s, r=document) => [...r.querySelectorAll(s)];
-  const esc = (v='') => String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[c]));
+  const esc = (v='') => String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const arr = v => Array.isArray(v) ? v : [];
   const speakButton = (text, lang) => `<button class="speak" type="button" data-speak="${esc(text)}" data-speech-lang="${lang}" aria-label="播放：${esc(text)}">🔊</button>`;
 
