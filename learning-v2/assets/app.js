@@ -8,7 +8,89 @@
   const speakButton = (text, lang) => `<button class="speak" type="button" data-speak="${esc(text)}" data-speech-lang="${lang}" aria-label="播放：${esc(text)}">🔊</button>`;
 
   async function loadJSON(path){ const r=await fetch(path,{cache:'no-store'}); if(!r.ok) throw new Error(`${path}: HTTP ${r.status}`); return r.json(); }
+  async function loadText(path){ const r=await fetch(path,{cache:'no-store'}); if(!r.ok) throw new Error(`${path}: HTTP ${r.status}`); return r.text(); }
   function issueFromQuery(manifest){ return new URLSearchParams(location.search).get('date') || manifest.latest; }
+
+  function cleanText(node){
+    if(!node) return '';
+    const copy=node.cloneNode(true);
+    copy.querySelectorAll('button,script,style').forEach(x=>x.remove());
+    return (copy.textContent||'').replace(/\s+/g,' ').trim();
+  }
+  function legacyLangTexts(article, lang){
+    const blocks=[...article.querySelectorAll(`[data-lang="${lang}"],[data-l="${lang}"]`)];
+    const paras=blocks.flatMap(b=>[...b.querySelectorAll('p')]).map(cleanText).filter(Boolean);
+    return paras.length ? paras : blocks.map(cleanText).filter(Boolean);
+  }
+  function legacyMeta(article){
+    return [...article.querySelectorAll('.meta .tag,.meta span')].map(cleanText).filter(Boolean);
+  }
+  function legacySources(article){
+    const seen=new Set();
+    return [...article.querySelectorAll('a[href]')].map(a=>({label:cleanText(a)||a.getAttribute('href'),url:a.getAttribute('href')})).filter(x=>x.url && !seen.has(x.url) && seen.add(x.url));
+  }
+  function legacyDetails(article){
+    return [...article.querySelectorAll('details')].map(d=>{
+      const title=cleanText(d.querySelector('summary'))||'補充';
+      const copy=d.cloneNode(true); copy.querySelector('summary')?.remove();
+      return {title,body:cleanText(copy)};
+    }).filter(x=>x.body);
+  }
+  function legacyTableRows(article, section){
+    const rows=[];
+    article.querySelectorAll('table').forEach(table=>{
+      [...table.querySelectorAll('tr')].forEach(tr=>{
+        if(tr.querySelector('th')) return;
+        const c=[...tr.querySelectorAll('td')].map(cleanText);
+        if(section==='english' && c.length>=6) rows.push({term:c[0],pos:c[1],ipa:c[2],zh:c[3],ja:c[4],usage:c[5]});
+        if(section==='japanese' && c.length>=5) rows.push({term:c[0],reading:c[1],zh:c[2],synonym:c[3],nuance:c[4]});
+      });
+    });
+    return rows;
+  }
+  function stripLegacyTitle(title, section){
+    let t=String(title||'').replace(/^\s*\d+\.\s*/,'').trim();
+    if(section==='japanese') t=t.replace(/^日本語\s*\d+\s*[｜|]\s*/,'').trim();
+    return t;
+  }
+  function legacyContentType(meta, section){
+    let base=meta.find(x=>/AI original|AIオリジナル/i.test(x)) || (section==='english'?'Legacy migrated article':'歴史資料移行記事');
+    if(meta.some(x=>/Deep Dive/i.test(x)) && !/Deep Dive/i.test(base)) base += ' · Deep Dive';
+    return base;
+  }
+  function parseLegacyIssue(html, issue){
+    const doc=new DOMParser().parseFromString(html,'text/html');
+    const nodes=[...doc.querySelectorAll('.article')];
+    if(nodes.length<8) throw new Error(`${issue}: legacy archive has only ${nodes.length} articles`);
+    const english=[]; const japanese=[];
+    nodes.forEach((node,i)=>{
+      const section=i<5?'english':'japanese';
+      const meta=legacyMeta(node);
+      const title=stripLegacyTitle(cleanText(node.querySelector('h2')),section);
+      const why=cleanText(node.querySelector('.why')) || '歷史內容移轉：保留原始正文與學習附件。';
+      const sources=legacySources(node);
+      const details=legacyDetails(node);
+      if(section==='english'){
+        const en=legacyLangTexts(node,'en'); const zh=legacyLangTexts(node,'zh'); const ja=legacyLangTexts(node,'ja');
+        const wordCount=(en.join(' ').match(/\b[\w’'-]+\b/g)||[]).length;
+        english.push({
+          id:`en-${issue.replaceAll('-','')}-${english.length+1}`,title,level:meta[0]||'Archive',contentType:legacyContentType(meta,section),date:issue,
+          readingTime:`${Math.max(2,Math.ceil(wordCount/180))} min`,wordCount,why,author:'OpenAI learning editor · legacy migration',sources,
+          paragraphs:en.map((text,j)=>({en:text,zh:zh[j]||'',ja:ja[j]||''})),vocabulary:legacyTableRows(node,section),phrases:[],grammar:details,business:[],quiz:[],
+          quality:'Legacy article migrated from the original published page. Original wording is preserved; only storage and rendering were normalized.'
+        });
+      }else{
+        const ja=legacyLangTexts(node,'ja'); const zh=legacyLangTexts(node,'zh'); const charCount=ja.join('').replace(/\s/g,'').length;
+        japanese.push({
+          id:`ja-${issue.replaceAll('-','')}-${japanese.length+1}`,title,level:meta[0]||'Archive',contentType:legacyContentType(meta,section),date:issue,
+          readingTime:`${Math.max(2,Math.ceil(charCount/500))} min`,charCount,why,author:'OpenAI learning editor · legacy migration',sources,
+          paragraphs:ja.map(text=>({ja:text})),zhExplanation:zh,vocabulary:legacyTableRows(node,section),collocations:[],grammar:details,consulting:[],summaries:[],conversation:[],quiz:[],
+          quality:'旧版の公開記事をそのまま移行し、保存場所と表示テンプレートだけを現行形式へ統一しています。'
+        });
+      }
+    });
+    return {english,japanese};
+  }
 
   function renderParagraphs(article){
     return arr(article.paragraphs).map((p,i)=>`<div class="tri paragraph-row">
@@ -83,7 +165,7 @@
     const items=state.section==='english'?data.english:data.japanese;
     $('#articleNav').innerHTML=items.map(a=>`<button type="button" class="nav-item" data-article-id="${esc(a.id)}"><small>${esc(a.level)}</small>${esc(a.title)}</button>`).join('');
     $$('.nav-item').forEach(b=>b.addEventListener('click',()=>showArticle(b.dataset.articleId)));
-    showArticle(items[0].id);
+    if(items[0]) showArticle(items[0].id);
   }
   function switchSection(section,data){
     state.section=section; speechSynthesis?.cancel();
@@ -104,7 +186,11 @@
       if(Array.isArray(data.parts)){
         const loaded=await Promise.all(data.parts.map(name=>loadJSON(`./data/${name}`)));
         data={...data,english:loaded.filter(x=>x.section==='english').map(x=>x.article),japanese:loaded.filter(x=>x.section==='japanese').map(x=>x.article)};
+      }else if(data.legacy && Array.isArray(data.legacy.files)){
+        const html=(await Promise.all(data.legacy.files.map(loadText))).join('');
+        data={...data,...parseLegacyIssue(html,issue)};
       }
+      if(!Array.isArray(data.english)||!Array.isArray(data.japanese)) throw new Error(`${issue}: invalid issue data`);
       $('#issueLabel').textContent=`｜${data.dateLabel}`; $('#pageTitle').textContent=data.title; $('#pageIntro').textContent=data.intro;
       $('#content').innerHTML=data.english.map(renderEnglish).join('')+data.japanese.map(renderJapanese).join('');
       $('#archiveLinks').innerHTML=manifest.issues.map(x=>`<a href="?date=${encodeURIComponent(x.id)}">${esc(x.label)}</a>`).join('');
