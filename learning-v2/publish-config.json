@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "project": "learning-v2",
+  "repository": "tom4318679/tom4318679.github.io",
+  "branch": "main",
+  "root": "learning-v2",
+  "manifest": "learning-v2/manifest.json",
+  "dataDir": "learning-v2/data",
+  "reader": "learning-v2/index.html",
+  "history": "learning-v2/history/index.html",
+  "publicLatest": "https://tom4318679.github.io/learning-v2/",
+  "canonicalTrigger": "發布",
+  "issueContract": {
+    "idPattern": "YYYY-MM-DD",
+    "englishParts": 5,
+    "japaneseParts": 3,
+    "totalParts": 8,
+    "descriptorPattern": "learning-v2/data/YYYY-MM-DD.json",
+    "englishPartPattern": "learning-v2/data/YYYY-MM-DD-en-N.json",
+    "japanesePartPattern": "learning-v2/data/YYYY-MM-DD-ja-N.json"
+  },
+  "preflight": [
+    "Read this file first and treat it as the single source of truth for publishing.",
+    "Read learning-v2/manifest.json live before every publish; never rely on a remembered latest date.",
+    "Use repository tom4318679/tom4318679.github.io exactly; never search for or assume a repository named learning-v2.",
+    "Treat learning-v2 as a directory only.",
+    "Publish the issue that is fully prepared in the current daily-brief context; do not infer or rebuild a full issue from a title/word-count summary alone.",
+    "Do not create a new YYYY-MM-DD directory for daily content.",
+    "If the target issue already exists, verify it first and update only what is incomplete or incorrect; do not duplicate files."
+  ],
+  "publishOrder": [
+    "Write or verify 5 English part JSON files.",
+    "Write or verify 3 Japanese part JSON files.",
+    "Write or verify learning-v2/data/YYYY-MM-DD.json with all 8 part references and validation metadata.",
+    "Read back all 8 parts plus the issue descriptor and verify counts/status.",
+    "Update learning-v2/manifest.json last, only after the issue is complete.",
+    "Read back manifest.json and confirm latest points to the completed issue.",
+    "Verify the public reader route /learning-v2/?date=YYYY-MM-DD can resolve through the same data contract."
+  ],
+  "validationContract": {
+    "englishCount": 5,
+    "japaneseCount": 3,
+    "requiredStatus": "target",
+    "minimumLineUsed": false,
+    "descriptorMustReferenceExactlyEightParts": true
+  },
+  "neverDo": [
+    "Never treat learning-v2 as a standalone repository.",
+    "Never update manifest.latest before the issue files are complete.",
+    "Never create daily content under learning-v2/YYYY-MM-DD/.",
+    "Never modify data/legacy during a normal daily publish.",
+    "Never silently regenerate or paraphrase a prepared issue when the full prepared content is unavailable.",
+    "Never use stale conversation history as the source of truth for repository path, latest issue, or file layout."
+  ],
+  "failurePolicy": [
+    "If GitHub access fails, stop without changing manifest and report the exact failing step.",
+    "If the full prepared issue payload is unavailable, do not fabricate it; report that publishing cannot be completed faithfully.",
+    "If any part fails validation, do not update manifest.latest.",
+    "If a partial issue exists, resume idempotently from the missing or invalid files instead of starting a second copy."
+  ],
+  "operationalMemory": {
+    "keep": [
+      "repository/path contract",
+      "5 English + 3 Japanese part contract",
+      "manifest-last publish order",
+      "validation requirements",
+      "canonical trigger: 發布"
+    ],
+    "ignore": [
+      "old standalone HTML/TXT storage details during normal publishing",
+      "old assumption that learning-v2 is a repository",
+      "remembered latest dates",
+      "obsolete date-folder publishing flow",
+      "old failed search behavior"
+    ]
+  }
+}
