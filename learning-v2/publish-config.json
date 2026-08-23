@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "project": "learning-v2",
   "repository": "tom4318679/tom4318679.github.io",
   "branch": "main",
@@ -21,10 +21,32 @@
     "englishPartPattern": "learning-v2/data/YYYY-MM-DD-en-N.json",
     "japanesePartPattern": "learning-v2/data/YYYY-MM-DD-ja-N.json"
   },
+  "japaneseLearningContract": {
+    "goal": "advanced practical Japanese: background knowledge, naturalness, nuance, and professional usage rather than English-style comprehension drills",
+    "bodyTargetCharsPerArticle": "1000-1200",
+    "zhExplanationItems": "2-3",
+    "vocabularyItems": "8-10",
+    "collocationItems": "3-4",
+    "grammarItems": "2-3",
+    "businessExpressionItems": "2-3",
+    "backgroundKnowledgeItems": "2-3",
+    "naturalNuanceItems": "2-3",
+    "requiredNewModules": [
+      "関連知識・背景理解",
+      "自然な言い換え・ニュアンス"
+    ],
+    "removedModules": [
+      "要約訓練",
+      "会話と雑談",
+      "理解と口頭表現"
+    ],
+    "costPolicy": "Keep the Japanese section near the previous total generation cost by shortening the core article and replacing low-value drill modules instead of only adding more content."
+  },
   "historyContract": {
     "singleEntry": "learning-v2/history/index.html",
     "currentIssue": "manifest entry without href; open /learning-v2/?date=YYYY-MM-DD",
     "legacyIssue": "manifest entry with href; open preserved original article page",
+    "previewIssue": "manifest entry with kind=preview; never set manifest.latest to a preview",
     "deprecatedHubs": [
       "learning/index.html",
       "learning/archive/index.html",
@@ -45,11 +67,11 @@
   ],
   "publishOrder": [
     "Write or verify 5 English part JSON files.",
-    "Write or verify 3 Japanese part JSON files.",
+    "Write or verify 3 Japanese part JSON files using japaneseLearningContract.",
     "Write or verify learning-v2/data/YYYY-MM-DD.json with all 8 part references and validation metadata.",
     "Read back all 8 parts plus the issue descriptor and verify counts/status.",
     "Update learning-v2/manifest.json last, only after the issue is complete.",
-    "Read back manifest.json and confirm latest points to the completed issue.",
+    "Read back manifest.json and confirm latest points to the completed issue, never a preview.",
     "Verify the public reader route /learning-v2/?date=YYYY-MM-DD can resolve through the same data contract."
   ],
   "validationContract": {
@@ -62,6 +84,7 @@
   "neverDo": [
     "Never treat learning-v2 as a standalone repository.",
     "Never update manifest.latest before the issue files are complete.",
+    "Never set manifest.latest to a preview issue.",
     "Never create daily content under learning-v2/YYYY-MM-DD/.",
     "Never modify preserved legacy article pages or data/legacy during a normal daily publish.",
     "Never silently regenerate or paraphrase a prepared issue when the full prepared content is unavailable.",
@@ -77,6 +100,7 @@
     "keep": [
       "repository/path contract",
       "5 English + 3 Japanese part contract",
+      "Japanese v2 learning contract",
       "manifest-last publish order",
       "validation requirements",
       "Learning v2 current/history are the only navigation hubs",
